@@ -9,4 +9,4 @@ https://maven.apache.org/install.html
 6. run commands: 
 mvn clean install
 7.if succcessed, run command:
-java -jar target/
+java -jar target/*.jar
