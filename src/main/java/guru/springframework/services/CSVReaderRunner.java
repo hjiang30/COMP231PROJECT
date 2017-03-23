@@ -24,6 +24,7 @@ public class CSVReaderRunner {
 
 	private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd");
 
+	//this method is invalid currently!
 	public static SortedMap<DateTime, FunData> readCsvFunForOneSymbol(String path, String symbol) throws IOException {
 		DateTime t = DateTime.now();
 		SortedMap<DateTime, FunData> result = new TreeMap<DateTime, FunData>();
@@ -83,6 +84,8 @@ public class CSVReaderRunner {
 		return symbols;
 
 	}
+	
+	//this one is the correct one!
 
 	public static SortedMap<DateTime, HistoricalData> readCsvForOneSymbol(String path, String symbol)
 			throws IOException {
