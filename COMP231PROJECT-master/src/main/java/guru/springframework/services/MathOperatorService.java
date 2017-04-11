@@ -201,6 +201,86 @@ public class MathOperatorService {
 					(t1, s) -> (new ImmutablePair(t1.getLeft(), new ImmutableTriple<Double, Double, Double>(t1.getRight(),
 							s.getRight(), t1.getRight() - s.getRight()))));
 		}
+		
+		
+		public static Observable<Pair<DateTime, Double>> RSI(Observable<Pair<DateTime, Double>> close, int N) {
+			Observable<Pair<DateTime, Double>> diff = MathOperatorService.DIFF(close);
+
+			Observable<Pair<DateTime, Double>> uSeries = diff
+					.map(x -> new ImmutablePair(x.getLeft(), upperLadderFunction(x.getRight())));
+
+			Observable<Pair<DateTime, Double>> lSeries = diff
+					.map(x -> new ImmutablePair(x.getLeft(), lowerLadderFunction(x.getRight())));
+
+			Observable<Pair<DateTime, Double>> emaU = MathOperatorService.SMA(uSeries, N);
+
+			Observable<Pair<DateTime, Double>> emaL = MathOperatorService.SMA(lSeries, N);
+
+			return Observable.zip(emaU, emaL,
+					(h, l) -> new ImmutablePair(h.getLeft(), 100 - 100 / (1 - h.getRight() / l.getRight())));
+		};
+		
+		// one order diff of timeseries
+		public static Observable<Pair<DateTime, Double>> DIFF(Observable<Pair<DateTime, Double>> o) {
+
+			Observable<DateTime> t = o.map(x -> x.getLeft()).skip(1);
+			Observable<Double> v = o.map(x -> x.getRight()).window(2, 1).skipLast(1)
+					.flatMap(win -> win.reduce(0.0, (s, c) -> {
+						return ((-1) * s + c);
+					}));
+
+			return Observable.zip(t, v, (a, b) -> new ImmutablePair(a, b));
+
+		}
+		
+		public static double upperLadderFunction(double a) {
+			if (a >= 0)
+				return a;
+			else {
+				return 0.0;
+			}
+
+		}
+
+		public static double lowerLadderFunction(double a) {
+			if (a <= 0)
+				return a;
+			else {
+				return 0.0;
+			}
+
+		}
+		
+		public static Observable<Triple<DateTime, Double, Double>> KDJ(Observable<Pair<DateTime, Double>> close,
+				Observable<Pair<DateTime, Double>> high, Observable<Pair<DateTime, Double>> low, int N, int A) {
+
+			Observable<Pair<DateTime, Double>> hoh = MathOperatorService.HOH(high, N);
+			Observable<Pair<DateTime, Double>> lol = MathOperatorService.LOL(low, N);
+
+			Observable<Pair<DateTime, Double>> k = Observable.zip(close.skip(N - 1), hoh, lol,
+					(c, h, l) -> new ImmutablePair(c.getLeft(),
+							100 * (c.getRight() - l.getRight()) / (h.getRight() - l.getRight())));
+
+			Observable<Pair<DateTime, Double>> d = MathOperatorService.SMA(k, A);
+
+			Observable<Triple<DateTime, Double, Double>> result = Observable.zip(k.skip(A - 1), d,
+					(k_, d_) -> new ImmutableTriple(k_.getLeft(), k_.getRight(), d_.getRight()));
+			return result;
+
+		}
+		
+		public static Observable<Pair<DateTime, Triple<Double, Double, Double>>> BOLL(
+				Observable<Pair<DateTime, Double>> close, int N, double alpha) {
+			Observable<Pair<DateTime, Double>> middleLine = MathOperatorService.SMA(close, N);
+			Observable<Pair<DateTime, Double>> std = MathOperatorService.STD(close, N);
+			Observable<Pair<DateTime, Double>> upperBound = Observable.zip(middleLine, std,
+					(m, d) -> new ImmutablePair(m.getLeft(), m.getRight() + d.getRight() * alpha));
+			Observable<Pair<DateTime, Double>> lowerBound = Observable.zip(middleLine, std,
+					(m, d) -> new ImmutablePair(m.getLeft(), m.getRight() - d.getRight() * alpha));
+
+			return Observable.zip(lowerBound, middleLine, upperBound, (a, b, c) -> new ImmutablePair(a.getLeft(),
+					new ImmutableTriple<Double, Double, Double>(a.getRight(), b.getRight(), c.getRight())));
+		}
 	
 	
 }

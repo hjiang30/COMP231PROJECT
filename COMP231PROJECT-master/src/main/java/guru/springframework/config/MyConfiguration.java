@@ -18,6 +18,7 @@ import org.springframework.context.annotation.Configuration;
 import guru.springframework.services.CrossDownRule;
 import guru.springframework.services.CrossRule;
 import guru.springframework.services.CrossUpRule;
+import guru.springframework.services.DisPlayService;
 import guru.springframework.services.LargerThanRule;
 import guru.springframework.services.LoadCSVService;
 import guru.springframework.services.MathOperatorService;
@@ -70,6 +71,12 @@ public class MyConfiguration {
 	public MathOperatorService getMathOperatorService() {
 		return new MathOperatorService();
 	}
+	
+	
+	@Bean
+	public DisPlayService getDisPlayService() {
+		return new DisPlayService();
+	}
 
 	@Bean
 	public InputParameterSet getInputParameterSet() {
@@ -97,6 +104,12 @@ public class MyConfiguration {
 	{
 		return new SimpleDateFormat("yyyy-MM-dd");
 	}
+	
+	@Bean
+	public DateTimeFormatter getDateTimeFormatter() {
+		return DateTimeFormat.forPattern("yyyy-MM-dd");
+	}
+	
 
 	
 
