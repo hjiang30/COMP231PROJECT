@@ -45,7 +45,8 @@ def download(symbol,start,end,source='yahoo'):
         logger.error(symbol+"download hist data error!")
         
 #print(symbols)
-symbols = getSymbols()
+#symbols = getSymbols()
+symbols = ["STO","XOM","CVX","BP","DHR","BUD","ABT","HAL","INTC","AMZN","DD","KHC","UL","INFY","VOD","MMM","FOX","HDB","WBA","LLY","RELX","EOG","GSK","WBK","PUK","LMT","CMCSA","EPD","SLB","KMI","TOT","MDLZ","CELG","ASML","SNP","COP","MCK","ORAN","GOOGL","NVS","MTU","OXY","UTX","NGG","GIS","SAP","AVGO","IBM","SO","TJX","UNP","GE","SNP","NEE","MFG","GILD","CHA","PTR","TEVA","OXY","FOX","ORAN"]
 for symbol in symbols:
     download(symbol.rstrip('\n'),two_month_ago,time_end)
 #download("LBTYB",two_month_ago,time_end)
