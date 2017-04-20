@@ -19,6 +19,12 @@ public class IndexController {
 	private static Map<String, List<String>> data = new HashMap<String, List<String>>();
 
 	public IndexController() {
+		
+		List<String> onlyClose = new ArrayList<String>();
+		onlyClose.add("HII");
+		onlyClose.add("COHR");
+		
+		
 		List<String> onlyBoll = new ArrayList<String>();
 		onlyBoll.add("IBM");
 		onlyBoll.add("SO");
@@ -97,6 +103,7 @@ public class IndexController {
 		data.put("0010", onlyRSI);
 		data.put("1000", onlyMACD);
 		data.put("0001", onlyWilliam);
+		data.put("9999", onlyClose);
 	}
 
 	@RequestMapping("/")
@@ -129,7 +136,7 @@ public class IndexController {
 			results = IndexController.data.get("0100");
 			break;
 		default:
-			results = new ArrayList<String>();
+			results = IndexController.data.get("9999");
 			break;
 
 		}
