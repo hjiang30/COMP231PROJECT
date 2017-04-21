@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 
 import org.json.JSONArray;
 import org.springframework.stereotype.Controller;
@@ -15,16 +16,25 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.thymeleaf.TemplateEngine;
 
 import com.google.gson.Gson;
 
 import guru.springframework.domain.Screener;
+import guru.springframework.domain.StockInfo;
+import guru.springframework.util.CSVReaderForInfo;
 
 @Controller
 public class IndexController {
 	private static Map<String, List<String>> data = new HashMap<String, List<String>>();
+	
+	private List<StockInfo> dataset = new ArrayList<StockInfo>();
+	
+	private List<StockInfo> results = new ArrayList<StockInfo>();
 
 	public IndexController() {
+		
+		dataset = CSVReaderForInfo.readStockInfo("data/");
 		
 		List<String> onlyClose = new ArrayList<String>();
 		onlyClose.add("HII");
@@ -169,17 +179,111 @@ public class IndexController {
 	 @GetMapping("/")
 	    public String greetingForm(Model model) {
 	        model.addAttribute("screener", new Screener());
+	        model.addAttribute("results", results);
 	        return "index";
+	    }
+	 
+	 @ModelAttribute("messages")
+	    public List<String> messages() {
+		 List<String> test = new ArrayList<String>();
+		 test.add("test");
+	        return test;
 	    }
 	
 	
 	@PostMapping("/screener")
-    public String greetingSubmit(@ModelAttribute Screener screener) {
+    public String greetingSubmit(Model model,@ModelAttribute Screener screener) {
 		System.out.println(screener.getExchange());
 		System.out.println(screener.getSector());
 		System.out.println("called.");
-        return "index";
+		
+		results = filterDataSet(screener);
+		//System.out.println(results.size());
+		return resultPost(model,results);
+        //return "results";
     }
+	
+	 @GetMapping("/result")
+	    public String result(Model model) {
+	        model.addAttribute("results", results);
+	        return "results";
+	    }
+	 
+	 @PostMapping("/result")
+	    public String resultPost(Model model,@ModelAttribute List<StockInfo> results_) {
+		 model.addAttribute("supertests", results_);
+		 System.out.println(results_.size());
+		 //TemplateEngine templateEngine = GTVGApplication.getTemplateEngine();
+		 //model.addAttribute("results2", results);
+			
+	        return "results";
+	    }
+	
+	
+	
+	
+	
+	public List<StockInfo> filterDataSet(Screener screener)
+	{
+		System.out.println("origin..");
+		System.out.println(this.dataset.size());
+		if(screener.getExchange() != null && !screener.getExchange().isEmpty())
+		{
+			System.out.println(screener.getExchange());
+			this.dataset = this.dataset.stream().filter(stockinfo-> stockinfo.getExchange().equals(screener.getExchange())).collect(Collectors.toList());
+		}
+		
+		if(screener.getSector() != null && !screener.getSector().isEmpty())
+		{
+			System.out.println(screener.getSector());
+			this.dataset = this.dataset.stream().filter(stockinfo-> stockinfo.getSector().equals(screener.getSector())).collect(Collectors.toList());
+		}
+		
+		
+		if(screener.getPriceBiggerValue() != null && !screener.getPriceBiggerValue().isEmpty())
+		{
+			System.out.println(screener.getPriceBiggerValue());
+			Double priceBiggerValue = Double.parseDouble(screener.getPriceBiggerValue());
+			this.dataset = this.dataset.stream()
+					.filter(stockinfo->stockinfo.getSharePrice()!=null)
+					
+					.filter(stockinfo-> Double.parseDouble(stockinfo.getSharePrice()) > priceBiggerValue ).collect(Collectors.toList());
+		}
+		
+		
+		if(screener.getPriceSmallerValue() != null && !screener.getPriceSmallerValue().isEmpty())
+		{
+			System.out.println(screener.getPriceSmallerValue());
+			Double priceSmallerValue = Double.parseDouble(screener.getPriceSmallerValue());
+			this.dataset = this.dataset.stream()
+					.filter(stockinfo->stockinfo.getSharePrice()!=null)
+					
+					.filter(stockinfo-> Double.parseDouble(stockinfo.getSharePrice()) < priceSmallerValue ).collect(Collectors.toList());
+		}
+		
+		if(screener.getMcBiggerThanValue() != null && !screener.getMcBiggerThanValue().isEmpty())
+		{
+			System.out.println(screener.getMcBiggerThanValue());
+			Double mcBiggerThanValue = Double.parseDouble(screener.getMcBiggerThanValue());
+			this.dataset = this.dataset.stream()
+					.filter(stockinfo->stockinfo.getMarketCap()!=null)
+					
+					.filter(stockinfo-> stockinfo.getMarketCap() > mcBiggerThanValue ).collect(Collectors.toList());
+		}
+		
+		if(screener.getMcSmallerThanValue()!= null && !screener.getMcSmallerThanValue().isEmpty())
+		{
+			System.out.println(screener.getMcSmallerThanValue());
+			Double mcSmallerThanValue = Double.parseDouble(screener.getMcSmallerThanValue());
+			this.dataset = this.dataset.stream()
+					.filter(stockinfo->stockinfo.getMarketCap()!=null)
+					
+					.filter(stockinfo-> stockinfo.getMarketCap() < mcSmallerThanValue ).collect(Collectors.toList());
+		}
+		this.dataset.stream().forEach(stock->{System.out.println(stock.getName());});
+		
+		return this.dataset;
+	}
 	
 	
 }

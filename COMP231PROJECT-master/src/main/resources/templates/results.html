@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Handling Form Submission</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+	<div class="row">
+                    <div class="col-lg-6">
+                        <h2>Stock Result</h2>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Symbol</th>
+                                        <th>Company Name</th>
+                                        <th>Price</th>
+					<th>MarketCap</th>
+                                        <th>Sector</th>
+					<th>Exchange</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+       					<tr th:each="prod : ${supertests}" >
+    					<td th:text="${prod.symbol}">Onions</td>
+    					<td th:text="${prod.name}">Onions</td>
+    
+    					<td th:text="${prod.sharePrice}">2.41</td>
+    					<td th:text="${prod.marketCap}">2.41</td>
+    					<td th:text="${prod.sector}">2.41</td>
+    					<td th:text="${prod.exchange}">2.41</td>
+  				   </tr>
+                
+                                    
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+</div>
+</body>
+</html>
