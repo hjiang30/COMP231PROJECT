@@ -7,12 +7,18 @@ import java.util.Map;
 
 import org.json.JSONArray;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.google.gson.Gson;
+
+import guru.springframework.domain.Screener;
 
 @Controller
 public class IndexController {
@@ -106,10 +112,10 @@ public class IndexController {
 		data.put("9999", onlyClose);
 	}
 
-	@RequestMapping("/")
-	String index() {
-		return "index";
-	}
+//	@RequestMapping("/")
+//	String index() {
+//		return "index";
+//	}
 
 	@RequestMapping(value = "/select", method = RequestMethod.POST)
 	public @ResponseBody JSONArray rsi2(@RequestBody String what) {
@@ -159,4 +165,21 @@ public class IndexController {
 		System.out.println(jsonAraay);
 		return jsonAraay;
 	}
+	
+	 @GetMapping("/")
+	    public String greetingForm(Model model) {
+	        model.addAttribute("screener", new Screener());
+	        return "index";
+	    }
+	
+	
+	@PostMapping("/screener")
+    public String greetingSubmit(@ModelAttribute Screener screener) {
+		System.out.println(screener.getExchange());
+		System.out.println(screener.getSector());
+		System.out.println("called.");
+        return "index";
+    }
+	
+	
 }
