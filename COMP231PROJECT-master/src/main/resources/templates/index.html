@@ -1,15 +1,209 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:th="http://www.thymeleaf.org">
 <head lang="en">
-
+ 
     <title>Spring Framework Guru</title>
-
-     <th:block th:include="fragments/headerinc :: head"></th:block> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ 
+    <link href="http://cdn.jsdelivr.net/webjars/bootstrap/3.3.4/css/bootstrap.min.css"
+          th:href="@{/webjars/bootstrap/3.3.4/css/bootstrap.min.css}"
+          rel="stylesheet" media="screen" />
+ 
+    <script src="http://cdn.jsdelivr.net/webjars/jquery/2.1.4/jquery.min.js"
+            th:src="@{/webjars/jquery/2.1.4/jquery.min.js}"></script>
+ 
+    <link href="../static/css/guru.css"
+          th:href="@{css/guru.css}" rel="stylesheet" media="screen"/>
+          
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-
 <div class="container">
-    <th:block th:include="fragments/header :: header"></th:block>
+    <div class="jumbotron">
+       
+        <h1>Hello</h1>
+ 
+        <h2>Fellow Spring Framework Gurus!!!</h2>
+    </div>
+    
+     <div class="row">
+         <div class="col-lg-6">
+         <h2>Stock Result</h2>
+         <div class="table-responsive">
+                            <table class="table table-bordered table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Criteria</th>
+                                        <th>Condition</th>
+                                        <th>Values</th>
+                                        
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                 <tr>
+                                 <td>Exchange</td>
+    					 			<td>
+    					 			<select name="exchangeSign">
+                        			<option value="0">=</option>
+                        			<option value="1">!=</option>
+                        
+                        			</select>
+    					 			</td>
+     					 			
+					 				<td>
+					 				<select name="exchangeValue">
+                        			<option value="NYSE">NYSE</option>
+                        			<option value="NASDAQ">NASDAQ</option>
+                        
+                        			</select>
+					 				</td>
+					 				</tr>
+					 				<tr>
+					 				<td>Sector</td>
+    					 			<td>
+    					 			<select name="sector">
+                        			<option value="0">=</option>                      			
+  
+                        			</select>
+    					 			</td>
+     					 			
+					 				<td>
+					 				<select name="sectorValue">
+                        			<option value="Consumer Discretionary">Consumer Discretionary</option>
+                        			
+                        			<option value="Consumer Staples">Consumer Staples</option>
+                        			<option value="Energy">Energy</option>
+                        			<option value="Financials">Financials</option>
+                        			<option value="Health Care">Health Care</option>
+                        			<option value="Information Technology">Information Technology</option>
+                        			<option value="Materials">Materials</option>
+                        			<option value="Real Estate">Real Estate</option>
+                        			<option value="Telecommunication Services">Telecommunication Services</option>
+                        
+                        			<option value="Utilities">Utilities</option>
+                        			</select>
+					 				</td>
+					 				</tr>
+					 				<tr>
+					 				<td>Share Price</td>
+    					 			<td>
+    					 			<select name="priceBiggerSign">
+                        			<option value="0">more than</option>
+                        			
+                        
+                        			</select>
+    					 			</td>
+     					 			
+					 				<td>
+					 				<select name="priceBiggerValue">
+                        			<option value="0">0</option>
+                        			<option value="0.01">0.01</option>
+                        			<option value="0.25">0.25</option>
+                        			<option value="0.5">0.5</option>
+                        			<option value="1">1</option>
+                        			<option value="5">5</option>
+                        			<option value="10">10</option>
+                        			<option value="15">15</option>
+                        			<option value="20">20</option>
+                        			<option value="25">25</option>
+                        			<option value="30">30</option>
+                        			<option value="40">40</option>
+                        			<option value="50">50</option>
+                        			<option value="75">75</option>
+                        			<option value="100">100</option>
+                        			<option value="500">500</option>
+                        			</select>
+					 				</td>
+					 				</tr>
+					 				<tr>
+					 				<td>Share Price</td>
+    					 			<td>
+    					 			<select name="priceSmallerSign">
+                        			<option value="0">less than</option>
+                        			
+                        
+                        			</select>
+    					 			</td>
+     					 			
+					 				<td>
+					 				<select name="priceSmallerValue">
+                        			<option value="0">0</option>
+                        			<option value="0.01">0.01</option>
+                        			<option value="0.25">0.25</option>
+                        			<option value="0.5">0.5</option>
+                        			<option value="1">1</option>
+                        			<option value="5">5</option>
+                        			<option value="10">10</option>
+                        			<option value="15">15</option>
+                        			<option value="20">20</option>
+                        			<option value="25">25</option>
+                        			<option value="30">30</option>
+                        			<option value="40">40</option>
+                        			<option value="50">50</option>
+                        			<option value="75">75</option>
+                        			<option value="100">100</option>
+                        			<option value="500">500</option>
+                        			</select>
+					 				</td>
+					 				</tr>
+					 				<tr>
+					 				<td>Market Capitalization</td>
+    					 			<td>
+    					 			<select name="mcBiggerThanSign">
+                        			<option value="0">more than</option>
+                        			
+                        
+                        			</select>
+    					 			</td>
+     					 			
+					 				<td>
+					 				<select name="mcBiggerThanValue">
+                        			<option value="1b">1b</option>
+                        			<option value="5b">5b</option>
+                        			<option value="10b">10b</option>
+                        			<option value="20b">20b</option>
+                        			<option value="50b">50b</option>
+                        			<option value="75b">75b</option>
+                        			<option value="100b">100b</option>
+                        			<option value="200b">200b</option>
+                        
+                        			</select>
+					 				</td>
+					 				</tr>
+					 				<tr>
+					 				<td>Market Capitalization</td>
+    					 			<td>
+    					 			<select name="mcSmallerThanSign">
+                        			<option value="0">less than</option>
+                        			
+                        
+                        			</select>
+    					 			</td>
+     					 			
+					 				<td>
+					 				<select name="mcSmallerThanValue">
+                        			<option value="1b">1b</option>
+                        			<option value="5b">5b</option>
+                        			<option value="10b">10b</option>
+                        			<option value="20b">20b</option>
+                        			<option value="50b">50b</option>
+                        			<option value="75b">75b</option>
+                        			<option value="100b">100b</option>
+                        			<option value="200b">200b</option>
+                        
+                        			</select>
+					 				</td>
+					 				
+   								</tr>
+             
+                
+                                    
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
 </div>
+ </div>
 </body>
 </html>
