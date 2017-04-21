@@ -4,26 +4,28 @@ import org.joda.time.DateTime;
 
 public class Quote {
 	
-	private DateTime t;
+	public String dateTime;
 	
-	private String openPrice;
+	public String openPrice;
 
-	private String highPrice;
+	public String highPrice;
 
-	private String lowPrice;
+	public String lowPrice;
 
-	private String closePrice;
+	public String closePrice;
 
-	private String adjClosePrice;
+	public String adjClosePrice;
 
-	private String volume;
+	public String volume;
 
-	public DateTime getT() {
-		return t;
+
+
+	public String getDateTime() {
+		return dateTime;
 	}
 
-	public void setT(DateTime t) {
-		this.t = t;
+	public void setDateTime(String dateTime) {
+		this.dateTime = dateTime;
 	}
 
 	public String getOpenPrice() {

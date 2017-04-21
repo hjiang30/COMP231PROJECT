@@ -15,19 +15,19 @@ public class StockInfo {
 	
 	private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd");
 	
-	private String symbol;
+	public String symbol;
 	
-	private String name;
+	public String name;
 	
-	private String sector;
+	public String sector;
 	
-	private Double marketCap;
+	public Double marketCap;
 	
-	private String exchange;
+	public String exchange;
 	
-	private String sharePrice;
+	public String sharePrice;
 	
-	private List<Quote> priceSeries = new ArrayList<Quote>();
+	public List<Quote> priceSeries = new ArrayList<Quote>();
 
 	public String getSymbol() {
 		return symbol;
@@ -89,7 +89,7 @@ public class StockInfo {
 			while ((line = reader.readNext()) != null) {
 				Quote data = new Quote();
 				DateTime t = new DateTime(DATE_FORMAT.parse(line[0]));
-				data.setT(t);
+				data.setDateTime(t.toString());
 				data.setAdjClosePrice(line[6]);
 				data.setClosePrice(line[4]);
 				data.setHighPrice(line[2]);

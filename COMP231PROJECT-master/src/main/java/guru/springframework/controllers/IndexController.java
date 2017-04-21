@@ -193,30 +193,41 @@ public class IndexController {
 	
 	@PostMapping("/screener")
     public String greetingSubmit(Model model,@ModelAttribute Screener screener) {
-		System.out.println(screener.getExchange());
-		System.out.println(screener.getSector());
-		System.out.println("called.");
-		
+//		System.out.println(screener.getExchange());
+//		System.out.println(screener.getSector());
+//		System.out.println("called.");
+		results = new ArrayList<StockInfo>();
 		results = filterDataSet(screener);
 		//System.out.println(results.size());
-		return resultPost(model,results);
+		return result(model);
         //return "results";
     }
 	
 	 @GetMapping("/result")
 	    public String result(Model model) {
-	        model.addAttribute("results", results);
+	        //model.addAttribute("results", results);
+		 model.addAttribute("supertests", results);
 	        return "results";
 	    }
 	 
+	 @GetMapping("/plot")
+	    public String plot(Model model) {
+	        //model.addAttribute("results", results);
+		 model.addAttribute("supertests", results);
+	        return "plot";
+	    }
+	 
 	 @PostMapping("/result")
-	    public String resultPost(Model model,@ModelAttribute List<StockInfo> results_) {
-		 model.addAttribute("supertests", results_);
-		 System.out.println(results_.size());
+	    public String resultPost(Model model) {
+		 //model.addAttribute("supertests", results_);
+		 System.out.println("button clicked");
+		 System.out.println(results.size());
+		 //results = new ArrayList<StockInfo>();
 		 //TemplateEngine templateEngine = GTVGApplication.getTemplateEngine();
 		 //model.addAttribute("results2", results);
-			
-	        return "results";
+		 model.addAttribute("screener", new Screener());
+		 plot(model);
+	        return "plot";
 	    }
 	
 	
