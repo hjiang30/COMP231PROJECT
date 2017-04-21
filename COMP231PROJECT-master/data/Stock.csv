@@ -1,0 +1,2783 @@
+AAPL US Equity,APPLE INC,580496982016,,NASDAQ GS,,Information Technology
+GOOGL US Equity,ALPHABET INC-A,538316570624,,NASDAQ GS,,Information Technology
+GOOG US Equity,ALPHABET INC-C,538316570624,,NASDAQ GS,,Information Technology
+MSFT US Equity,MICROSOFT CORP,449394376704,,NASDAQ GS,,Information Technology
+BRK/B US Equity,BERKSHIRE HATH-B,371619233792,,New York,,Financials
+BRK/A US Equity,BERKSHIRE HATH-A,371619233792,,New York,,Financials
+AMZN US Equity,AMAZON.COM INC,366193377280,,NASDAQ GS,,Consumer Discretionary
+FB US Equity,FACEBOOK INC-A,363251728384,,NASDAQ GS,,Information Technology
+XOM US Equity,EXXON MOBIL CORP,362500161536,,New York,,Energy
+JNJ US Equity,JOHNSON&JOHNSON,326444810240,,New York,,Health Care
+GE US Equity,GENERAL ELECTRIC,280396988416,,New York,,Industrials
+WFC US Equity,WELLS FARGO & CO,255052414976,,New York,,Financials
+CHL US Equity,CHINA MOBILE-ADR,253486481408,,New York,,Telecommunication Services
+T US Equity,AT&T INC,251924398080,,New York,,Telecommunication Services
+BABA US Equity,ALIBABA GRP-ADR,247656218624,,New York,,Information Technology
+JPM US Equity,JPMORGAN CHASE,243772686336,,New York,,Financials
+PG US Equity,PROCTER & GAMBLE,235439833088,,New York,,Consumer Staples
+WMT US Equity,WAL-MART STORES,224261177344,,New York,,Consumer Staples
+VZ US Equity,VERIZON COMMUNIC,215554834432,,New York,,Telecommunication Services
+PFE US Equity,PFIZER INC,210902728704,,New York,,Health Care
+NVS US Equity,NOVARTIS AG-ADR,208540368896,,New York,,Health Care
+RDS/B US Equity,ROYAL DUTCH-ADR,205824425984,,New York,,Energy
+RDS/A US Equity,ROYAL DUTCH-ADR,205824425984,,New York,,Energy
+BUD US Equity,ANHEUSER-SPN ADR,203860770816,,New York,,Consumer Staples
+TM US Equity,TOYOTA MOTOR-ADR,203751374848,,New York,,Consumer Discretionary
+PTR US Equity,PETROCHINA -ADR,195264233472,,New York,,Energy
+V US Equity,VISA INC-CLASS A,193586413568,,New York,,Information Technology
+CVX US Equity,CHEVRON CORP,190406508544,,New York,,Energy
+KO US Equity,COCA-COLA CO/THE,188437839872,,New York,,Consumer Staples
+MRK US Equity,MERCK & CO,174152810496,,New York,,Health Care
+INTC US Equity,INTEL CORP,170694475776,,NASDAQ GS,,Information Technology
+ORCL US Equity,ORACLE CORP,170062610432,,New York,,Information Technology
+HD US Equity,HOME DEPOT INC,166987776000,,New York,,Consumer Discretionary
+BAC US Equity,BANK OF AMERICA,163276783616,,New York,,Financials
+CSCO US Equity,CISCO SYSTEMS,160095731712,,NASDAQ GS,,Information Technology
+CMCSA US Equity,COMCAST CORP-A,159566397440,,NASDAQ GS,,Consumer Discretionary
+PM US Equity,PHILIP MORRIS IN,157878550528,,New York,,Consumer Staples
+PEP US Equity,PEPSICO INC,155241955328,,New York,,Consumer Staples
+HSBC US Equity,HSBC HOLDING-ADR,153659736064,,New York,,Financials
+IBM US Equity,IBM,152504942592,,New York,,Information Technology
+DIS US Equity,WALT DISNEY CO,151742496768,,New York,,Consumer Discretionary
+TSM US Equity,TAIWAN SEMIC-ADR,151122264064,,New York,,Information Technology
+UN US Equity,UNILEVER NV-NYS,145895636992,,New York,,Consumer Staples
+UL US Equity,UNILEVER PLC-ADR,145838063616,,New York,,Consumer Staples
+C US Equity,CITIGROUP INC,138034315264,,New York,,Financials
+MO US Equity,ALTRIA GROUP INC,130673795072,,New York,,Consumer Staples
+UNH US Equity,UNITEDHEALTH GRP,130106187776,,New York,,Health Care
+AMGN US Equity,AMGEN INC,127049228288,,NASDAQ GS,,Health Care
+TOT US Equity,TOTAL SA-SP ADR,122540040192,,New York,,Energy
+MDT US Equity,MEDTRONIC PLC,121682583552,,New York,,Health Care
+NVO US Equity,NOVO-NORDISK-ADR,116790001664,,New York,,Health Care
+SAP US Equity,SAP SE-SPONS ADR,110123122688,,New York,,Information Technology
+MMM US Equity,3M CO,109281615872,,New York,,Industrials
+SLB US Equity,SCHLUMBERGER LTD,109238976512,,New York,,Energy
+KHC US Equity,KRAFT HEINZ CO/T,109113696256,,NASDAQ GS,,Consumer Staples
+BP US Equity,BP PLC-ADR,108010684416,,New York,,Energy
+GSK US Equity,GLAXOSMITHKL-ADR,107895480320,,New York,,Health Care
+MA US Equity,MASTERCARD INC-A,107458117632,,New York,,Information Technology
+ABBV US Equity,ABBVIE INC,104422137856,,New York,,Health Care
+DCM US Equity,NTT DOCOMO-ADR,101972066304,,New York,,Telecommunication Services
+GILD US Equity,GILEAD SCIENCES,101468545024,,NASDAQ GS,,Health Care
+SNY US Equity,SANOFI-ADR,101006868480,,New York,,Health Care
+CVS US Equity,CVS HEALTH CORP,100053614592,,New York,,Consumer Staples
+MCD US Equity,MCDONALDS CORP,98844917760,,New York,,Consumer Discretionary
+NKE US Equity,NIKE INC -CL B,97352515584,,New York,,Consumer Discretionary
+UPS US Equity,UNITED PARCEL-B,96227221504,,New York,,Industrials
+ABEV US Equity,AMBEV SA-ADR,96156098560,,New York,,Consumer Staples
+NTT US Equity,NIPPON TELEG-ADR,94987632640,,New York,,Telecommunication Services
+BMY US Equity,BRISTOL-MYER SQB,94152876032,,New York,,Health Care
+AGN US Equity,ALLERGAN PLC,93428883456,,New York,,Health Care
+QCOM US Equity,QUALCOMM INC,93355622400,,NASDAQ GS,,Information Technology
+SNP US Equity,CHINA PETRO-ADR,89934929920,,New York,,Energy
+UTX US Equity,UNITED TECH CORP,89492594688,,New York,,Industrials
+WBA US Equity,WALGREENS BOOTS,88988147712,,NASDAQ GS,,Consumer Staples
+HON US Equity,HONEYWELL INTL,88558206976,,New York,,Industrials
+LFC US Equity,CHINA LIFE-ADR,86252036096,,New York,,Financials
+LLY US Equity,ELI LILLY & CO,84830371840,,New York,,Health Care
+CHTR US Equity,CHARTER COMMUN-A,84594270208,,NASDAQ GS,,Consumer Discretionary
+AZN US Equity,ASTRAZENECA-ADR,84273217536,,New York,,Health Care
+SBUX US Equity,STARBUCKS CORP,82393587712,,NASDAQ GS,,Consumer Discretionary
+VOD US Equity,VODAFONE GRP-ADR,82225799168,,NASDAQ GS,,Telecommunication Services
+BA US Equity,BOEING CO/THE,81821007872,,New York,,Industrials
+CELG US Equity,CELGENE CORP,81766850560,,NASDAQ GS,,Health Care
+MTU US Equity,MITSUBISHI U-ADR,79912337408,,New York,,Financials
+UNP US Equity,UNION PAC CORP,79360032768,,New York,,Industrials
+BHP US Equity,BHP BILLITON-ADR,77105520640,,New York,,Materials
+BBL US Equity,BHP BILLITON-ADR,76391497728,,New York,,Materials
+USB US Equity,US BANCORP,75581325312,,New York,,Financials
+ACN US Equity,ACCENTURE PLC-A,75395604480,,New York,,Information Technology
+WBK US Equity,WESTPAC BANK-ADR,74519134208,,New York,,Financials
+LMT US Equity,LOCKHEED MARTIN,73703038976,,New York,,Industrials
+DEO US Equity,DIAGEO PLC-ADR,72888893440,,New York,,Consumer Staples
+RAI US Equity,REYNOLDS AMERICA,72351924224,,New York,,Consumer Staples
+GS US Equity,GOLDMAN SACHS GP,71947182080,,New York,,Financials
+PCLN US Equity,PRICELINE GROUP,70327140352,,NASDAQ GS,,Consumer Discretionary
+TXN US Equity,TEXAS INSTRUMENT,69903654912,,NASDAQ GS,,Information Technology
+COST US Equity,COSTCO WHOLESALE,69205598208,,NASDAQ GS,,Consumer Staples
+MDLZ US Equity,MONDELEZ INTER-A,68739088384,,NASDAQ GS,,Consumer Staples
+BIIB US Equity,BIOGEN INC,68714078208,,NASDAQ GS,,Health Care
+AVGO US Equity,BROADCOM LTD,68468219904,,NASDAQ GS,,Information Technology
+SPG US Equity,SIMON PROPERTY,68090851328,,New York,,Real Estate
+LOW US Equity,LOWE'S COS INC,67313790976,,New York,,Consumer Discretionary
+CL US Equity,COLGATE-PALMOLIV,66763919360,,New York,,Consumer Staples
+SAN US Equity,BANCO SANTAN-ADR,65821286400,,New York,,Financials
+AIG US Equity,AMERICAN INTERNA,64089702400,,New York,,Financials
+ITUB US Equity,ITAU UNIBANC-ADR,63350599680,,New York,,Financials
+ABT US Equity,ABBOTT LABS,61872107520,,New York,,Health Care
+BIDU US Equity,BAIDU INC-SP ADR,61556367360,,NASDAQ GS,,Information Technology
+HDB US Equity,HDFC BANK-ADR,61479120896,,New York,,Financials
+BLK US Equity,BLACKROCK INC,61375225856,,New York,,Financials
+DD US Equity,DU PONT (EI),61281439744,,New York,,Materials
+TWX US Equity,TIME WARNER INC,61083951104,,New York,,Consumer Discretionary
+DOW US Equity,DOW CHEMICAL CO,61051666432,,New York,,Materials
+MS US Equity,MORGAN STANLEY,60967587840,,New York,,Financials
+AXP US Equity,AMERICAN EXPRESS,60221276160,,New York,,Financials
+TMO US Equity,THERMO FISHER,59604660224,,New York,,Health Care
+CB US Equity,CHUBB LTD,59441807360,,New York,,Financials
+OXY US Equity,OCCIDENTAL PETE,59211923456,,New York,,Energy
+LYG US Equity,LLOYDS BANKING G,59128729600,,New York,,Financials
+PBR US Equity,PETROBRAS SA-ADR,58897833984,,New York,,Energy
+PBR/A US Equity,PETROBR-SP P ADR,58897833984,,New York,,Energy
+RIO US Equity,RIO TINTO-ADR,58022719488,,New York,,Materials
+SHPG US Equity,SHIRE PLC-ADR,57840848896,,NASDAQ GS,,Health Care
+NEE US Equity,NEXTERA ENERGY,56882724864,,New York,,Utilities
+DVMT US Equity,EMC CORP/MA,56298344448,,#N/A Field Not Applicable,,Information Technology
+EPD US Equity,ENTERPRISE PRODU,56175562752,,New York,,Energy
+HMC US Equity,HONDA MOTOR-ADR,56081825792,,New York,,Consumer Discretionary
+DHR US Equity,DANAHER CORP,56064815104,,New York,,Health Care
+E US Equity,ENI SPA-ADR,55530352640,,New York,,Energy
+DUK US Equity,DUKE ENERGY CORP,55280025600,,New York,,Utilities
+CEO US Equity,CNOOC LTD-ADR,55045849088,,New York,,Energy
+NGG US Equity,NATIONAL GRI-ADR,53948174336,,New York,,Utilities
+BT US Equity,BT GROUP-SPON AD,52558790656,,New York,,Telecommunication Services
+ADBE US Equity,ADOBE SYS INC,51607986176,,NASDAQ GS,,Information Technology
+CRM US Equity,SALESFORCE.COM,51443499008,,New York,,Information Technology
+STO US Equity,STATOIL ASA-ADR,51054579712,,New York,,Energy
+TJX US Equity,TJX COS INC,51008176128,,New York,,Consumer Discretionary
+BBD US Equity,BRADESCO-ADR,50808238080,,New York,,Financials
+BBDO US Equity,BRADESCO-ADR,50808238080,,New York,,Financials
+TEF US Equity,TELEFONICA-ADR,50747031552,,New York,,Telecommunication Services
+SO US Equity,SOUTHERN CO,50696970240,,New York,,Utilities
+SMFG US Equity,SUMITOMO MIT-ADR,50693894144,,New York,,Financials
+COP US Equity,CONOCOPHILLIPS,50679631872,,New York,,Energy
+GM US Equity,GENERAL MOTORS C,50231406592,,New York,,Consumer Discretionary
+F US Equity,FORD MOTOR CO,49665511424,,New York,,Consumer Discretionary
+ING US Equity,ING GROEP-ADR,49599184896,,New York,,Financials
+ABB US Equity,ABB LTD-ADR,49189449728,,New York,,Industrials
+AMT US Equity,AMERICAN TOWER C,48969551872,,New York,,Real Estate
+EOG US Equity,EOG RESOURCES,48957714432,,New York,,Energy
+KMI US Equity,KINDER MORGAN IN,48932528128,,New York,,Energy
+PUK US Equity,PRUDENTIAL-ADR,48461279232,,New York,,Financials
+CAT US Equity,CATERPILLAR INC,47725846528,,New York,,Industrials
+MET US Equity,METLIFE INC,47537217536,,New York,,Financials
+MON US Equity,MONSANTO CO,47013113856,,New York,,Materials
+GD US Equity,GENERAL DYNAMICS,46954942464,,New York,,Industrials
+TEVA US Equity,TEVA PHARM-ADR,46819565568,,New York,,Health Care
+D US Equity,DOMINION RES/VA,46775787520,,New York,,Utilities
+ASML US Equity,ASML HOLDING-NY,46739349504,,NASDAQ GS,,Information Technology
+KMB US Equity,KIMBERLY-CLARK,46328320000,,New York,,Consumer Staples
+FOXA US Equity,TWENTY-FIRST C-A,45884768256,,NASDAQ GS,,Consumer Discretionary
+FOX US Equity,TWENTY-FIRST - B,45884768256,,NASDAQ GS,,Consumer Discretionary
+ESRX US Equity,EXPRESS SCRIPTS,45716086784,,NASDAQ GS,,Health Care
+PYPL US Equity,PAYPAL HOLDINGS,44740452352,,NASDAQ GS,,Information Technology
+MFG US Equity,MIZUHO FINAN-ADR,44679901184,,New York,,Financials
+PNC US Equity,PNC FINANCIAL SE,44492181504,,New York,,Financials
+BK US Equity,BANK NY MELLON,44468637696,,New York,,Financials
+FDX US Equity,FEDEX CORP,43945435136,,New York,,Industrials
+SYK US Equity,STRYKER CORP,43269320704,,New York,,Health Care
+ITW US Equity,ILLINOIS TOOL WO,42992791552,,New York,,Industrials
+CHA US Equity,CHINA TELECO-ADR,42910343168,,New York,,Telecommunication Services
+LVS US Equity,LAS VEGAS SANDS,42861064192,,New York,,Consumer Discretionary
+GIS US Equity,GENERAL MILLS IN,42532298752,,New York,,Consumer Staples
+NFLX US Equity,NETFLIX INC,41749278720,,NASDAQ GS,,Consumer Discretionary
+SCHW US Equity,SCHWAB (CHARLES),41370333184,,New York,,Financials
+RTN US Equity,RAYTHEON CO,41351663616,,New York,,Industrials
+MCK US Equity,MCKESSON CORP,41298944000,,New York,,Health Care
+PSX US Equity,PHILLIPS 66,41237127168,,New York,,Energy
+ADP US Equity,AUTOMATIC DATA,41233833984,,NASDAQ GS,,Information Technology
+BBVA US Equity,BANCO BILBAO-ADR,41215078400,,New York,,Financials
+SNE US Equity,SONY CORP-ADR,41212530688,,New York,,Consumer Discretionary
+YHOO US Equity,YAHOO! INC,41193148416,,NASDAQ GS,,Information Technology
+AET US Equity,AETNA INC,40948883456,,New York,,Health Care
+REGN US Equity,REGENERON PHARM,40921657344,,NASDAQ GS,,Health Care
+SYT US Equity,SYNGENTA AG-ADR,40845479936,,New York,,Materials
+TGT US Equity,TARGET CORP,40706170880,,New York,,Consumer Discretionary
+ORAN US Equity,ORANGE-SPON ADR,40698867712,,New York,,Telecommunication Services
+RELX US Equity,RELX PLC - ADR,40425013248,,New York,,Industrials
+RENX US Equity,RELX NV - ADR,40177643520,,New York,,Industrials
+BCS US Equity,BARCLAYS PLC-ADR,39374745600,,New York,,Financials
+PSA US Equity,PUBLIC STORAGE,39325700096,,New York,,Real Estate
+TMUS US Equity,T-MOBILE US INC,38907379712,,NASDAQ GS,,Telecommunication Services
+AMOV US Equity,AMERICA MO-ADR A,38879191040,,NASDAQ GS,,Telecommunication Services
+AMX US Equity,AMERICA-SPON ADR,38879191040,,New York,,Telecommunication Services
+CAJ US Equity,CANON INC-ADR,38532427776,,New York,,Information Technology
+NOC US Equity,NORTHROP GRUMMAN,38079262720,,New York,,Industrials
+BDX US Equity,BECTON DICKINSON,37756010496,,New York,,Health Care
+INFY US Equity,INFOSYS LTD-ADR,37440196608,,New York,,Information Technology
+HAL US Equity,HALLIBURTON CO,37302960128,,New York,,Energy
+HPE US Equity,HEWLETT PACKA,36906684416,,New York,,Information Technology
+CME US Equity,CME GROUP INC,36769169408,,NASDAQ GS,,Financials
+COF US Equity,CAPITAL ONE FINA,36686807040,,New York,,Financials
+EBAY US Equity,EBAY INC,36444729344,,NASDAQ GS,,Information Technology
+ECL US Equity,ECOLAB INC,36172394496,,New York,,Materials
+YUM US Equity,YUM! BRANDS INC,35581095936,,New York,,Consumer Discretionary
+CTSH US Equity,COGNIZANT TECH-A,35421184000,,NASDAQ GS,,Information Technology
+MMC US Equity,MARSH & MCLENNAN,35395616768,,New York,,Financials
+JD US Equity,JD.COM INC-ADR,35359838208,,NASDAQ GS,,Consumer Discretionary
+PX US Equity,PRAXAIR INC,35208994816,,New York,,Materials
+PRU US Equity,PRUDENTL FINL,34737131520,,New York,,Financials
+CUK US Equity,CARNIVAL PLC-ADR,34489401344,,New York,,Consumer Discretionary
+CCL US Equity,CARNIVAL CORP,34454151168,,New York,,Consumer Discretionary
+TRV US Equity,TRAVELERS COS IN,34259351552,,New York,,Financials
+EMR US Equity,EMERSON ELEC CO,34049564672,,New York,,Industrials
+APD US Equity,AIR PRODS & CHEM,34017792000,,New York,,Materials
+ICE US Equity,INTERCONTINENTAL,34003011584,,New York,,Financials
+NOK US Equity,NOKIA CORP-ADR,33612847104,,New York,,Information Technology
+STZ/B US Equity,CONSTELLATION-B,33489596416,,New York,,Consumer Staples
+STZ US Equity,CONSTELLATION-A,33489596416,,New York,,Consumer Staples
+NVDA US Equity,NVIDIA CORP,33453549568,,NASDAQ GS,,Information Technology
+KEP US Equity,KOREA ELEC P-ADR,33215221760,,New York,,Utilities
+LYB US Equity,LYONDELLBASELL-A,33141348352,,New York,,Materials
+SPGI US Equity,S&P GLOBAL INC,33113520128,,New York,,Financials
+BSX US Equity,BOSTON SCIENTIFC,33011634176,,New York,,Health Care
+CI US Equity,CIGNA CORP,32887162880,,New York,,Health Care
+EL US Equity,ESTEE LAUDER,32775217152,,New York,,Consumer Staples
+ANTM US Equity,ANTHEM INC,32696365056,,New York,,Health Care
+AMAT US Equity,APPLIED MATERIAL,32448434176,,NASDAQ GS,,Information Technology
+CCI US Equity,CROWN CASTLE INT,32426346496,,New York,,Real Estate
+RBS US Equity,ROYAL BANK-S ADR,32095031296,,New York,,Financials
+AEP US Equity,AMERICAN ELECTRI,32079124480,,New York,,Utilities
+TLK US Equity,TELEKOMUNIKA-ADR,31953598464,,New York,,Telecommunication Services
+ARMH US Equity,ARM HOLDINGS-ADR,31930030080,,#N/A Field Not Applicable,,Information Technology
+ATVI US Equity,ACTIVISION BLIZZ,31734790144,,NASDAQ GS,,Information Technology
+BX US Equity,BLACKSTONE GROUP,31686404096,,New York,,Financials
+PCG US Equity,PG&E CORP,31425191936,,New York,,Utilities
+EXC US Equity,EXELON CORP,31402139648,,New York,,Utilities
+BBT US Equity,BB&T CORP,31350112256,,New York,,Financials
+VMW US Equity,VMWARE INC-CL A,31312840704,,New York,,Information Technology
+FMX US Equity,FOMENTO ECON-ADR,31274225664,,New York,,Consumer Staples
+PXD US Equity,PIONEER NATURAL,31158663168,,New York,,Energy
+KR US Equity,KROGER CO,30842249216,,New York,,Consumer Staples
+ETN US Equity,EATON CORP PLC,30710437888,,New York,,Industrials
+TSN US Equity,TYSON FOODS-A,30526846976,,New York,,Consumer Staples
+NXPI US Equity,NXP SEMICONDUCTO,30500151296,,NASDAQ GS,,Information Technology
+WPPGY US Equity,WPP PLC-ADR,30392281088,,NASDAQ GS,,Consumer Discretionary
+AFL US Equity,AFLAC INC,30304473088,,New York,,Financials
+AON US Equity,AON PLC,29773760512,,New York,,Financials
+LBTYB US Equity,LIBERTY GLOBAL-B,29641220096,,NASDAQ GS,,Consumer Discretionary
+LBTYA US Equity,LIBERTY GLOBAL-A,29641220096,,NASDAQ GS,,Consumer Discretionary
+LBTYK US Equity,LIBERTY GLOBAL-C,29641220096,,NASDAQ GS,,Consumer Discretionary
+SYY US Equity,SYSCO CORP,29555290112,,New York,,Consumer Staples
+TSLA US Equity,TESLA MOTORS,29408423936,,NASDAQ GS,,Consumer Discretionary
+MNST US Equity,MONSTER BEVERAGE,29290201088,,NASDAQ GS,,Consumer Staples
+HCA US Equity,HCA HOLDINGS INC,28970221568,,New York,,Health Care
+INTU US Equity,INTUIT INC,28907116544,,NASDAQ GS,,Information Technology
+K US Equity,KELLOGG CO,28868349952,,New York,,Consumer Staples
+APC US Equity,ANADARKO PETROLE,28835741696,,New York,,Energy
+PPG US Equity,PPG INDS INC,28502857728,,New York,,Materials
+WM US Equity,WASTE MANAGEMENT,28461293568,,New York,,Industrials
+PLD US Equity,PROLOGIS INC,28343857152,,New York,,Real Estate
+NTES US Equity,NETEASE INC-ADR,28255782912,,NASDAQ GS,,Information Technology
+CRH US Equity,CRH PLC-ADR,28127627264,,New York,,Materials
+PHG US Equity,KONINKLIJKE P-NY,28065370112,,New York,,Industrials
+CHT US Equity,CHUNGHWA TEL-ADR,28043169792,,New York,,Telecommunication Services
+CHU US Equity,CHINA UNICOM-ADR,27946244096,,New York,,Telecommunication Services
+DAL US Equity,DELTA AIR LI,27836899328,,New York,,Industrials
+CS US Equity,CREDIT SUISS-ADR,27732938752,,New York,,Financials
+ALXN US Equity,ALEXION PHARM,27732750336,,NASDAQ GS,,Health Care
+NSC US Equity,NORFOLK SOUTHERN,27640645632,,New York,,Industrials
+VALE US Equity,VALE SA-SP ADR,27624841216,,New York,,Materials
+VALE/P US Equity,VALE SA-SP P ADR,27624841216,,New York,,Materials
+STT US Equity,STATE ST CORP,27546775552,,New York,,Financials
+FMS US Equity,FRESENIUS ME-ADR,27460782080,,New York,,Health Care
+HCN US Equity,WELLTOWER INC,27452092416,,New York,,Real Estate
+TTM US Equity,TATA MOTORS-ADR,27072608256,,New York,,Consumer Discretionary
+ORLY US Equity,O'REILLY AUTOMOT,26824677376,,NASDAQ GS,,Consumer Discretionary
+CSX US Equity,CSX CORP,26620184576,,NASDAQ GS,,Industrials
+ISRG US Equity,INTUITIVE SURGIC,26497677312,,NASDAQ GS,,Health Care
+BSBR US Equity,BANCO SANTANDER,26448859136,,New York,,Financials
+HUM US Equity,HUMANA INC,26434111488,,New York,,Health Care
+DE US Equity,DEERE & CO,26427246592,,New York,,Industrials
+SHW US Equity,SHERWIN-WILLIAMS,26415063040,,New York,,Materials
+EQIX US Equity,EQUINIX INC,26401357824,,NASDAQ GS,,Real Estate
+FIS US Equity,FIDELITY NATIONA,26370279424,,New York,,Information Technology
+SRE US Equity,SEMPRA ENERGY,26054289408,,New York,,Utilities
+LNKD US Equity,LINKEDIN CORP-A,25975867392,,New York,,Information Technology
+GGP US Equity,GENERAL GROWTH P,25913966592,,New York,,Real Estate
+ZBH US Equity,ZIMMER BIOMET HO,25881616384,,New York,,Health Care
+NWL US Equity,NEWELL BRANDS IN,25831454720,,New York,,Consumer Discretionary
+VTR US Equity,VENTAS INC,25792608256,,New York,,Real Estate
+WIT US Equity,WIPRO LTD-ADR,25670711296,,New York,,Information Technology
+ALL US Equity,ALLSTATE CORP,25612230656,,New York,,Financials
+S US Equity,SPRINT CORP,25541085184,,New York,,Telecommunication Services
+ADM US Equity,ARCHER-DANIELS,25492862976,,New York,,Consumer Staples
+CAH US Equity,CARDINAL HEALTH,25401098240,,New York,,Health Care
+ZTS US Equity,ZOETIS INC,25375940608,,New York,,Health Care
+SE US Equity,SPECTRA ENERG,25344790528,,New York,,Energy
+VLO US Equity,VALERO ENERGY,25295321088,,New York,,Energy
+BAX US Equity,BAXTER INTL INC,25171122176,,New York,,Health Care
+EA US Equity,ELECTRONIC ARTS,25101836288,,NASDAQ GS,,Information Technology
+ROST US Equity,ROSS STORES INC,25061249024,,NASDAQ GS,,Consumer Discretionary
+VFC US Equity,VF CORP,24896704512,,New York,,Consumer Discretionary
+HPQ US Equity,HP INC,24790589440,,New York,,Information Technology
+EW US Equity,EDWARDS LIFE,24662011904,,New York,,Health Care
+ILMN US Equity,ILLUMINA INC,24614139904,,NASDAQ GS,,Health Care
+VIV US Equity,TELEFONICA B-ADR,24227919872,,New York,,Telecommunication Services
+DFS US Equity,DISCOVER FINANCI,24225699840,,New York,,Financials
+AVB US Equity,AVALONBAY COMMUN,24093036544,,New York,,Real Estate
+DISH US Equity,DISH NETWORK-A,24070434816,,NASDAQ GS,,Consumer Discretionary
+EIX US Equity,EDISON INTL,24012285952,,New York,,Utilities
+WY US Equity,WEYERHAEUSER CO,23847104512,,New York,,Real Estate
+PPL US Equity,PPL CORP,23753635840,,New York,,Utilities
+ERIC US Equity,ERICSSON LM-ADR,23729240064,,NASDAQ GS,,Information Technology
+AV US Equity,AVIVA PLC - ADR,23679606784,,New York,,Financials
+EQR US Equity,EQUITY RESIDENTI,23611269120,,New York,,Real Estate
+GLW US Equity,CORNING INC,23609692160,,New York,,Information Technology
+VRTX US Equity,VERTEX PHARM,23566231552,,NASDAQ GS,,Health Care
+LUX US Equity,LUXOTTICA GR-ADR,23503673344,,New York,,Consumer Discretionary
+HLT US Equity,HILTON WORLDWIDE,23497293824,,New York,,Consumer Discretionary
+WPZ US Equity,WILLIAMS PARTNER,23268861952,,New York,,Energy
+CBS/A US Equity,CBS CORP-A,23230119936,,New York,,Consumer Discretionary
+CBS US Equity,CBS CORP-B,23230119936,,New York,,Consumer Discretionary
+SYF US Equity,SYNCHRONY FINANC,23183124480,,New York,,Financials
+DVN US Equity,DEVON ENERGY CO,23179771904,,New York,,Energy
+ED US Equity,CONS EDISON INC,22998550528,,New York,,Utilities
+FISV US Equity,FISERV INC,22935513088,,NASDAQ GS,,Information Technology
+IBN US Equity,ICICI BANK-ADR,22918672384,,New York,,Financials
+LUV US Equity,SOUTHWEST AIR,22880382976,,New York,,Industrials
+TEL US Equity,TE CONNECTIVITY,22627196928,,New York,,Information Technology
+STJ US Equity,ST JUDE MEDICAL,22409691136,,New York,,Health Care
+MPC US Equity,MARATHON PETROLE,22377117696,,New York,,Energy
+TAP/A US Equity,MOLSON COORS-A,22364565504,,New York,,Consumer Staples
+TAP US Equity,MOLSON COORS-B,22364565504,,New York,,Consumer Staples
+CTRP US Equity,CTRIP.COM-ADR,22137458688,,NASDAQ GS,,Consumer Discretionary
+PAYX US Equity,PAYCHEX INC,22035716096,,NASDAQ GS,,Information Technology
+CERN US Equity,CERNER CORP,21873428480,,NASDAQ GS,,Health Care
+BXP US Equity,BOSTON PROPERTIE,21870579712,,New York,,Real Estate
+STI US Equity,SUNTRUST BANKS,21797636096,,New York,,Financials
+PEG US Equity,PUB SERV ENTERP,21744291840,,New York,,Utilities
+AZO US Equity,AUTOZONE INC,21623810048,,New York,,Consumer Discretionary
+NEM US Equity,NEWMONT MINING,21499691008,,New York,,Materials
+ETP US Equity,ENERGY TRANSF PA,21495701504,,New York,,Energy
+MYL US Equity,MYLAN NV,21380413440,,NASDAQ GS,,Health Care
+WMB US Equity,WILLIAMS COS INC,21318674432,,New York,,Energy
+BHI US Equity,BAKER HUGHES INC,21300932608,,New York,,Energy
+CMI US Equity,CUMMINS INC,21275770880,,New York,,Industrials
+LB US Equity,L BRANDS INC,21216243712,,New York,,Consumer Discretionary
+XEL US Equity,XCEL ENERGY INC,21186711552,,New York,,Utilities
+HSY US Equity,HERSHEY CO/THE,21169717248,,New York,,Consumer Staples
+MCO US Equity,MOODY'S CORP,21043388416,,New York,,Financials
+BEN US Equity,FRANKLIN RES INC,20826787840,,New York,,Financials
+ABC US Equity,AMERISOURCEBERGE,20801232896,,New York,,Health Care
+PCAR US Equity,PACCAR INC,20754782208,,NASDAQ GS,,Industrials
+DG US Equity,DOLLAR GENERAL C,20657489920,,New York,,Consumer Discretionary
+OMC US Equity,OMNICOM GROUP,20507867136,,New York,,Consumer Discretionary
+CAG US Equity,CONAGRA FOODS,20491098112,,New York,,Consumer Staples
+SIRI US Equity,SIRIUS XM HOLDIN,20389576704,,NASDAQ GS,,Consumer Discretionary
+HRL US Equity,HORMEL FOODS CRP,20353064960,,New York,,Consumer Staples
+IP US Equity,INTL PAPER CO,20198242304,,New York,,Materials
+SCCO US Equity,SOUTHERN COPPER,20194068480,,New York,,Materials
+IX US Equity,ORIX-ADR,19921788928,,New York,,Financials
+DLTR US Equity,DOLLAR TREE INC,19595294720,,NASDAQ GS,,Consumer Discretionary
+VNO US Equity,VORNADO RLTY TST,19588759552,,New York,,Real Estate
+APA US Equity,APACHE CORP,19460610048,,New York,,Energy
+TYC US Equity,TYCO INTERNATION,19431569408,,#N/A Field Not Applicable,,Industrials
+BF/B US Equity,BROWN-FORMAN -B,19430574080,,New York,,Consumer Staples
+BF/A US Equity,BROWN-FORMAN -A,19430574080,,New York,,Consumer Staples
+ADI US Equity,ANALOG DEVICES,19416995840,,NASDAQ GS,,Information Technology
+AAL US Equity,AMERICAN AIRLINE,19357734912,,NASDAQ GS,,Industrials
+APH US Equity,AMPHENOL CORP-A,19319982080,,New York,,Information Technology
+DLPH US Equity,DELPHI AUTOMOTIV,19139901440,,New York,,Consumer Discretionary
+WEC US Equity,WEC ENERGY GROUP,19113945088,,New York,,Utilities
+PGR US Equity,PROGRESSIVE CORP,18894802944,,New York,,Financials
+CLR US Equity,CONTL RES INC/OK,18836711424,,New York,,Energy
+NLSN US Equity,NIELSEN HOLDINGS,18821400576,,New York,,Industrials
+RYAAY US Equity,RYANAIR HLDG-ADR,18813720576,,NASDAQ GS,,Industrials
+CCE US Equity,COCA-COLA EUROPE,18796161024,,New York,,Consumer Staples
+ETE US Equity,ENERGY TRANSFER,18639073280,,New York,,Energy
+SWK US Equity,STANLEY BLACK &,18624237568,,New York,,Industrials
+MT US Equity,ARCELORMITTAL-NY,18516891648,,New York,,Materials
+CXO US Equity,CONCHO RESOURCES,18512250880,,New York,,Energy
+ROP US Equity,ROPER TECHNOLOGI,18459150336,,New York,,Industrials
+FTV US Equity,FORTIVE CORP,18446905344,,New York,,Industrials
+MTB US Equity,M&T BANK CORP,18395293696,,New York,,Financials
+EC US Equity,ECOPETROL-SP ADR,18358603776,,New York,,Energy
+HCP US Equity,HCP INC,18273161216,,New York,,Real Estate
+NMR US Equity,NOMURA HLDGS-ADR,18271848448,,New York,,Financials
+MAR US Equity,MARRIOTT INTL-A,18052255744,,NASDAQ GS,,Consumer Discretionary
+LVLT US Equity,LEVEL 3 COMM INC,18022993920,,New York,,Telecommunication Services
+PKX US Equity,POSCO-SPON ADR,17946537984,,New York,,Materials
+CPB US Equity,CAMPBELL SOUP CO,17818193920,,New York,,Consumer Staples
+KYO US Equity,KYOCERA CORP-ADR,17785835520,,New York,,Information Technology
+WDAY US Equity,WORKDAY INC-A,17707020288,,New York,,Information Technology
+IR US Equity,INGERSOLL-RAND,17680631808,,New York,,Industrials
+SHG US Equity,SHINHAN FINA-ADR,17583321088,,New York,,Financials
+DPS US Equity,DR PEPPER SNAPPL,17513316352,,New York,,Consumer Staples
+RSG US Equity,REPUBLIC SVCS,17512538112,,New York,,Industrials
+WLTW US Equity,WILLIS TOWERS WA,17467559936,,NASDAQ GS,,Financials
+MU US Equity,MICRON TECH,17341122560,,NASDAQ GS,,Information Technology
+ES US Equity,EVERSOURCE ENERG,17246545920,,New York,,Utilities
+AMTD US Equity,TD AMERITRADE HO,17222365184,,NASDAQ GS,,Financials
+TROW US Equity,T ROWE PRICE GRP,17217206272,,NASDAQ GS,,Financials
+O US Equity,REALTY INCOME,17135392768,,New York,,Real Estate
+CLX US Equity,CLOROX CO,17086084096,,New York,,Consumer Staples
+HES US Equity,HESS CORP,16809074688,,New York,,Energy
+EXPE US Equity,EXPEDIA INC,16794624000,,NASDAQ GS,,Consumer Discretionary
+INFO US Equity,IHS MARKIT LTD,16788537344,,NASDAQ GS,,Industrials
+SSL US Equity,SASOL LTD-SP ADR,16786308096,,New York,,Energy
+TI/A US Equity,TELECOM ITAL-ADR,16738013184,,New York,,Telecommunication Services
+TI US Equity,TELECOM ITAL-ADR,16738013184,,New York,,Telecommunication Services
+DTE US Equity,DTE ENERGY CO,16723379200,,New York,,Utilities
+PH US Equity,PARKER HANNIFIN,16538118144,,New York,,Industrials
+UAL US Equity,UNITED CONTINENT,16471839744,,New York,,Industrials
+SJM US Equity,JM SMUCKER CO,16469651456,,New York,,Consumer Staples
+BMRN US Equity,BIOMARIN PHARMAC,16348968960,,NASDAQ GS,,Health Care
+AMP US Equity,AMERIPRISE FINAN,16321266688,,New York,,Financials
+BCR US Equity,CR BARD INC,16248895488,,New York,,Health Care
+TS US Equity,TENARIS-ADR,16167451648,,New York,,Energy
+MMP US Equity,MAGELLAN MIDSTRE,16129379328,,New York,,Energy
+VIAB US Equity,VIACOM INC-B,16063845376,,NASDAQ GS,,Consumer Discretionary
+VIA US Equity,VIACOM INC-A,16063845376,,NASDAQ GS,,Consumer Discretionary
+EFX US Equity,EQUIFAX INC,16010029056,,New York,,Industrials
+TV US Equity,GRUPO TELEV-ADR,16008755200,,New York,,Consumer Discretionary
+NTRS US Equity,NORTHERN TRUST,16008648704,,NASDAQ GS,,Financials
+UA/C US Equity,UNDER ARMO-C,15920035840,,New York,,Consumer Discretionary
+UA US Equity,UNDER ARMOUR-A,15920035840,,New York,,Consumer Discretionary
+MHK US Equity,MOHAWK INDS,15866602496,,New York,,Consumer Discretionary
+KOF US Equity,COCA-COLA F-ADR,15841271808,,New York,,Consumer Staples
+HIG US Equity,HARTFORD FINL SV,15820810240,,New York,,Financials
+SKM US Equity,SK TELEC-SPN ADR,15805974528,,New York,,Telecommunication Services
+NUE US Equity,NUCOR CORP,15608978432,,New York,,Materials
+DISCK US Equity,DISCOVERY COMM-C,15592154112,,NASDAQ GS,,Consumer Discretionary
+DISCA US Equity,DISCOVERY COMM-A,15592154112,,NASDAQ GS,,Consumer Discretionary
+DISCB US Equity,DISCOVERY COMM-B,15592154112,,NASDAQ GS,,Consumer Discretionary
+MJN US Equity,MEAD JOHNSON,15548270592,,New York,,Consumer Staples
+FLT US Equity,FLEETCOR TECHNOL,15515208704,,New York,,Information Technology
+INCY US Equity,INCYTE CORP,15419999232,,NASDAQ GS,,Health Care
+FITB US Equity,FIFTH THIRD BANC,15404126208,,NASDAQ GS,,Financials
+GPC US Equity,GENUINE PARTS CO,15399184384,,New York,,Consumer Discretionary
+ULTA US Equity,ULTA SALON COSME,15371651072,,NASDAQ GS,,Consumer Discretionary
+TDG US Equity,TRANSDIGM GROUP,15359621120,,New York,,Industrials
+A US Equity,AGILENT TECH INC,15299519488,,New York,,Health Care
+CTL US Equity,CENTURYLINK INC,15254388736,,New York,,Telecommunication Services
+VMC US Equity,VULCAN MATERIALS,15234039808,,New York,,Materials
+ROK US Equity,ROCKWELL AUTOMAT,15150160896,,New York,,Industrials
+LRCX US Equity,LAM RESEARCH,15122134016,,NASDAQ GS,,Information Technology
+ADSK US Equity,AUTODESK INC,15090939904,,NASDAQ GS,,Information Technology
+RCL US Equity,ROYAL CARIBBEAN,15070696448,,New York,,Consumer Discretionary
+SYMC US Equity,SYMANTEC CORP,14946491392,,NASDAQ GS,,Information Technology
+SNN US Equity,SMITH & NEPH-ADR,14907809792,,New York,,Health Care
+ESS US Equity,ESSEX PROPERTY,14794631168,,New York,,Real Estate
+NBL US Equity,NOBLE ENERGY INC,14716259328,,New York,,Energy
+DLR US Equity,DIGITAL REALTY,14700891136,,New York,,Real Estate
+IBKR US Equity,INTERACTIVE BROK,14496197632,,NASDAQ GS,,Financials
+SBAC US Equity,SBA COMM CORP-A,14439186432,,NASDAQ GS,,Telecommunication Services
+HNP US Equity,HUANENG POWR-ADR,14380747776,,New York,,Utilities
+XRAY US Equity,DENTSPLY SIRONA,14376860672,,NASDAQ GS,,Health Care
+CA US Equity,CA INC,14323854336,,NASDAQ GS,,Information Technology
+VRSK US Equity,VERISK ANALYTI,14166463488,,NASDAQ GS,,Industrials
+ETR US Equity,ENTERGY CORP,14134213632,,New York,,Utilities
+PFG US Equity,PRINCIPAL FINL,14106459136,,New York,,Financials
+LH US Equity,LABORATORY CP,14087733248,,New York,,Health Care
+LLTC US Equity,LINEAR TECH CORP,14086020096,,NASDAQ GS,,Information Technology
+BLL US Equity,BALL CORP,14053326848,,New York,,Materials
+L US Equity,LOEWS CORP,14033748992,,New York,,Financials
+SEP US Equity,SPECTRA ENERGY,14032854016,,New York,,Energy
+SWKS US Equity,SKYWORKS SOLUTIO,13990956032,,NASDAQ GS,,Information Technology
+FE US Equity,FIRSTENERGY CORP,13955005440,,New York,,Utilities
+FCX US Equity,FREEPORT-MCMORAN,13920145408,,New York,,Materials
+GWW US Equity,WW GRAINGER INC,13909876736,,New York,,Industrials
+MGM US Equity,MGM RESORTS INTE,13902797824,,New York,,Consumer Discretionary
+TWTR US Equity,TWITTER INC,13836061696,,New York,,Information Technology
+XLNX US Equity,XILINX INC,13804636160,,NASDAQ GS,,Information Technology
+BRFS US Equity,BRF SA-ADR,13682049024,,New York,,Consumer Staples
+KB US Equity,KB FINANCIAL-ADR,13645941760,,New York,,Financials
+CHKP US Equity,CHECK POINT SOFT,13638820864,,NASDAQ GS,,Information Technology
+KEY US Equity,KEYCORP,13581370368,,New York,,Financials
+CTXS US Equity,CITRIX SYSTEMS,13545125888,,NASDAQ GS,,Information Technology
+MCHP US Equity,MICROCHIP TECH,13496432640,,NASDAQ GS,,Information Technology
+HSIC US Equity,HENRY SCHEIN INC,13438300160,,NASDAQ GS,,Health Care
+WHR US Equity,WHIRLPOOL CORP,13427571712,,New York,,Consumer Discretionary
+MDVN US Equity,MEDIVATION INC,13415332864,,NASDAQ GS,,Health Care
+DVA US Equity,DAVITA INC,13402982400,,New York,,Health Care
+RHT US Equity,RED HAT INC,13355840512,,New York,,Information Technology
+WDC US Equity,WESTERN DIGITAL,13351910400,,NASDAQ GS,,Information Technology
+FDC US Equity,FIRST DATA COR-A,13340822528,,New York,,Information Technology
+AA US Equity,ALCOA INC,13324796928,,New York,,Materials
+AWK US Equity,AMERICAN WATER W,13307100160,,New York,,Utilities
+GRFS US Equity,GRIFOLS SA-ADR,13184596992,,NASDAQ GS,,Health Care
+MKL US Equity,MARKEL CORP,13184267264,,New York,,Financials
+MRO US Equity,MARATHON OIL,13124034560,,New York,,Energy
+HOT US Equity,STARWOOD HOTELS,13085859840,,New York,,Consumer Discretionary
+BSMX US Equity,GRUPO F SA-ADR B,13084169216,,New York,,Financials
+AGR US Equity,AVANGRID INC,13043041280,,New York,,Utilities
+PANW US Equity,PALO ALTO NETWOR,13008513024,,New York,,Information Technology
+PRGO US Equity,PERRIGO CO PLC,13002734592,,New York,,Health Care
+MSI US Equity,MOTOROLA SOLUTIO,12996262912,,New York,,Information Technology
+LBRDA US Equity,LIBERTY BR-A,12955761664,,NASDAQ GS,,Consumer Discretionary
+LBRDK US Equity,LIBERTY BR-C,12955761664,,NASDAQ GS,,Consumer Discretionary
+BAP US Equity,CREDICORP LTD,12933322752,,New York,,Financials
+HST US Equity,HOST HOTELS & RE,12926609408,,New York,,Real Estate
+IVZ US Equity,INVESCO LTD,12904159232,,New York,,Financials
+MKC US Equity,MCCORMICK-N/V,12896349184,,New York,,Consumer Staples
+MKC/V US Equity,MCCORMICK-VTG,12896349184,,New York,,Consumer Staples
+CHD US Equity,CHURCH & DWIGHT,12872135680,,New York,,Consumer Staples
+CFG US Equity,CITIZENS FINANCI,12820541440,,New York,,Financials
+XEC US Equity,CIMAREX ENERGY C,12815626240,,New York,,Energy
+CINF US Equity,CINCINNATI FIN,12812230656,,NASDAQ GS,,Financials
+KIM US Equity,KIMCO REALTY,12668755968,,New York,,Real Estate
+NOV US Equity,NATL OILWELL VAR,12646873088,,New York,,Energy
+WAT US Equity,WATERS CORP,12584846336,,New York,,Health Care
+NOW US Equity,SERVICENOW INC,12541479936,,New York,,Information Technology
+FAST US Equity,FASTENAL CO,12518004736,,NASDAQ GS,,Industrials
+UGP US Equity,ULTRAPAR PA-ADR,12491294720,,New York,,Energy
+RF US Equity,REGIONS FINANCIA,12464117760,,New York,,Financials
+EQT US Equity,EQT CORP,12406689792,,New York,,Energy
+CTAS US Equity,CINTAS CORP,12384018432,,NASDAQ GS,,Industrials
+BBY US Equity,BEST BUY CO INC,12294383616,,New York,,Consumer Discretionary
+ADS US Equity,ALLIANCE DATA,12285253632,,New York,,Information Technology
+WRK US Equity,WESTROCK CO,12210066432,,New York,,Materials
+SLG US Equity,SL GREEN REALTY,12181494784,,New York,,Real Estate
+CEA US Equity,CHINA EASTRN-ADS,12097053696,,New York,,Industrials
+AEE US Equity,AMEREN CORP,12049244160,,New York,,Utilities
+AYI US Equity,ACUITY BRANDS,12025059328,,New York,,Industrials
+KKR US Equity,KKR & CO LP,11892307968,,New York,,Financials
+CMG US Equity,CHIPOTLE MEXICAN,11891176448,,New York,,Consumer Discretionary
+CX US Equity,CEMEX SAB-SP ADR,11876144128,,New York,,Materials
+NDAQ US Equity,NASDAQ INC,11858067456,,NASDAQ GS,,Financials
+CMS US Equity,CMS ENERGY CORP,11839568896,,New York,,Utilities
+DHI US Equity,DR HORTON INC,11767953408,,New York,,Consumer Discretionary
+MAC US Equity,MACERICH CO,11765800960,,New York,,Real Estate
+UHS US Equity,UNIVERSAL HLTH-B,11753590784,,New York,,Health Care
+GPN US Equity,GLOBAL PAYMENTS,11732970496,,New York,,Information Technology
+CNC US Equity,CENTENE CORP,11715964928,,New York,,Health Care
+MLM US Equity,MARTIN MAR MTLS,11712473088,,New York,,Materials
+MAS US Equity,MASCO CORP,11709409280,,New York,,Industrials
+AAP US Equity,ADVANCE AUTO PAR,11677121536,,New York,,Consumer Discretionary
+MXIM US Equity,MAXIM INTEGRATED,11657984000,,NASDAQ GS,,Information Technology
+HRS US Equity,HARRIS CORP,11638194176,,New York,,Information Technology
+PNR US Equity,PENTAIR PLC,11593596928,,New York,,Industrials
+LLL US Equity,L-3 COMM HLDGS,11577478144,,New York,,Industrials
+DGX US Equity,QUEST DIAGNOSTIC,11543964672,,New York,,Health Care
+KMX US Equity,CARMAX INC,11500001280,,New York,,Consumer Discretionary
+FRC US Equity,FIRST REPUBLIC B,11493676032,,New York,,Financials
+MAT US Equity,MATTEL INC,11475456000,,NASDAQ GS,,Consumer Discretionary
+AME US Equity,AMETEK INC,11423398912,,New York,,Industrials
+FRT US Equity,FED REALTY INVS,11391068160,,New York,,Real Estate
+MPLX US Equity,MPLX LP,11377496064,,New York,,Energy
+TSCO US Equity,TRACTOR SUPPLY,11369526272,,NASDAQ GS,,Consumer Discretionary
+COG US Equity,CABOT OIL & GAS,11354268672,,New York,,Energy
+M US Equity,MACY'S INC,11302261760,,New York,,Consumer Discretionary
+PAA US Equity,PLAINS ALL AMER,11299700736,,New York,,Energy
+DOV US Equity,DOVER CORP,11291957248,,New York,,Industrials
+LSXMB US Equity,LIBERTY SIRIUS-B,11257821184,,NASDAQ GS,,Consumer Discretionary
+LSXMK US Equity,LIBERTY SIRIUS-C,11257821184,,NASDAQ GS,,Consumer Discretionary
+LSXMA US Equity,LIBERTY SIRIUSXM,11257821184,,NASDAQ GS,,Consumer Discretionary
+OKS US Equity,ONEOK PARTNERS L,11230112768,,New York,,Energy
+LNC US Equity,LINCOLN NATL CRP,11188144128,,New York,,Financials
+BIP US Equity,BROOKFIELD INFRA,11150508032,,New York,,Utilities
+TXT US Equity,TEXTRON INC,11080344576,,New York,,Industrials
+IFF US Equity,INTL FLVR & FRAG,11062470656,,New York,,Materials
+COL US Equity,ROCKWELL COLLINS,11053250560,,New York,,Industrials
+LKQ US Equity,LKQ CORP,10991380480,,NASDAQ GS,,Consumer Discretionary
+KLAC US Equity,KLA-TENCOR CORP,10950849536,,NASDAQ GS,,Information Technology
+BCH US Equity,BANCO CHILE-ADR,10930676736,,New York,,Financials
+HBAN US Equity,HUNTINGTON BANC,10871327744,,NASDAQ GS,,Financials
+NLY US Equity,ANNALY CAPITAL M,10841352192,,New York,,Financials
+MBLY US Equity,MOBILEYE NV,10764114944,,New York,,Information Technology
+HOLX US Equity,HOLOGIC INC,10683553792,,NASDAQ GS,,Health Care
+COH US Equity,COACH INC,10641670144,,New York,,Consumer Discretionary
+MTD US Equity,METTLER-TOLEDO,10636902400,,New York,,Health Care
+WU US Equity,WESTERN UNION,10539921408,,New York,,Information Technology
+WB US Equity,WEIBO CORP-ADR,10538419200,,NASDAQ GS,,Information Technology
+HAS US Equity,HASBRO INC,10397570048,,NASDAQ GS,,Consumer Discretionary
+KSU US Equity,KANSAS CITY SOUT,10341578752,,New York,,Industrials
+MOS US Equity,MOSAIC CO/THE,10327250944,,New York,,Materials
+VNTV US Equity,VANTIV INC -CL A,10323122176,,New York,,Information Technology
+EXR US Equity,EXTRA SPACE STOR,10297114624,,New York,,Real Estate
+FNF US Equity,FNF GROUP,10279361536,,New York,,Financials
+SCG US Equity,SCANA CORP,10239996928,,New York,,Utilities
+IDXX US Equity,IDEXX LABS,10215689216,,NASDAQ GS,,Health Care
+IRM US Equity,IRON MOUNTAIN,10211415040,,New York,,Real Estate
+BSAC US Equity,BANCO SANTAN-ADR,10180801536,,New York,,Financials
+VER US Equity,VEREIT INC,10180285440,,New York,,Real Estate
+CHRW US Equity,CH ROBINSON,10177897472,,NASDAQ GS,,Industrials
+STX US Equity,SEAGATE TECHNOLO,10168153088,,NASDAQ GS,,Information Technology
+OKE US Equity,ONEOK INC,10155197440,,New York,,Energy
+CNHI US Equity,CNH INDUSTRIAL N,10143016960,,New York,,Industrials
+EMN US Equity,EASTMAN CHEMICAL,10130087936,,New York,,Materials
+CBG US Equity,CBRE GROUP INC-A,10125608960,,New York,,Real Estate
+QVCB US Equity,LIBERTY INTER-B,10119839744,,NASDAQ GS,,Consumer Discretionary
+QVCA US Equity,LIBERTY INTER-A,10119839744,,NASDAQ GS,,Consumer Discretionary
+INGR US Equity,INGREDION INC,10049177600,,New York,,Consumer Staples
+XRX US Equity,XEROX CORP,10021572608,,New York,,Information Technology
+ACGL US Equity,ARCH CAPITAL GRP,10020262912,,NASDAQ GS,,Financials
+HBI US Equity,HANESBRANDS INC,9973872640,,New York,,Consumer Discretionary
+DRE US Equity,DUKE REALTY CORP,9922929664,,New York,,Real Estate
+WWAV US Equity,WHITEWAVE FOOD,9864339456,,New York,,Consumer Staples
+FBHS US Equity,FORTUNE BRANDS H,9817416704,,New York,,Industrials
+WFM US Equity,WHOLE FOODS MKT,9812802560,,NASDAQ GS,,Consumer Staples
+IMS US Equity,IMS HEALTH HOLDI,9789084672,,New York,,Health Care
+CNP US Equity,CENTERPOINT ENER,9746327552,,New York,,Utilities
+NTAP US Equity,NETAPP INC,9725509632,,NASDAQ GS,,Information Technology
+LEN/B US Equity,LENNAR CORP-B,9704781824,,New York,,Consumer Discretionary
+LEN US Equity,LENNAR CORP-A,9704781824,,New York,,Consumer Discretionary
+UDR US Equity,UDR INC,9678169088,,New York,,Real Estate
+AKAM US Equity,AKAMAI TECHNOLOG,9667504128,,NASDAQ GS,,Information Technology
+LPL US Equity,LG DISPLAY-ADR,9639555072,,New York,,Information Technology
+PSO US Equity,PEARSON PLC-ADR,9594146816,,New York,,Consumer Discretionary
+ALLY US Equity,ALLY FINANCIAL I,9586099200,,New York,,Financials
+SEE US Equity,SEALED AIR CORP,9559763968,,New York,,Materials
+ASX US Equity,ADV SEMI ENG-ADR,9555889152,,New York,,Information Technology
+XL US Equity,XL GROUP LTD,9555293184,,New York,,Financials
+GPS US Equity,GAP INC/THE,9531571200,,New York,,Consumer Discretionary
+AVAL US Equity,GRUPO AVAL ACCIO,9508493312,,New York,,Financials
+HOG US Equity,HARLEY-DAVIDSON,9492345856,,New York,,Consumer Discretionary
+RMD US Equity,RESMED INC,9435337728,,New York,,Health Care
+ZNH US Equity,CHINA SOUTH-ADR,9418419200,,New York,,Industrials
+RACE US Equity,FERRARI NV,9405289472,,New York,,Consumer Discretionary
+WYNN US Equity,WYNN RESORTS LTD,9403444224,,NASDAQ GS,,Consumer Discretionary
+LULU US Equity,LULULEMON ATH,9397309440,,NASDAQ GS,,Consumer Discretionary
+CIB US Equity,BANCOLOMBIA-ADR,9396766720,,New York,,Financials
+GOLD US Equity,RANDGOLD RES-ADR,9352440832,,NASDAQ GS,,Materials
+TSS US Equity,TOTAL SYS SERVS,9349899264,,New York,,Information Technology
+CE US Equity,CELANESE CORP-A,9348541440,,New York,,Materials
+ALV US Equity,AUTOLIV INC,9330873344,,New York,,Consumer Discretionary
+EXPD US Equity,EXPEDITORS INTL,9291591680,,NASDAQ GS,,Industrials
+ARMK US Equity,ARAMARK,9290532864,,New York,,Consumer Discretionary
+BPL US Equity,BUCKEYE PARTNERS,9229797376,,New York,,Energy
+IPG US Equity,INTERPUBLIC GRP,9220283392,,New York,,Consumer Discretionary
+ALB US Equity,ALBEMARLE CORP,9212559360,,New York,,Materials
+GRMN US Equity,GARMIN LTD,9207753728,,NASDAQ GS,,Consumer Discretionary
+Q US Equity,QUINTILES TRANSN,9161444352,,New York,,Health Care
+DOX US Equity,AMDOCS LTD,9157940224,,NASDAQ GS,,Information Technology
+SXL US Equity,SUNOCO LOGISTICS,9139678208,,New York,,Energy
+XYL US Equity,XYLEM INC,9123927040,,New York,,Industrials
+CNA US Equity,CNA FINL CORP,9112578048,,New York,,Financials
+LN US Equity,LINE CORP-ADR,9085365248,,New York,,Information Technology
+COO US Equity,COOPER COS INC,9062140928,,New York,,Health Care
+JBHT US Equity,HUNT (JB) TRANS,9040336896,,NASDAQ GS,,Industrials
+SNPS US Equity,SYNOPSYS INC,9030390784,,NASDAQ GS,,Information Technology
+VAR US Equity,VARIAN MEDICAL S,9002828800,,New York,,Health Care
+JWN US Equity,NORDSTROM INC,8996337664,,New York,,Consumer Discretionary
+AEG US Equity,AEGON NV-NY REG,8987046912,,New York,,Financials
+JNPR US Equity,JUNIPER NETWORKS,8965155840,,New York,,Information Technology
+FL US Equity,FOOT LOCKER INC,8930397184,,New York,,Consumer Discretionary
+SNA US Equity,SNAP-ON INC,8926738432,,New York,,Industrials
+NFX US Equity,NEWFIELD EXPLORA,8917330944,,New York,,Energy
+TRIP US Equity,TRIPADVISOR INC,8914250752,,NASDAQ GS,,Consumer Discretionary
+COTY US Equity,COTY INC-CL A,8886398976,,New York,,Consumer Staples
+BG US Equity,BUNGE LTD,8862645248,,New York,,Consumer Staples
+CDK US Equity,CDK GLOBAL INC,8856939520,,NASDAQ GS,,Information Technology
+TSO US Equity,TESORO CORP,8855741440,,New York,,Energy
+AJG US Equity,ARTHUR J GALLAGH,8849779712,,New York,,Financials
+N US Equity,NETSUITE INC,8818017280,,New York,,Information Technology
+TIF US Equity,TIFFANY & CO,8752409600,,New York,,Consumer Discretionary
+BRX US Equity,BRIXMOR PROPERTY,8739922944,,New York,,Real Estate
+ARE US Equity,ALEXANDRIA REAL,8721343488,,New York,,Real Estate
+PVH US Equity,PVH CORP,8709658624,,New York,,Consumer Discretionary
+LNT US Equity,ALLIANT ENERGY,8686422016,,New York,,Utilities
+IHG US Equity,INTERCONTIN-ADR,8674963456,,New York,,Consumer Discretionary
+FCAU US Equity,FIAT CHRYSLER AU,8649701376,,New York,,Consumer Discretionary
+PHI US Equity,PLDT INC-ADR,8525560832,,New York,,Telecommunication Services
+RL US Equity,RALPH LAUREN COR,8491542528,,New York,,Consumer Discretionary
+REG US Equity,REGENCY CENTERS,8485454848,,New York,,Real Estate
+MSCI US Equity,MSCI INC,8473985024,,New York,,Financials
+AOS US Equity,SMITH (A.O.)CORP,8461139456,,New York,,Industrials
+PNW US Equity,PINNACLE WEST,8457064960,,New York,,Utilities
+VRSN US Equity,VERISIGN INC,8436690944,,NASDAQ GS,,Information Technology
+ALK US Equity,ALASKA AIR GROUP,8395967488,,New York,,Industrials
+BR US Equity,BROADRIDGE FINL,8388264960,,New York,,Information Technology
+ENIA US Equity,ENERSIS AMER-ADR,8385045504,,New York,,Utilities
+VAL US Equity,VALSPAR CORP/THE,8382928896,,New York,,Materials
+LEA US Equity,LEAR CORP,8372289536,,New York,,Consumer Discretionary
+CNCO US Equity,CENCOSUD - ADR,8347536384,,New York,,Consumer Staples
+SHI US Equity,SINOPEC SHA-ADR,8346308096,,New York,,Materials
+ANSS US Equity,ANSYS INC,8343305216,,NASDAQ GS,,Information Technology
+KORS US Equity,MICHAEL KORS HOL,8317043712,,New York,,Consumer Discretionary
+UNM US Equity,UNUM GROUP,8311050240,,New York,,Financials
+EEP US Equity,ENBRIDGE ENERGY,8302688256,,New York,,Energy
+Y US Equity,ALLEGHANY CORP,8300603904,,New York,,Financials
+CMA US Equity,COMERICA INC,8274284544,,New York,,Financials
+VIPS US Equity,VIPSHOP HOLDINGS,8265446400,,New York,,Consumer Discretionary
+SNI US Equity,SCRIPPS NET-CL A,8237092352,,NASDAQ GS,,Consumer Discretionary
+KT US Equity,KT CORP-ADR,8235466240,,New York,,Telecommunication Services
+RJF US Equity,RAYMOND JAMES,8230433280,,New York,,Financials
+MELI US Equity,MERCADOLIBRE INC,8220330496,,NASDAQ GS,,Information Technology
+FFIV US Equity,F5 NETWORKS,8202092544,,NASDAQ GS,,Information Technology
+TFX US Equity,TELEFLEX INC,8172709376,,New York,,Health Care
+NWSA US Equity,NEWS CORP-CL A,8149433856,,NASDAQ GS,,Consumer Discretionary
+NWS US Equity,NEWS CORP-CL B,8149433856,,NASDAQ GS,,Consumer Discretionary
+MBT US Equity,MOBILE TELES-ADR,8133412864,,New York,,Telecommunication Services
+WGP US Equity,WESTERN GAS EQUI,8126395904,,New York,,Energy
+NCLH US Equity,NORWEGIAN CRUISE,8087548928,,NASDAQ GS,,Consumer Discretionary
+RE US Equity,EVEREST RE GROUP,8068928512,,New York,,Financials
+AES US Equity,AES CORP,8060664320,,New York,,Utilities
+UGI US Equity,UGI CORP,8005705216,,New York,,Utilities
+RDY US Equity,DR REDDY'S-ADR,8005155840,,New York,,Health Care
+SABR US Equity,SABRE CORP,7977826816,,NASDAQ GS,,Information Technology
+AR US Equity,ANTERO RESOURCES,7962312192,,New York,,Energy
+RAD US Equity,RITE AID CORP,7961621504,,New York,,Consumer Staples
+SPB US Equity,SPECTRUM BRANDS,7927544320,,New York,,Consumer Staples
+SPLK US Equity,SPLUNK INC,7891735552,,NASDAQ GS,,Information Technology
+DRI US Equity,DARDEN RESTAURAN,7867026432,,New York,,Consumer Discretionary
+ACH US Equity,ALUMINUM COR-ADR,7834105344,,New York,,Materials
+CPT US Equity,CAMDEN PROP TR,7831257600,,New York,,Real Estate
+WR US Equity,WESTAR ENERGY IN,7831089152,,New York,,Utilities
+KSS US Equity,KOHLS CORP,7817685504,,New York,,Consumer Discretionary
+GT US Equity,GOODYEAR TIRE,7802580480,,NASDAQ GS,,Consumer Discretionary
+MNK US Equity,MALLINCKRODT,7800598528,,New York,,Health Care
+HII US Equity,HUNTINGTON INGAL,7800166400,,New York,,Industrials
+TMK US Equity,TORCHMARK CORP,7794533376,,New York,,Financials
+NI US Equity,NISOURCE INC,7774332416,,New York,,Utilities
+WYN US Equity,WYNDHAM WORLDWID,7768161280,,New York,,Consumer Discretionary
+VEDL US Equity,VEDANTA LTD-ADR,7730440704,,New York,,Materials
+DXCM US Equity,DEXCOM,7724842496,,NASDAQ GS,,Health Care
+APO US Equity,APOLLO GLOBAL,7701039104,,New York,,Financials
+ATO US Equity,ATMOS ENERGY,7681626112,,New York,,Utilities
+ALGN US Equity,ALIGN TECHNOLOGY,7666860544,,NASDAQ GS,,Health Care
+CCK US Equity,CROWN HOLDINGS I,7658443776,,New York,,Materials
+VIP US Equity,VIMPELCOM LT-ADR,7608169984,,NASDAQ GS,,Telecommunication Services
+CDNS US Equity,CADENCE DESIGN,7574503424,,NASDAQ GS,,Information Technology
+AMG US Equity,AFFIL MANAGERS,7566328832,,New York,,Financials
+IT US Equity,GARTNER INC,7554102272,,New York,,Information Technology
+FANG US Equity,DIAMONDBACK ENER,7520979968,,NASDAQ GS,,Energy
+BWA US Equity,BORGWARNER INC,7520729088,,New York,,Consumer Discretionary
+PKG US Equity,PACKAGING CORP,7507356160,,New York,,Materials
+AER US Equity,AERCAP HOLDINGS,7486706688,,New York,,Industrials
+NYCB US Equity,NY COMM BANCORP,7481362944,,New York,,Financials
+CPL US Equity,CPFL ENERGIA-ADR,7476583936,,New York,,Utilities
+NNN US Equity,NATIONAL RETAIL,7470693376,,New York,,Real Estate
+TKC US Equity,TURKCELL ILE-ADR,7453599744,,New York,,Telecommunication Services
+SEIC US Equity,SEI INVESTMENTS,7419389952,,NASDAQ GS,,Financials
+MIDD US Equity,MIDDLEBY CORP,7407669248,,NASDAQ GS,,Industrials
+FDS US Equity,FACTSET RESEARCH,7379074560,,New York,,Financials
+HDS US Equity,HD SUPPLY HOLDIN,7378448896,,NASDAQ GS,,Industrials
+QRVO US Equity,QORVO INC,7366831104,,NASDAQ GS,,Information Technology
+RPM US Equity,RPM INTL INC,7364579328,,New York,,Materials
+CIT US Equity,CIT GROUP INC,7348471808,,New York,,Financials
+ASH US Equity,ASHLAND INC,7348392448,,New York,,Materials
+TRGP US Equity,TARGA RESOURCES,7343404544,,New York,,Energy
+JAZZ US Equity,JAZZ PHARMACEUTI,7314700288,,NASDAQ GS,,Health Care
+CDW US Equity,CDW CORP/DE,7311567872,,NASDAQ GS,,Information Technology
+DPZ US Equity,DOMINO'S PIZZA,7286908416,,New York,,Consumer Discretionary
+JHX US Equity,JAMES HARDIE-ADR,7285587968,,New York,,Materials
+SQM US Equity,QUIMICA Y-SP ADR,7273153024,,New York,,Materials
+FLR US Equity,FLUOR CORP,7260409856,,New York,,Industrials
+ETFC US Equity,E*TRADE FINANCIA,7247184896,,NASDAQ GS,,Financials
+MAA US Equity,MID-AMERICA APAR,7238431232,,New York,,Real Estate
+FLEX US Equity,FLEXTRONICS INTL,7232911872,,NASDAQ GS,,Information Technology
+WRB US Equity,WR BERKLEY CORP,7220473856,,New York,,Financials
+WES US Equity,WESTERN GAS PART,7210764800,,New York,,Energy
+PE US Equity,PARSLEY ENERGY-A,7199355904,,New York,,Energy
+YNDX US Equity,YANDEX NV-A,7185632768,,NASDAQ GS,,Information Technology
+AIV US Equity,APARTMENT INVEST,7176028160,,New York,,Real Estate
+PHM US Equity,PULTEGROUP INC,7174785024,,New York,,Consumer Discretionary
+IEX US Equity,IDEX CORP,7158586880,,New York,,Industrials
+SRCL US Equity,STERICYCLE INC,7156281344,,NASDAQ GS,,Industrials
+MHG US Equity,MARINE HARVE-ADR,7151861248,,New York,,Consumer Staples
+BBBY US Equity,BED BATH &BEYOND,7134609408,,NASDAQ GS,,Consumer Discretionary
+ZAYO US Equity,ZAYO GROUP HOLDI,7121762816,,New York,,Telecommunication Services
+H US Equity,HYATT HOTELS-A,7094681600,,New York,,Consumer Discretionary
+LII US Equity,LENNOX INTL INC,7093002752,,New York,,Industrials
+OHI US Equity,OMEGA HEALTHCARE,7085763072,,New York,,Real Estate
+GLPI US Equity,GAMING AND LEISU,7070546944,,NASDAQ GS,,Real Estate
+URI US Equity,UNITED RENTALS,7061758464,,New York,,Industrials
+PAGP US Equity,PLAINS GP HOLD-A,7057735680,,New York,,Energy
+WPC US Equity,WP CAREY INC,7033407488,,New York,,Real Estate
+ITC US Equity,ITC HOLDINGS COR,7029041152,,New York,,Utilities
+IEP US Equity,ICAHN ENTERPRISE,7025532928,,NASDAQ GS,,Industrials
+JKHY US Equity,JACK HENRY,6984985600,,NASDAQ GS,,Information Technology
+AU US Equity,ANGLOGOLD AS-ADR,6982075904,,New York,,Materials
+CSGP US Equity,COSTAR GROUP INC,6946012672,,NASDAQ GS,,Information Technology
+AVY US Equity,AVERY DENNISON,6943292416,,New York,,Materials
+ALLE US Equity,ALLEGION PLC,6942053376,,New York,,Industrials
+MPEL US Equity,MELCO CROWN-ADR,6941649920,,NASDAQ GS,,Consumer Discretionary
+RGA US Equity,REINSURANCE GROU,6933198848,,New York,,Financials
+LEG US Equity,LEGGETT & PLATT,6929536512,,New York,,Consumer Discretionary
+DDR US Equity,DDR CORP,6929147904,,New York,,Real Estate
+AXTA US Equity,AXALTA COATING S,6927604736,,New York,,Materials
+WAB US Equity,WABTEC CORP,6908639744,,New York,,Industrials
+CSC US Equity,COMPUTER SCIENCE,6892160512,,New York,,Information Technology
+RRC US Equity,RANGE RESOURCES,6883556864,,New York,,Energy
+SWN US Equity,SOUTHWESTRN ENGY,6873835520,,New York,,Energy
+LUK US Equity,LEUCADIA NATL,6858262016,,New York,,Financials
+ALKS US Equity,ALKERMES PLC,6838238208,,NASDAQ GS,,Health Care
+TRMB US Equity,TRIMBLE NAVIG,6834867712,,NASDAQ GS,,Information Technology
+YPF US Equity,YPF SA-ADR,6827910144,,New York,,Energy
+OAK US Equity,OAKTREE CAPITAL,6827368960,,New York,,Financials
+UHAL US Equity,AMERCO,6818412032,,NASDAQ GS,,Industrials
+WUBA US Equity,58.COM-ADR,6798422016,,New York,,Information Technology
+CSL US Equity,CARLISLE COS INC,6781609984,,New York,,Industrials
+WLK US Equity,WESTLAKE CHEMICA,6772715520,,New York,,Materials
+EQGP US Equity,EQT GP HOLDINGS,6752606208,,New York,,Energy
+SSNC US Equity,SS&C TECHNOLOGIE,6740127744,,NASDAQ GS,,Information Technology
+WF US Equity,WOORI BANK - ADR,6732959744,,New York,,Financials
+ELS US Equity,EQUITY LIFESTYLE,6726513664,,New York,,Real Estate
+MIC US Equity,MACQUARIE INFRAS,6691645440,,New York,,Industrials
+KRC US Equity,KILROY REALTY,6679339008,,New York,,Real Estate
+DKS US Equity,DICK'S SPORTING,6665259008,,New York,,Consumer Discretionary
+ACC US Equity,AMERICAN CAMPUS,6651195392,,New York,,Real Estate
+MRVL US Equity,MARVELL TECH GRP,6650712064,,NASDAQ GS,,Information Technology
+STM US Equity,STMICROELECTR-NY,6640977920,,New York,,Information Technology
+EDU US Equity,NEW ORIENTAL-ADR,6613128704,,New York,,Consumer Discretionary
+NVR US Equity,NVR INC,6607548416,,New York,,Consumer Discretionary
+ST US Equity,SENSATA TECHNOLO,6541151744,,New York,,Industrials
+YZC US Equity,YANZHOU COAL-ADR,6535044608,,New York,,Energy
+AFG US Equity,AMER FINL GROUP,6523091968,,New York,,Financials
+TEAM US Equity,ATLASSIAN CORP-A,6512389632,,NASDAQ GS,,Information Technology
+HP US Equity,HELMERICH & PAYN,6504501248,,New York,,Energy
+MKTX US Equity,MARKETAXESS,6492239360,,NASDAQ GS,,Financials
+SBS US Equity,SABESP-ADR,6486508544,,New York,,Utilities
+SBNY US Equity,SIGNATURE BANK,6483150848,,NASDAQ GS,,Financials
+AGNC US Equity,AMERICAN CAPITAL,6478571520,,NASDAQ GS,,Financials
+EQM US Equity,EQT MIDSTREAM PA,6466012672,,New York,,Energy
+SRC US Equity,SPIRIT REALTY,6394108928,,New York,,Real Estate
+OC US Equity,OWENS CORNING,6370938880,,New York,,Industrials
+FTNT US Equity,FORTINET INC,6360092672,,NASDAQ GS,,Information Technology
+FLS US Equity,FLOWSERVE CORP,6358630912,,New York,,Industrials
+FMC US Equity,FMC CORP,6357274112,,New York,,Materials
+ZION US Equity,ZIONS BANCORP,6352283648,,NASDAQ GS,,Financials
+ROL US Equity,ROLLINS INC,6350351872,,New York,,Industrials
+JEC US Equity,JACOBS ENGIN GRP,6344623104,,New York,,Industrials
+ENLK US Equity,ENLINK MIDSTREAM,6333926400,,New York,,Energy
+SGEN US Equity,SEATTLE GENETICS,6292326912,,NASDAQ GS,,Health Care
+TSU US Equity,TIM PARTICIP-ADR,6285000192,,New York,,Telecommunication Services
+FTI US Equity,FMC TECHNOLOGIES,6281446400,,New York,,Energy
+FCE/B US Equity,FOREST CITY RE-B,6262909440,,New York,,Real Estate
+FCE/A US Equity,FOREST CITY RE-A,6262909440,,New York,,Real Estate
+OGE US Equity,OGE ENERGY CORP,6262655488,,New York,,Utilities
+Z US Equity,ZILLOW GRO-C,6252639744,,NASDAQ GS,,Information Technology
+ZG US Equity,ZILLOW GROUP I-A,6252639744,,NASDAQ GS,,Information Technology
+EOCC US Equity,ENDESA-ADR (CHL),6236067328,,New York,,Utilities
+MD US Equity,MEDNAX INC,6228605440,,New York,,Health Care
+QGEN US Equity,QIAGEN NV,6204943872,,NASDAQ GS,,Health Care
+SIG US Equity,SIGNET JEWELERS,6198823936,,New York,,Consumer Discretionary
+ULTI US Equity,ULTIMATE SOFTWAR,6169876992,,NASDAQ GS,,Information Technology
+LDOS US Equity,LEIDOS HOLDINGS,6166872064,,New York,,Information Technology
+WST US Equity,WEST PHARMACEUT,6152508416,,New York,,Health Care
+LAMR US Equity,LAMAR ADVERTIS-A,6137942528,,NASDAQ GS,,Real Estate
+LPT US Equity,LIBERTY PROP,6136585216,,New York,,Real Estate
+TYL US Equity,TYLER TECHNOLOG,6136439808,,New York,,Information Technology
+TRU US Equity,TRANSUNION,6134088704,,New York,,Industrials
+STE US Equity,STERIS PLC,6116553216,,New York,,Health Care
+BKFS US Equity,BLACK KNIGHT F-A,6084488192,,New York,,Information Technology
+PF US Equity,PINNACLE FOODS I,6069826560,,New York,,Consumer Staples
+CF US Equity,CF INDUSTRIES HO,6047389696,,New York,,Materials
+HUBB US Equity,HUBBELL INC,6019738624,,New York,,Industrials
+ENBL US Equity,ENABLE MIDSTREAM,6018018816,,New York,,Energy
+WBC US Equity,WABCO HOLDINGS,6005556224,,New York,,Industrials
+HAR US Equity,HARMAN INTL,6000644608,,New York,,Consumer Discretionary
+BURL US Equity,BURLINGTON STORE,5991852544,,New York,,Consumer Discretionary
+PPC US Equity,PILGRIM'S PRIDE,5991275520,,NASDAQ GS,,Consumer Staples
+POST US Equity,POST HOLDINGS IN,5986313216,,New York,,Consumer Staples
+AMD US Equity,ADV MICRO DEVICE,5974639104,,NASDAQ CM,,Information Technology
+ARW US Equity,ARROW ELECTRONIC,5954192896,,New York,,Information Technology
+SPR US Equity,SPIRIT AEROSYS-A,5953098752,,New York,,Industrials
+ALNY US Equity,ALNYLAM PHARMACE,5929573376,,NASDAQ GS,,Health Care
+STLD US Equity,STEEL DYNAMICS,5928274944,,NASDAQ GS,,Materials
+KAR US Equity,KAR AUCTION SERV,5896870400,,New York,,Industrials
+ODFL US Equity,OLD DOMINION FRT,5874223616,,NASDAQ GS,,Industrials
+PKI US Equity,PERKINELMER INC,5848628736,,New York,,Health Care
+MTN US Equity,VAIL RESORTS,5836052480,,New York,,Consumer Discretionary
+WOOF US Equity,VCA INC,5819111936,,NASDAQ GS,,Health Care
+SIVB US Equity,SVB FINANCIAL GR,5811553792,,NASDAQ GS,,Financials
+VOYA US Equity,VOYA FINANCIAL I,5808701952,,New York,,Financials
+EGN US Equity,ENERGEN CORP,5771778560,,New York,,Energy
+COMM US Equity,COMMSCOPE HOLDIN,5754108928,,NASDAQ GS,,Information Technology
+DEI US Equity,DOUGLAS EMMETT,5742346752,,New York,,Real Estate
+NDSN US Equity,NORDSON CORP,5737610752,,NASDAQ GS,,Industrials
+SINA US Equity,SINA CORP,5720182272,,NASDAQ GS,,Information Technology
+HLF US Equity,HERBALIFE LTD,5699801600,,New York,,Consumer Staples
+LVNTB US Equity,LIBERTY VENTUR-B,5677338112,,NASDAQ GS,,Consumer Discretionary
+LVNTA US Equity,LIBERTY VENTUR-A,5677338112,,NASDAQ GS,,Consumer Discretionary
+PAC US Equity,GRUPO AEROPO-ADR,5669466112,,New York,,Industrials
+CPRT US Equity,COPART INC,5652881408,,NASDAQ GS,,Industrials
+ANET US Equity,ARISTA NETWORKS,5640545280,,New York,,Information Technology
+BERY US Equity,BERRY PLASTICS G,5589952000,,New York,,Materials
+CBOE US Equity,CBOE HOLDINGS IN,5570482176,,NASDAQ GS,,Financials
+SPLS US Equity,STAPLES INC,5567624704,,NASDAQ GS,,Consumer Discretionary
+GRA US Equity,WR GRACE & CO,5548697600,,New York,,Materials
+MGP US Equity,MGM GROWTH PRO-A,5525095936,,New York,,Real Estate
+STWD US Equity,STARWOOD PROPERT,5510819840,,New York,,Financials
+LYV US Equity,LIVE NATION ENTE,5497515008,,New York,,Consumer Discretionary
+WTR US Equity,AQUA AMERICA INC,5493682176,,New York,,Utilities
+VEEV US Equity,VEEVA SYSTEMS-A,5490304512,,New York,,Health Care
+SHLX US Equity,SHELL MIDSTREAM,5480882176,,New York,,Energy
+USFD US Equity,US FOODS HOLDING,5460066304,,New York,,Consumer Staples
+SNH US Equity,SENIOR HOUSING,5443134464,,NASDAQ GS,,Real Estate
+AIZ US Equity,ASSURANT INC,5432848896,,New York,,Financials
+ARRS US Equity,ARRIS INTERNATIO,5424706048,,NASDAQ GS,,Information Technology
+ERIE US Equity,ERIE INDEMNITY-A,5421936640,,NASDAQ GS,,Financials
+TARO US Equity,TARO PHARM INDUS,5412840960,,New York,,Health Care
+JLL US Equity,JONES LANG LASAL,5398487552,,New York,,Real Estate
+EWBC US Equity,EAST WEST BNCRP,5398104064,,NASDAQ GS,,Financials
+BAK US Equity,BRASKEM SA-ADR,5391389696,,New York,,Materials
+PII US Equity,POLARIS INDS,5379776512,,New York,,Consumer Discretionary
+THS US Equity,TREEHOUSE FOODS,5357510144,,New York,,Consumer Staples
+FTR US Equity,FRONTIER COMMUNI,5349203968,,NASDAQ GS,,Telecommunication Services
+GDDY US Equity,GODADDY INC-A,5342748672,,New York,,Information Technology
+UTHR US Equity,UNITED THERAPEUT,5342626816,,NASDAQ GS,,Health Care
+TTC US Equity,TORO CO,5326819840,,New York,,Industrials
+AVT US Equity,AVNET INC,5326434304,,New York,,Information Technology
+ENIC US Equity,ENERSIS CHILE SA,5321656320,,New York,,Utilities
+AMH US Equity,AMERICAN HOMES-A,5320538112,,New York,,Real Estate
+WRI US Equity,WEINGARTEN RLTY,5316548608,,New York,,Real Estate
+BRO US Equity,BROWN & BROWN,5312821248,,New York,,Financials
+WSO US Equity,WATSCO INC,5302825472,,New York,,Industrials
+WSO/B US Equity,WATSCO INC -B,5302825472,,New York,,Industrials
+BEAV US Equity,B/E AEROSPACE IN,5296698880,,NASDAQ GS,,Industrials
+SUI US Equity,SUN COMMUNITIES,5290668032,,New York,,Real Estate
+HIW US Equity,HIGHWOODS PROP,5278690816,,New York,,Real Estate
+SON US Equity,SONOCO PRODUCTS,5273476608,,New York,,Materials
+RS US Equity,RELIANCE STEEL,5259138560,,New York,,Materials
+PACW US Equity,PACWEST BANCORP,5249978880,,NASDAQ GS,,Financials
+NEU US Equity,NEWMARKET CORP,5234971648,,New York,,Materials
+CASY US Equity,CASEY'S GENERAL,5224031232,,NASDAQ GS,,Consumer Staples
+IM US Equity,INGRAM MICRO INC,5220124160,,New York,,Information Technology
+SCI US Equity,SERVICE CORP INT,5212520448,,New York,,Consumer Discretionary
+OPK US Equity,OPKO HEALTH,5195027456,,NASDAQ GS,,Health Care
+KEYS US Equity,KEYSIGHT TEC,5172881408,,New York,,Information Technology
+AXS US Equity,AXIS CAPITAL,5167473152,,New York,,Financials
+TFSL US Equity,TFS FINANCIAL CO,5167431680,,NASDAQ GS,,Financials
+ARCC US Equity,ARES CAPITAL COR,5145705984,,NASDAQ GS,,Financials
+PNRA US Equity,PANERA BREAD-A,5137412096,,NASDAQ GS,,Consumer Discretionary
+JBLU US Equity,JETBLUE AIRWAYS,5129613312,,NASDAQ GS,,Industrials
+CHK US Equity,CHESAPEAKE ENERG,5127909888,,New York,,Energy
+PSXP US Equity,PHILLIPS 66 PART,5124598272,,New York,,Energy
+GNTX US Equity,GENTEX CORP,5122085376,,NASDAQ GS,,Consumer Discretionary
+RGLD US Equity,ROYAL GOLD INC,5116687360,,NASDAQ GS,,Materials
+TOL US Equity,TOLL BROTHERS,5094696960,,New York,,Consumer Discretionary
+DCI US Equity,DONALDSON CO INC,5093449216,,New York,,Industrials
+SERV US Equity,SERVICEMASTER GL,5089586176,,New York,,Consumer Discretionary
+PBCT US Equity,PEOPLE'S UNITED,5082164736,,NASDAQ GS,,Financials
+XRS US Equity,TAL EDUCATIO-ADR,5081864192,,New York,,Consumer Discretionary
+EPR US Equity,EPR PROPERTIES,5063387648,,New York,,Real Estate
+WCG US Equity,WELLCARE HEALTH,5058970624,,New York,,Health Care
+ABMD US Equity,ABIOMED INC,5053522432,,NASDAQ GS,,Health Care
+BUFF US Equity,BLUE BUFFALO PET,5052153856,,NASDAQ GS,,Consumer Staples
+ORI US Equity,OLD REPUB INTL,5052077568,,New York,,Financials
+CG US Equity,CARLYLE GROUP/TH,5050369024,,NASDAQ GS,,Financials
+CUBE US Equity,CUBESMART,5048871936,,New York,,Real Estate
+WFT US Equity,WEATHERFORD INTE,5036371968,,New York,,Energy
+SMG US Equity,SCOTTS MIRACLE-A,5034615296,,New York,,Materials
+MIK US Equity,MICHAELS COS INC,5023839232,,NASDAQ GS,,Consumer Discretionary
+DNB US Equity,DUN & BRADSTREET,5022701568,,New York,,Industrials
+LILAK US Equity,LIBERTY LILAC-C,5016327680,,NASDAQ GS,,Consumer Discretionary
+LILA US Equity,LIBERTY LILAC-A,5016327680,,NASDAQ GS,,Consumer Discretionary
+DLB US Equity,DOLBY LABORATO-A,5012438016,,New York,,Information Technology
+RHI US Equity,ROBERT HALF INTL,5010397184,,New York,,Industrials
+PTC US Equity,PTC INC,5007486464,,NASDAQ GS,,Information Technology
+BMS US Equity,BEMIS CO,5003578368,,New York,,Materials
+G US Equity,GENPACT LTD,5002020352,,New York,,Information Technology
+ATR US Equity,APTARGROUP INC,4981969920,,New York,,Materials
+RNR US Equity,RENAISSANCERE,4969305088,,New York,,Financials
+HPT US Equity,HOSPITALITY PROP,4966201344,,NASDAQ GS,,Real Estate
+MAN US Equity,MANPOWERGROUP IN,4958949376,,New York,,Industrials
+CLB US Equity,CORE LABS NV,4954019840,,New York,,Energy
+AN US Equity,AUTONATION INC,4938054656,,New York,,Consumer Discretionary
+NFG US Equity,NATL FUEL GAS CO,4936978432,,New York,,Utilities
+CBSH US Equity,COMMERCE BCSHS,4926681088,,NASDAQ GS,,Financials
+CSAL US Equity,COMMUNICATION,4909834752,,NASDAQ GS,,Real Estate
+AM US Equity,ANTERO MIDSTREAM,4888894976,,New York,,Energy
+PNY US Equity,PIEDMONT NAT GAS,4883318784,,New York,,Utilities
+TWLO US Equity,TWILIO INC - A,4872907264,,New York,,Information Technology
+LAZ US Equity,LAZARD LTD-CL A,4870672896,,New York,,Financials
+ATHN US Equity,ATHENAHEALTH INC,4863248384,,NASDAQ GS,,Health Care
+TLLP US Equity,TESORO LOGISTICS,4837688320,,New York,,Energy
+OZRK US Equity,BANK OZARKS,4803153408,,NASDAQ GS,,Financials
+SMI US Equity,SEMICONDUCTOR-AD,4802004992,,New York,,Information Technology
+TCO US Equity,TAUBMAN CENTERS,4780793856,,New York,,Real Estate
+CRI US Equity,CARTER'S INC,4761729024,,New York,,Consumer Discretionary
+HRB US Equity,H&R BLOCK INC,4743373312,,New York,,Consumer Discretionary
+HHC US Equity,HOWARD HUGHE,4742234624,,New York,,Real Estate
+ASR US Equity,GRUPO AEROPO-ADR,4736099840,,New York,,Industrials
+EPC US Equity,EDGEWELL PERSONA,4727861248,,New York,,Consumer Staples
+IGT US Equity,INTERNATIONAL GA,4724310528,,New York,,Consumer Discretionary
+UMC US Equity,UNITED MICRO-ADR,4721495040,,New York,,Information Technology
+FAF US Equity,FIRST AMERICAN F,4714567168,,New York,,Financials
+ACM US Equity,AECOM,4712271872,,New York,,Industrials
+MOMO US Equity,MOMO INC-ADR,4697117184,,NASDAQ GS,,Information Technology
+IAC US Equity,IAC/INTERACTIVEC,4694986240,,NASDAQ GS,,Information Technology
+HTA US Equity,HEALTHCARE TRU-A,4679011328,,New York,,Real Estate
+MDU US Equity,MDU RES GROUP,4667774464,,New York,,Utilities
+ALSN US Equity,ALLISON TRANSMIS,4662623232,,New York,,Industrials
+GPK US Equity,GRAPHIC PACKAGIN,4655882240,,New York,,Materials
+PDCO US Equity,PATTERSON COS,4651254272,,NASDAQ GS,,Health Care
+WSM US Equity,WILLIAMS-SONOMA,4638710272,,New York,,Consumer Discretionary
+IPGP US Equity,IPG PHOTONICS,4619516928,,NASDAQ GS,,Information Technology
+MUR US Equity,MURPHY OIL CORP,4614936064,,New York,,Energy
+QEP US Equity,QEP RESOURCES IN,4605221376,,New York,,Energy
+NAVI US Equity,NAVIENT CORP,4590638080,,NASDAQ GS,,Financials
+ON US Equity,ON SEMICONDUCTOR,4583528448,,NASDAQ GS,,Information Technology
+TPX US Equity,TEMPUR SEALY INT,4576112128,,New York,,Consumer Discretionary
+CFR US Equity,CULLEN/FROST,4572347392,,New York,,Financials
+GWRE US Equity,GUIDEWIRE SOFTWA,4569661952,,New York,,Information Technology
+EV US Equity,EATON VANCE CORP,4569509376,,New York,,Financials
+BOKF US Equity,BOK FINL CORP,4566511616,,NASDAQ GS,,Financials
+SPIL US Equity,SILICONWARE-ADR,4562352640,,NASDAQ GS,,Information Technology
+OA US Equity,ORBITAL ATK INC,4560430592,,New York,,Industrials
+MSM US Equity,MSC INDL DIRECT,4558481920,,New York,,Industrials
+STOR US Equity,STORE CAPITAL,4542533120,,New York,,Real Estate
+MSCC US Equity,MICROSEMI CORP,4539973120,,NASDAQ GS,,Information Technology
+BAH US Equity,BOOZ ALLEN HAMIL,4539752448,,New York,,Information Technology
+GFI US Equity,GOLD FIELDS-ADR,4534860288,,New York,,Materials
+AFSI US Equity,AMTRUST FIN SERV,4534674432,,NASDAQ GS,,Financials
+CNK US Equity,CINEMARK HOLDING,4532578304,,New York,,Consumer Discretionary
+DNKN US Equity,DUNKIN' BRANDS G,4527545344,,NASDAQ GS,,Consumer Discretionary
+PINC US Equity,PREMIER INC-CL A,4522074112,,NASDAQ GS,,Health Care
+EQY US Equity,EQUITY ONE INC,4515847680,,New York,,Real Estate
+ACHC US Equity,ACADIA HEALTHCAR,4511582208,,NASDAQ GS,,Health Care
+BMA US Equity,BANCO MACRO -ADR,4495652864,,New York,,Financials
+SIX US Equity,SIX FLAGS ENTERT,4494462976,,New York,,Consumer Discretionary
+GGB US Equity,GERDAU SA-ADR,4483273728,,New York,,Materials
+CPN US Equity,CALPINE CORP,4482061824,,New York,,Utilities
+ENH US Equity,ENDURANCE SPECIA,4481840128,,New York,,Financials
+SC US Equity,SANTANDER CONSUM,4458992128,,New York,,Financials
+BIO/B US Equity,BIO-RAD LABS-B,4448380416,,New York,,Health Care
+BIO US Equity,BIO-RAD LABS-A,4448380416,,New York,,Health Care
+WEX US Equity,WEX INC,4447187968,,New York,,Information Technology
+WPX US Equity,WPX ENERGY,4445372416,,New York,,Energy
+DCT US Equity,DCT INDUSTRIAL T,4435355648,,New York,,Real Estate
+TGNA US Equity,TEGNA INC,4427922944,,New York,,Consumer Discretionary
+ITCB US Equity,ITAU CORPBANCA,4420362240,,New York,,Financials
+MANH US Equity,MANHATTAN ASSOC,4420177920,,NASDAQ GS,,Information Technology
+ENDP US Equity,ENDO INTERNATION,4415235584,,NASDAQ GS,,Health Care
+DATA US Equity,TABLEAU SOFTWA-A,4401398272,,New York,,Information Technology
+STR US Equity,QUESTAR CORP,4398284288,,New York,,Utilities
+LFL US Equity,LATAM AIRLIN-ADR,4386204672,,New York,,Industrials
+FEIC US Equity,FEI COMPANY,4372679168,,NASDAQ GS,,Information Technology
+GSH US Equity,GUANGSHEN RA-ADR,4366238720,,New York,,Industrials
+TSRO US Equity,TESARO INC,4359407616,,NASDAQ GS,,Health Care
+HFC US Equity,HOLLYFRONTIER CO,4356506112,,New York,,Energy
+MSG US Equity,MADISON SQUARE-A,4353843200,,New York,,Consumer Discretionary
+UBNT US Equity,UBIQUITI NETWORK,4350587392,,NASDAQ GS,,Information Technology
+CSRA US Equity,CSRA INC,4319779328,,New York,,Information Technology
+LECO US Equity,LINCOLN ELECTRIC,4319751680,,NASDAQ GS,,Industrials
+CAA US Equity,CALATLANTIC GROU,4317086208,,New York,,Consumer Discretionary
+TER US Equity,TERADYNE INC,4305600000,,New York,,Information Technology
+CBD US Equity,PAO ACUCAR-ADR,4302763008,,New York,,Consumer Staples
+THO US Equity,THOR INDUSTRIES,4297276416,,New York,,Consumer Discretionary
+CGNX US Equity,COGNEX CORP,4297155072,,NASDAQ GS,,Information Technology
+GEL US Equity,GENESIS ENERGY,4289449472,,New York,,Energy
+NBIX US Equity,NEUROCRINE BIOSC,4289000704,,NASDAQ GS,,Health Care
+APU US Equity,AMERIGAS PARTNER,4280981504,,New York,,Utilities
+GXP US Equity,GREAT PLAINS ENE,4271532544,,New York,,Utilities
+NCR US Equity,NCR CORP,4269861888,,New York,,Information Technology
+LSI US Equity,LIFE STORAGE INC,4264297728,,New York,,Real Estate
+FLIR US Equity,FLIR SYSTEMS,4262582272,,NASDAQ GS,,Information Technology
+CONE US Equity,CYRUSONE INC,4244158720,,NASDAQ GS,,Real Estate
+ICLR US Equity,ICON PLC,4239530496,,NASDAQ GS,,Health Care
+URBN US Equity,URBAN OUTFITTER,4228628480,,NASDAQ GS,,Consumer Discretionary
+SNX US Equity,SYNNEX CORP,4228489728,,New York,,Information Technology
+POOL US Equity,POOL CORP,4222390784,,NASDAQ GS,,Consumer Discretionary
+QUNR US Equity,QUNAR CAYMAN-ADR,4218958848,,NASDAQ GM,,Consumer Discretionary
+HEI/A US Equity,HEICO CORP-A,4214753792,,New York,,Industrials
+HEI US Equity,HEICO CORP,4214753792,,New York,,Industrials
+CNX US Equity,CONSOL ENERGY,4214732032,,New York,,Energy
+HTZ US Equity,HERTZ GLOBAL HOL,4214427136,,New York,,Industrials
+BC US Equity,BRUNSWICK CORP,4207855104,,New York,,Consumer Discretionary
+HXL US Equity,HEXCEL CORP,4205663488,,New York,,Industrials
+RICE US Equity,RICE ENERGY INC,4201172224,,New York,,Energy
+HUN US Equity,HUNTSMAN CORP,4198860800,,New York,,Materials
+GGG US Equity,GRACO INC,4179822592,,New York,,Industrials
+NUAN US Equity,NUANCE COMMUNICA,4167377920,,NASDAQ GS,,Information Technology
+BWP US Equity,BOARDWALK PIPELI,4152423680,,New York,,Energy
+EVHC US Equity,ENVISION HEALTHC,4151439104,,New York,,Health Care
+TDC US Equity,TERADATA CORP,4140199936,,New York,,Information Technology
+BPOP US Equity,POPULAR INC,4122583552,,NASDAQ GS,,Financials
+SNV US Equity,SYNOVUS FINL,4119459328,,New York,,Financials
+SQ US Equity,SQUARE INC - A,4118266624,,New York,,Information Technology
+NICE US Equity,NICE LTD -SP ADR,4108632320,,NASDAQ GS,,Information Technology
+EEFT US Equity,EURONET WORLDWID,4105613824,,NASDAQ GS,,Information Technology
+HR US Equity,HEALTHCARE RLTY,4105005056,,New York,,Real Estate
+VVC US Equity,VECTREN CORP,4094576640,,New York,,Utilities
+JBL US Equity,JABIL CIRCUIT,4093053952,,New York,,Information Technology
+OMF US Equity,ONEMAIN HOLDINGS,4089762816,,New York,,Financials
+FICO US Equity,FAIR ISAAC CORP,4083910400,,New York,,Information Technology
+WTM US Equity,WHITE MOUNTAINS,4081633280,,New York,,Financials
+VR US Equity,VALIDUS HOLDINGS,4074724864,,New York,,Financials
+RPAI US Equity,RETAIL PROPERTIE,4071119872,,New York,,Real Estate
+GPT US Equity,GRAMERCY PROPERT,4066683392,,New York,,Real Estate
+BWXT US Equity,BWX TECHNOLOGIES,4064194560,,New York,,Industrials
+CACC US Equity,CREDIT ACCEPTANC,4059971072,,NASDAQ GS,,Financials
+SBH US Equity,SALLY BEAUTY HOL,4057989888,,New York,,Consumer Discretionary
+ACIA US Equity,ACACIA COMMUNICA,4051304960,,NASDAQ GS,,Information Technology
+CW US Equity,CURTISS-WRIGHT,4047805952,,New York,,Industrials
+COR US Equity,CORESITE REALTY,4041716224,,New York,,Real Estate
+SID US Equity,SID NACIONAL-ADR,4037694976,,New York,,Materials
+MTCH US Equity,MATCH GROUP INC,4037678592,,NASDAQ GS,,Information Technology
+BFAM US Equity,BRIGHT HORIZONS,4031805696,,New York,,Consumer Discretionary
+TX US Equity,TERNIUM SA-ADR,4029534208,,New York,,Materials
+HPP US Equity,HUDSON PACIFIC P,4028977920,,New York,,Real Estate
+WAL US Equity,WESTERN ALLIANCE,4028465920,,New York,,Financials
+OSK US Equity,OSHKOSH CORP,4025485568,,New York,,Industrials
+DST US Equity,DST SYSTEMS INC,4024424960,,New York,,Information Technology
+USG US Equity,USG CORP,4022497536,,New York,,Industrials
+RSPP US Equity,RSP PERMIAN INC,4017931264,,New York,,Energy
+CRL US Equity,CHARLES RIVER LA,3992516608,,New York,,Health Care
+CCU US Equity,CERVEZAS-SPN ADR,3990630912,,New York,,Consumer Staples
+TECH US Equity,BIO-TECHNE CORP,3986231040,,NASDAQ GS,,Health Care
+RAX US Equity,RACKSPACE HOSTIN,3975855360,,New York,,Information Technology
+EQC US Equity,EQUITY COMMONWEA,3975642112,,New York,,Real Estate
+GGAL US Equity,GRUPO GALICI-ADR,3972308224,,NASDAQ CM,,Financials
+COLM US Equity,COLUMBIA SPORTSW,3967032064,,NASDAQ GS,,Consumer Discretionary
+GWR US Equity,GENESEE & WYOMIN,3954764800,,New York,,Industrials
+PWR US Equity,QUANTA SERVICES,3951978752,,New York,,Industrials
+PAG US Equity,PENSKE AUTOMOTIV,3948726016,,New York,,Consumer Discretionary
+XPO US Equity,XPO LOGISTICS IN,3941184768,,New York,,Industrials
+PGRE US Equity,PARAMOUNT GROUP,3939845632,,New York,,Real Estate
+HRC US Equity,HILL-ROM HOLDING,3925933056,,New York,,Health Care
+WWD US Equity,WOODWARD INC,3920656896,,NASDAQ GS,,Industrials
+AMCX US Equity,AMC NETWORKS-A,3917703680,,NASDAQ GS,,Consumer Discretionary
+EXP US Equity,EAGLE MATERIALS,3917287168,,New York,,Materials
+RLGY US Equity,REALOGY HOLDINGS,3910265856,,New York,,Real Estate
+FSLR US Equity,FIRST SOLAR INC,3908087808,,NASDAQ GS,,Information Technology
+SKT US Equity,TANGER FACTORY,3901701632,,New York,,Real Estate
+IDA US Equity,IDACORP INC,3890093568,,New York,,Utilities
+PB US Equity,PROSPERITY BNCSH,3888773888,,New York,,Financials
+FBR US Equity,FIBRIA CELUL-ADR,3877542400,,New York,,Materials
+SKX US Equity,SKECHERS USA-A,3863828992,,New York,,Consumer Discretionary
+PTHN US Equity,PATHEON NV,3862550016,,New York,,Health Care
+AGCO US Equity,AGCO CORP,3860260864,,New York,,Industrials
+DPM US Equity,DCP MIDSTREAM PA,3850773248,,New York,,Energy
+TTWO US Equity,TAKE-TWO INTERAC,3844884480,,NASDAQ GS,,Information Technology
+ARES US Equity,ARES MANAGEMENT,3834172672,,New York,,Financials
+BVN US Equity,BUENAVENTURA-ADR,3825372160,,New York,,Materials
+MMS US Equity,MAXIMUS INC,3816938240,,New York,,Information Technology
+EOCA US Equity,ENDESA AMER-ADR,3808348160,,New York,,Utilities
+CR US Equity,CRANE CO,3805327616,,New York,,Industrials
+CY US Equity,CYPRESS SEMICON,3800357888,,NASDAQ GS,,Information Technology
+POR US Equity,PORTLAND GENERAL,3792482816,,New York,,Utilities
+FHB US Equity,FIRST HAWAIIA,3791907072,,NASDAQ GS,,Financials
+HAIN US Equity,HAIN CELESTIAL,3791375872,,NASDAQ GS,,Consumer Staples
+TDY US Equity,TELEDYNE TECH,3786942976,,New York,,Industrials
+ACAD US Equity,ACADIA PHARMACEU,3782794752,,NASDAQ GS,,Health Care
+ISBC US Equity,INVESTORS BANCOR,3780639744,,NASDAQ GS,,Financials
+NRG US Equity,NRG ENERGY,3777056256,,New York,,Utilities
+SBGL US Equity,SIBANYE GOLD,3757973248,,New York,,Materials
+LANC US Equity,LANCASTER COLONY,3741963008,,NASDAQ GS,,Consumer Staples
+VSAT US Equity,VIASAT INC,3736938496,,NASDAQ GS,,Information Technology
+NS US Equity,NUSTAR ENERGY LP,3731539456,,New York,,Energy
+ICPT US Equity,INTERCEPT PHARMA,3727254016,,NASDAQ GS,,Health Care
+SATS US Equity,ECHOSTAR CORP-A,3705517312,,NASDAQ GS,,Information Technology
+PVTB US Equity,PRIVATEBANCORP,3701026304,,NASDAQ GS,,Financials
+MPW US Equity,MEDICAL PROPERTI,3698142208,,New York,,Real Estate
+SYNT US Equity,SYNTEL INC,3696982528,,NASDAQ GS,,Information Technology
+TRN US Equity,TRINITY INDUSTRI,3695517440,,New York,,Industrials
+AMSG US Equity,AMSURG CORP,3688172032,,NASDAQ GS,,Health Care
+OLN US Equity,OLIN CORP,3681508608,,New York,,Materials
+ZBRA US Equity,ZEBRA TECH CORP,3674158592,,NASDAQ GS,,Information Technology
+ACAS US Equity,AMERICAN CAPITAL,3673453568,,NASDAQ GS,,Financials
+HLS US Equity,HEALTHSOUTH CORP,3663530752,,New York,,Health Care
+AZPN US Equity,ASPEN TECHNOLOGY,3661548544,,NASDAQ GS,,Information Technology
+CFX US Equity,COLFAX CORP,3660159744,,New York,,Industrials
+CLGX US Equity,CORELOGIC INC,3659893248,,New York,,Information Technology
+TEGP US Equity,TALLGRASS ENERGY,3657156864,,New York,,Energy
+CIG/C US Equity,CEMIG-ADR,3654806272,,New York,,Utilities
+CIG US Equity,CEMIG SA-ADR,3654806272,,New York,,Utilities
+VWR US Equity,VWR CORP,3653761024,,NASDAQ GS,,Health Care
+AGO US Equity,ASSURED GUARANTY,3650547968,,New York,,Financials
+GPOR US Equity,GULFPORT ENERGY,3638155264,,NASDAQ GS,,Energy
+MORN US Equity,MORNINGSTAR INC,3634180608,,NASDAQ GS,,Financials
+PRXL US Equity,PAREXEL INTL,3633392384,,NASDAQ GS,,Health Care
+CST US Equity,CST BRANDS,3621521664,,New York,,Consumer Discretionary
+NRZ US Equity,NEW RESIDENT,3619623936,,New York,,Financials
+PPS US Equity,POST PROPERTIES,3616495616,,New York,,Real Estate
+BRCD US Equity,BROCADE COMM SYS,3615848192,,NASDAQ GS,,Information Technology
+BRKR US Equity,BRUKER CORP,3614989824,,NASDAQ GS,,Health Care
+CBRL US Equity,CRACKER BARREL,3611889920,,NASDAQ GS,,Consumer Discretionary
+NATI US Equity,NATL INSTRUMENTS,3604847616,,NASDAQ GS,,Information Technology
+BFR US Equity,BBVA BANCO F-ADR,3604239872,,New York,,Financials
+LM US Equity,LEGG MASON INC,3604161024,,New York,,Financials
+EPAM US Equity,EPAM SYSTEMS INC,3600089088,,New York,,Information Technology
+UMPQ US Equity,UMPQUA HOLDINGS,3597997056,,NASDAQ GS,,Financials
+RRD US Equity,RR DONNELLEY & S,3595020032,,New York,,Industrials
+FHN US Equity,FIRST HORIZON NA,3591654656,,New York,,Financials
+AUO US Equity,AU OPTR-SPON ADR,3589843456,,New York,,Information Technology
+WBS US Equity,WEBSTER FINL,3563387136,,New York,,Financials
+IONS US Equity,IONIS PHARMACEUT,3562274560,,NASDAQ GS,,Health Care
+R US Equity,RYDER SYSTEM INC,3558456320,,New York,,Industrials
+TRCO US Equity,TRIBUNE MEDIA -A,3553582848,,New York,,Consumer Discretionary
+AWH US Equity,ALLIED WORLD ASS,3545457920,,New York,,Financials
+GRUB US Equity,GRUBHUB INC,3533660160,,New York,,Information Technology
+EME US Equity,EMCOR GROUP INC,3523355136,,New York,,Industrials
+RIG US Equity,TRANSOCEAN LTD,3518722560,,New York,,Energy
+PBI US Equity,PITNEY BOWES INC,3509504000,,New York,,Industrials
+TEO US Equity,TELECOM ARGE-ADR,3477344768,,New York,,Telecommunication Services
+TCP US Equity,TC PIPELINES LP,3454443520,,New York,,Energy
+RYN US Equity,RAYONIER INC,3427981056,,New York,,Real Estate
+ERJ US Equity,EMBRAER SA-ADR,3426501888,,New York,,Industrials
+FR US Equity,FIRST IND REALTY,3403033344,,New York,,Real Estate
+LNCE US Equity,SNYDERS-LANCE,3400965888,,NASDAQ GS,,Consumer Staples
+ALR US Equity,ALERE INC,3394148608,,New York,,Health Care
+RGC US Equity,REGAL ENTERTAI-A,3391414784,,New York,,Consumer Discretionary
+TEP US Equity,TALLGRASS ENERGY,3389840896,,New York,,Energy
+JW/B US Equity,WILEY JOHN&SON-B,3386085376,,New York,,Consumer Discretionary
+JW/A US Equity,WILEY JOHN&SON-A,3386085376,,New York,,Consumer Discretionary
+FCNCA US Equity,FIRST CITIZENS-A,3377651456,,NASDAQ GS,,Financials
+FII US Equity,FEDERATED INV-B,3377266432,,New York,,Financials
+SM US Equity,SM ENERGY CO,3374776064,,New York,,Energy
+SFM US Equity,SPROUTS FARMERS,3370740992,,NASDAQ GS,,Consumer Staples
+DLX US Equity,DELUXE CORP,3370306048,,New York,,Industrials
+CAB US Equity,CABELA'S INC,3363015168,,New York,,Consumer Discretionary
+SWX US Equity,SOUTHWEST GAS CP,3362670336,,New York,,Utilities
+SXT US Equity,SENSIENT TECHNOL,3361695744,,New York,,Materials
+ESRT US Equity,EMPIRE STATE REA,3356517632,,New York,,Real Estate
+NUVA US Equity,NUVASIVE INC,3351312384,,NASDAQ GS,,Health Care
+SUN US Equity,SUNOCO LP,3350281984,,New York,,Energy
+AEO US Equity,AMER EAGLE OUTF,3344444928,,New York,,Consumer Discretionary
+AKO/A US Equity,EMBOT ANDINA-ADR,3340604160,,New York,,Consumer Staples
+AKO/B US Equity,EMBOT ANDINA-ADR,3340604160,,New York,,Consumer Staples
+THG US Equity,HANOVER INSURANC,3339565824,,New York,,Financials
+EDR US Equity,EDUCATION REALTY,3336166656,,New York,,Real Estate
+AKRX US Equity,AKORN INC,3336008704,,NASDAQ GS,,Health Care
+PFPT US Equity,PROOFPOINT INC,3335863296,,NASDAQ GM,,Information Technology
+P US Equity,PANDORA MEDIA IN,3333929984,,New York,,Information Technology
+FIT US Equity,FITBIT INC - A,3323423232,,New York,,Information Technology
+JACK US Equity,JACK IN THE BOX,3317867264,,NASDAQ GS,,Consumer Discretionary
+JCOM US Equity,J2 GLOBAL INC,3311866880,,NASDAQ GS,,Information Technology
+TUP US Equity,TUPPERWARE BRAND,3302546944,,New York,,Consumer Discretionary
+HOMB US Equity,HOME BANCSHARES,3299090688,,NASDAQ GS,,Financials
+RES US Equity,RPC INC,3298024704,,New York,,Energy
+W US Equity,WAYFAIR INC- A,3296958464,,New York,,Consumer Discretionary
+NUS US Equity,NU SKIN ENTERP-A,3296072704,,New York,,Consumer Staples
+BLKB US Equity,BLACKBAUD INC,3294945536,,NASDAQ GS,,Information Technology
+ITT US Equity,ITT INC,3292800000,,New York,,Industrials
+BKU US Equity,BANKUNITED INC,3287998720,,New York,,Financials
+APLE US Equity,APPLE HOSPITALIT,3273329408,,New York,,Real Estate
+BKD US Equity,BROOKDALE SR,3272101376,,New York,,Health Care
+FUN US Equity,CEDAR FAIR LP,3260836608,,New York,,Consumer Discretionary
+CAVM US Equity,CAVIUM INC,3258512896,,NASDAQ GS,,Information Technology
+CAR US Equity,AVIS BUDGET GROU,3258401024,,NASDAQ GS,,Industrials
+CRUS US Equity,CIRRUS LOGIC INC,3258366464,,NASDAQ GS,,Information Technology
+WGL US Equity,WGL HLDGS INC,3257102848,,New York,,Utilities
+IART US Equity,INTEGRA LIFESCIE,3256716032,,NASDAQ GS,,Health Care
+ELLI US Equity,ELLIE MAE INC,3255269632,,New York,,Information Technology
+HRG US Equity,HRG GROUP INC,3254698752,,New York,,Consumer Staples
+OGS US Equity,ONE GAS INC,3254119680,,New York,,Utilities
+DFT US Equity,DUPONT FABROS TE,3248603136,,New York,,Real Estate
+CPA US Equity,COPA HOLDIN-CL A,3248173568,,New York,,Industrials
+CLC US Equity,CLARCOR INC,3240148992,,New York,,Industrials
+HE US Equity,HAWAIIAN ELEC,3235052544,,New York,,Utilities
+CMN US Equity,CANTEL MEDICAL,3217724416,,New York,,Health Care
+ESGR US Equity,ENSTAR GROUP LTD,3215578880,,NASDAQ GS,,Financials
+BGS US Equity,B&G FOODS INC,3198128128,,New York,,Consumer Staples
+BSM US Equity,BLACK STONE MINE,3198067200,,New York,,Energy
+CABO US Equity,CABLE ONE INC,3195899904,,New York,,Consumer Discretionary
+TEN US Equity,TENNECO INC,3193933312,,New York,,Consumer Discretionary
+USM US Equity,US CELLULAR CORP,3187911680,,New York,,Telecommunication Services
+INT US Equity,WORLD FUEL SVCS,3180636928,,New York,,Energy
+SFR US Equity,COLONY STARWOOD,3176630528,,New York,,Real Estate
+CBT US Equity,CABOT CORP,3169422848,,New York,,Materials
+PDM US Equity,PIEDMONT OFFIC-A,3164553984,,New York,,Real Estate
+SLM US Equity,SLM CORP,3163494912,,NASDAQ GS,,Financials
+CIEN US Equity,CIENA CORP,3161484544,,New York,,Information Technology
+CMPR US Equity,CIMPRESS NV,3159302144,,NASDAQ GS,,Information Technology
+NHI US Equity,NATL HEALTH INV,3159204864,,New York,,Real Estate
+BDC US Equity,BELDEN INC,3159020800,,New York,,Information Technology
+MDSO US Equity,MEDIDATA SOLUTIO,3153306112,,NASDAQ GS,,Health Care
+CTLT US Equity,CATALENT INC,3148549632,,New York,,Health Care
+CIM US Equity,CHIMERA INV CORP,3146350848,,New York,,Financials
+TWO US Equity,TWO HARBORS INVE,3146022656,,New York,,Financials
+MOH US Equity,MOLINA HEALTHCAR,3142799360,,New York,,Health Care
+NYLD US Equity,NRG YIELD INC-C,3133758976,,New York,,Utilities
+NYLD/A US Equity,NRG YIELD INC-A,3133758976,,New York,,Utilities
+MPWR US Equity,MONOLITHIC POWER,3132885760,,NASDAQ GS,,Information Technology
+X US Equity,US STEEL CORP,3130418944,,New York,,Materials
+TXRH US Equity,TEXAS ROADHOUS,3128964352,,NASDAQ GS,,Consumer Discretionary
+ANAT US Equity,AMER NATL INSUR,3122049280,,NASDAQ GS,,Financials
+MRD US Equity,MEMORIAL RESOURC,3121420032,,NASDAQ GS,,Energy
+HTHT US Equity,CHINA LODGIN-ADS,3119140864,,NASDAQ GS,,Consumer Discretionary
+BOH US Equity,BANK OF HAWAII,3118570496,,New York,,Financials
+PAYC US Equity,PAYCOM SOFTWARE,3116975104,,New York,,Information Technology
+PDCE US Equity,PDC ENERGY INC,3110310400,,NASDAQ GS,,Energy
+RLI US Equity,RLI CORP,3106374912,,New York,,Financials
+CHFC US Equity,CHEMICAL FIN,3105911808,,NASDAQ GS,,Financials
+BKH US Equity,BLACK HILLS CORP,3105436672,,New York,,Utilities
+ENS US Equity,ENERSYS,3096777984,,New York,,Industrials
+ENR US Equity,ENERGIZER HOLDIN,3087146752,,New York,,Consumer Staples
+ENLC US Equity,ENLINK MIDSTREAM,3082206208,,New York,,Energy
+TDS US Equity,TELEPHONE & DATA,3080098048,,New York,,Telecommunication Services
+GRPN US Equity,GROUPON INC,3079801088,,NASDAQ GS,,Consumer Discretionary
+OUT US Equity,OUTFRONT MEDIA I,3078964992,,New York,,Real Estate
+FLO US Equity,FLOWERS FOODS,3076162048,,New York,,Consumer Staples
+PRAH US Equity,PRA HEALTH SCIEN,3069873664,,NASDAQ GS,,Health Care
+CBI US Equity,CHICAGO BRIDGE &,3066882560,,New York,,Industrials
+PSB US Equity,PS BUSINESS PARK,3064069376,,New York,,Real Estate
+PSEC US Equity,PROSPECT CAPITAL,3044238848,,NASDAQ GS,,Financials
+LHO US Equity,LASALLE HOTEL PR,3032374016,,New York,,Real Estate
+MCY US Equity,MERCURY GEN CORP,3029033728,,New York,,Financials
+LGF US Equity,LIONS GATE,3023984640,,New York,,Consumer Discretionary
+FDP US Equity,FRESH DEL MONTE,3021376768,,New York,,Consumer Staples
+CBPO US Equity,CHINA BIOLOGIC P,3015478528,,NASDAQ GS,,Health Care
+AL US Equity,AIR LEASE C,3014312448,,New York,,Industrials
+JUNO US Equity,JUNO THERAPEUTIC,3008362240,,NASDAQ GS,,Health Care
+STRZA US Equity,STARZ - A,3008199168,,NASDAQ GS,,Consumer Discretionary
+STRZB US Equity,STARZ - B,3008199168,,NASDAQ GS,,Consumer Discretionary
+VMI US Equity,VALMONT INDS,3006906368,,New York,,Industrials
+AMFW US Equity,AMEC FOSTER-ADR,3006695680,,New York,,Energy
+YELP US Equity,YELP INC,2999270656,,New York,,Information Technology
+XON US Equity,INTREXON CORP,2997189888,,New York,,Health Care
+UBSI US Equity,UNITED BANKSHS,2996384512,,NASDAQ GS,,Financials
+RDN US Equity,RADIAN GROUP INC,2992525056,,New York,,Financials
+LPI US Equity,LAREDO PETROLEUM,2991955968,,New York,,Energy
+LIVN US Equity,LIVANOVA PLC,2991038976,,NASDAQ GS,,Health Care
+ALE US Equity,ALLETE INC,2989740544,,New York,,Utilities
+UMBF US Equity,UMB FINANCIAL,2989620480,,NASDAQ GS,,Financials
+ASB US Equity,ASSOC BANC-CORP,2979900160,,New York,,Financials
+HCSG US Equity,HEALTHCARE SERVS,2976697856,,NASDAQ GS,,Industrials
+AMC US Equity,AMC ENTERTAINMEN,2971933952,,New York,,Consumer Discretionary
+SLGN US Equity,SILGAN HOLDINGS,2967622912,,NASDAQ GS,,Materials
+AKR US Equity,ACADIA REALTY,2965281280,,New York,,Real Estate
+COTV US Equity,COTIVITI HOLDING,2960296192,,New York,,Health Care
+SR US Equity,SPIRE INC,2959335168,,New York,,Utilities
+BWLD US Equity,BUFFALO WILD WIN,2957121280,,NASDAQ GS,,Consumer Discretionary
+MASI US Equity,MASIMO CORP,2956152320,,NASDAQ GS,,Health Care
+GME US Equity,GAMESTOP CORP-A,2951204864,,New York,,Consumer Discretionary
+EAT US Equity,BRINKER INTL,2948337408,,New York,,Consumer Discretionary
+ZEN US Equity,ZENDESK INC,2946478848,,New York,,Information Technology
+NJR US Equity,NEW JERSEY RES,2940308992,,New York,,Utilities
+LSTR US Equity,LANDSTAR SYSTEM,2938702080,,NASDAQ GS,,Industrials
+SHO US Equity,SUNSTONE HOTEL,2936764160,,New York,,Real Estate
+POL US Equity,POLYONE CORP,2930669824,,New York,,Materials
+CXP US Equity,COLUMBIA PROPERT,2928733952,,New York,,Real Estate
+OI US Equity,OWENS-ILLINOIS,2927203072,,New York,,Materials
+JCP US Equity,J.C. PENNEY CO,2920353536,,New York,,Consumer Discretionary
+PTEN US Equity,PATTERSON-UTI,2916236288,,NASDAQ GS,,Energy
+YY US Equity,YY INC-ADR,2915600384,,NASDAQ GS,,Information Technology
+KITE US Equity,KITE PHARMA INC,2914316032,,NASDAQ GS,,Health Care
+NTL US Equity,NORTEL INVER-ADR,2913894400,,New York,,Telecommunication Services
+PRA US Equity,PROASSURANCE COR,2910272768,,New York,,Financials
+CVG US Equity,CONVERGYS CORP,2906032640,,New York,,Information Technology
+MBFI US Equity,MB FINANCIAL,2905504256,,NASDAQ GS,,Financials
+UNVR US Equity,UNIVAR INC,2898135296,,New York,,Industrials
+MUSA US Equity,MURPHY USA INC,2896137728,,New York,,Consumer Discretionary
+UE US Equity,URBAN EDGE P,2895309056,,New York,,Real Estate
+MFA US Equity,MFA FINANCIAL,2890957824,,New York,,Financials
+SAIC US Equity,SCIENCE APPLICAT,2889000192,,New York,,Information Technology
+RLJ US Equity,RLJ LODGING TRUS,2883050752,,New York,,Real Estate
+BDN US Equity,BRANDYWINE RLTY,2878742272,,New York,,Real Estate
+NBR US Equity,NABORS INDS LTD,2873456128,,New York,,Energy
+KEX US Equity,KIRBY CORP,2871063296,,New York,,Industrials
+HZNP US Equity,HORIZON PHARMA P,2870542848,,NASDAQ GS,,Health Care
+WTFC US Equity,WINTRUST FINL,2866710784,,NASDAQ GS,,Financials
+LFUS US Equity,LITTELFUSE INC,2866147840,,NASDAQ GS,,Information Technology
+DOC US Equity,PHYSICIANS REALT,2861087232,,New York,,Real Estate
+STAY US Equity,EXTENDED STAY AM,2860094720,,New York,,Consumer Discretionary
+BXMT US Equity,BLACKSTONE MOR-A,2848563968,,New York,,Financials
+LPX US Equity,LOUISIANA-PACIFI,2847364864,,New York,,Materials
+CNO US Equity,CNO FINANCIAL GR,2828496384,,New York,,Financials
+IBKC US Equity,IBERIABANK CORP,2826191616,,NASDAQ GS,,Financials
+VGR US Equity,VECTOR GROUP LTD,2816658432,,New York,,Consumer Staples
+NWE US Equity,NORTHWESTERN COR,2813162496,,New York,,Utilities
+AHL US Equity,ASPEN INSURANCE,2809193728,,New York,,Financials
+MANU US Equity,MANCHESTER UNI-A,2803868416,,New York,,Consumer Discretionary
+PZZA US Equity,PAPA JOHN'S INTL,2801548032,,NASDAQ GS,,Consumer Discretionary
+ATHM US Equity,AUTOHOME INC-ADR,2798906624,,New York,,Information Technology
+MTG US Equity,MGIC INVT CORP,2789852160,,New York,,Financials
+SAVE US Equity,SPIRIT AIRLINES,2787532800,,NASDAQ GS,,Industrials
+IDTI US Equity,INTEGRAT DEVICE,2785895168,,NASDAQ GS,,Information Technology
+GHC US Equity,GRAHAM HOLDING-B,2784346880,,New York,,Consumer Discretionary
+BECN US Equity,BEACON ROOFING S,2781973248,,NASDAQ GS,,Industrials
+RBC US Equity,REGAL BELOIT COR,2770195456,,New York,,Industrials
+NTCT US Equity,NETSCOUT SYSTEMS,2769897216,,NASDAQ GS,,Information Technology
+SBGI US Equity,SINCLAIR BROAD-A,2769516288,,NASDAQ GS,,Consumer Discretionary
+VLP US Equity,VALERO ENERGY PA,2742519552,,New York,,Energy
+CLH US Equity,CLEAN HARBORS,2739084032,,New York,,Industrials
+ISIL US Equity,INTERSIL CORP-A,2737031168,,NASDAQ GS,,Information Technology
+NVRO US Equity,NEVRO CORP,2733659904,,New York,,Health Care
+PFGC US Equity,PERFORMANCE FOOD,2733458688,,New York,,Consumer Staples
+WOR US Equity,WORTHINGTON INDS,2732259328,,New York,,Materials
+OFC US Equity,CORP OFFICE PROP,2731902720,,New York,,Real Estate
+TSE US Equity,TRINSEO SA,2715234560,,New York,,Materials
+RHP US Equity,RYMAN HOSPITALIT,2709706240,,New York,,Real Estate
+DY US Equity,DYCOM INDS,2708911360,,New York,,Industrials
+JNS US Equity,JANUS CAPITAL GR,2707296768,,New York,,Financials
+IBA US Equity,INDUS BACHOC-ADR,2707000064,,New York,,Consumer Staples
+PRI US Equity,PRIMERICA INC,2703737088,,New York,,Financials
+MDCO US Equity,MEDICINES COMP,2703247616,,NASDAQ GS,,Health Care
+CHH US Equity,CHOICE HOTELS,2698140928,,New York,,Consumer Discretionary
+OLED US Equity,UNIVERSAL DISPLA,2696718848,,NASDAQ GS,,Information Technology
+WNR US Equity,WESTERN REFINING,2693277696,,New York,,Energy
+WCC US Equity,WESCO INTL,2677371392,,New York,,Industrials
+JOY US Equity,JOY GLOBAL INC,2675918080,,New York,,Industrials
+WEN US Equity,WENDY'S CO/THE,2664804096,,NASDAQ GS,,Consumer Discretionary
+INXN US Equity,INTERXION HOLDIN,2663197696,,New York,,Information Technology
+LPLA US Equity,LPL FINANCIAL HO,2658785536,,NASDAQ GS,,Financials
+EXEL US Equity,EXELIXIS INC,2657959168,,NASDAQ GS,,Health Care
+TKR US Equity,TIMKEN CO,2657752576,,New York,,Industrials
+MKSI US Equity,MKS INSTRUMENTS,2657118208,,NASDAQ GS,,Information Technology
+TEX US Equity,TEREX CORP,2647667968,,New York,,Industrials
+UNF US Equity,UNIFIRST CORP/MA,2642199296,,New York,,Industrials
+MENT US Equity,MENTOR GRAPHICS,2635761152,,NASDAQ GS,,Information Technology
+FNB US Equity,FNB CORP,2620206848,,New York,,Financials
+AVA US Equity,AVISTA CORP,2619592192,,New York,,Utilities
+PNFP US Equity,PINNACLE FINL,2617071616,,NASDAQ GS,,Financials
+CSOD US Equity,CORNERSTONE ONDE,2613125120,,NASDAQ GS,,Information Technology
+SLCA US Equity,US SILICA HOLDIN,2603101184,,New York,,Energy
+RRR US Equity,RED ROCK RESOR-A,2592126464,,NASDAQ GS,,Consumer Discretionary
+FEYE US Equity,FIREEYE INC,2584184832,,NASDAQ GS,,Information Technology
+TECD US Equity,TECH DATA CORP,2582234880,,NASDAQ GS,,Information Technology
+SF US Equity,STIFEL FINANCIAL,2576884480,,New York,,Financials
+LXP US Equity,LEXINGTON REALTY,2573568256,,New York,,Real Estate
+COHR US Equity,COHERENT INC,2571423744,,NASDAQ GS,,Information Technology
+RARE US Equity,ULTRAGENYX PHARM,2568440064,,NASDAQ GS,,Health Care
+WPG US Equity,WASHINGTON PRIME,2567051008,,New York,,Real Estate
+QTS US Equity,QTS REALTY TRU-A,2558638592,,New York,,Real Estate
+CMP US Equity,COMPASS MINERALS,2558280960,,New York,,Materials
+PNM US Equity,PNM RESOURCES,2556881408,,New York,,Utilities
+CLI US Equity,MACK-CALI REALTY,2556843520,,New York,,Real Estate
+AVP US Equity,AVON PRODUCTS,2547821824,,New York,,Consumer Staples
+WMGI US Equity,WRIGHT MEDICAL G,2544557568,,NASDAQ GS,,Health Care
+CCP US Equity,CARE CAPITAL PRO,2544246784,,New York,,Real Estate
+KW US Equity,KENNEDY-WILSON H,2543442944,,New York,,Real Estate
+HA US Equity,HAWAIIAN HOLDING,2542711552,,NASDAQ GS,,Industrials
+OII US Equity,OCEANEERING INTL,2540745728,,New York,,Energy
+PSMT US Equity,PRICESMART INC,2540041216,,NASDAQ GS,,Consumer Staples
+PBH US Equity,PRESTIGE BRANDS,2539423232,,New York,,Health Care
+HELE US Equity,HELEN OF TROY,2538644992,,NASDAQ GS,,Consumer Discretionary
+SWFT US Equity,SWIFT TRANSPORTA,2533141504,,New York,,Industrials
+OMAB US Equity,GRUPO AEROPO-ADR,2533076480,,NASDAQ GS,,Industrials
+TMH US Equity,TEAM HEALTH HOLD,2530996736,,New York,,Health Care
+HBHC US Equity,HANCOCK HLDG CO,2527158528,,NASDAQ GS,,Financials
+TCB US Equity,TCF FINL CORP,2526326528,,New York,,Financials
+MTX US Equity,MINERALS TECH,2526062336,,New York,,Materials
+NKTR US Equity,NEKTAR THERAPEUT,2522713600,,NASDAQ GS,,Health Care
+DW US Equity,DREW INDS INC,2519176448,,New York,,Consumer Discretionary
+CPHD US Equity,CEPHEID,2512906752,,NASDAQ GS,,Health Care
+GLPG US Equity,GALAPAGOS NV-ADR,2506051840,,NASDAQ GS,,Health Care
+FULT US Equity,FULTON FINANCIAL,2505908736,,NASDAQ GS,,Financials
+CCO US Equity,CLEAR CHANNEL-A,2499024384,,New York,,Consumer Discretionary
+HNI US Equity,HNI CORP,2497471232,,New York,,Industrials
+VA US Equity,VIRGIN AMERICA I,2493871872,,NASDAQ GS,,Industrials
+SPN US Equity,SUPERIOR ENERGY,2490927872,,New York,,Energy
+GNRC US Equity,GENERAC HOLDINGS,2490354944,,New York,,Industrials
+CATY US Equity,CATHAY GENERAL B,2486522112,,NASDAQ GS,,Financials
+CREE US Equity,CREE INC,2485958400,,NASDAQ GS,,Information Technology
+CHDN US Equity,CHURCHILL DOWNS,2484843776,,NASDAQ GS,,Consumer Discretionary
+VLY US Equity,VALLEY NATL BANC,2481132544,,New York,,Financials
+SIR US Equity,SELECT INCOME RE,2478688512,,NASDAQ GS,,Real Estate
+ESNT US Equity,ESSENT GROUP LTD,2474704384,,New York,,Financials
+CC US Equity,CHEMOURS CO,2474460160,,New York,,Materials
+PODD US Equity,INSULET CORP,2469390336,,NASDAQ GS,,Health Care
+CAKE US Equity,CHEESECAKE FACTO,2465519104,,NASDAQ GS,,Consumer Discretionary
+IDCC US Equity,INTERDIGITAL INC,2464779776,,NASDAQ GS,,Information Technology
+LPNT US Equity,LIFEPOINT HEALTH,2463060992,,NASDAQ GS,,Health Care
+ROIC US Equity,RETAIL OPPORTUNI,2460431872,,NASDAQ GS,,Real Estate
+TCBI US Equity,TEXAS CAPITAL BA,2458691840,,NASDAQ GS,,Financials
+FNSR US Equity,FINISAR CORP,2458584064,,NASDAQ GS,,Information Technology
+EGP US Equity,EASTGROUP PROP,2456079360,,New York,,Real Estate
+CRTO US Equity,CRITEO SA-ADR,2455584512,,NASDAQ GS,,Information Technology
+INOV US Equity,INOVALON HOLDI-A,2452697088,,NASDAQ GS,,Health Care
+VC US Equity,VISTEON CORP,2450964480,,New York,,Consumer Discretionary
+GEF US Equity,GREIF INC-CL A,2450942976,,New York,,Materials
+GEF/B US Equity,GREIF INC-CL B,2450942976,,New York,,Materials
+KATE US Equity,KATE SPADE & CO,2447868416,,New York,,Consumer Discretionary
+FI US Equity,FRANK'S INTERNAT,2447369984,,New York,,Energy
+BGCP US Equity,BGC PARTNERS-A,2446435328,,NASDAQ GS,,Financials
+FUL US Equity,HB FULLER CO,2441579520,,New York,,Materials
+NRF US Equity,NORTHSTAR REALTY,2439796736,,New York,,Real Estate
+MTZ US Equity,MASTEC INC,2439516672,,New York,,Industrials
+ENTG US Equity,ENTEGRIS INC,2438692864,,NASDAQ GS,,Information Technology
+RDUS US Equity,RADIUS HEALTH IN,2436759808,,NASDAQ GM,,Health Care
+FCFS US Equity,FIRSTCASH INC,2436715520,,New York,,Financials
+CACI US Equity,CACI INTL-A,2434047232,,New York,,Information Technology
+TR US Equity,TOOTSIE ROLL IND,2432545280,,New York,,Consumer Staples
+IOC US Equity,INTEROIL CORP,2431848704,,New York,,Energy
+ORA US Equity,ORMAT TECHNOLOGI,2430906368,,New York,,Utilities
+VSTO US Equity,VISTA OUTDOOR,2423038464,,New York,,Consumer Discretionary
+AWI US Equity,ARMSTRONG WORLD,2421897216,,New York,,Industrials
+FSIC US Equity,FS INVESTMENT CO,2420276480,,New York,,Financials
+FFIN US Equity,FIRST FIN BANKSH,2417792768,,NASDAQ GS,,Financials
+NGHC US Equity,NATIONAL GENERAL,2416315392,,NASDAQ GM,,Financials
+KRG US Equity,KITE REALTY GROU,2414832384,,New York,,Real Estate
+WAFD US Equity,WASH FED,2413352960,,NASDAQ GS,,Financials
+WRE US Equity,WASHINGTON REIT,2411488256,,New York,,Real Estate
+SLAB US Equity,SILICON LABS,2410132480,,NASDAQ GS,,Information Technology
+THC US Equity,TENET HEALTHCARE,2408333568,,New York,,Health Care
+EVER US Equity,EVERBANK FINANCI,2406228736,,New York,,Financials
+MDRX US Equity,ALLSCRIPTS HEALT,2402883840,,NASDAQ GS,,Health Care
+ZNGA US Equity,ZYNGA INC- CL A,2399279616,,NASDAQ GS,,Information Technology
+UFS US Equity,DOMTAR CORP,2396392448,,New York,,Materials
+GNW US Equity,GENWORTH FINANCI,2392013824,,New York,,Financials
+NSAM US Equity,NORTHSTAR ASSET,2390864896,,New York,,Financials
+FIVE US Equity,FIVE BELOW,2381340160,,NASDAQ GS,,Consumer Discretionary
+MFRM US Equity,MATTRESS FIRM HO,2380993280,,NASDAQ GS,,Consumer Discretionary
+SJI US Equity,SOUTH JERSEY IND,2377976320,,New York,,Utilities
+KOS US Equity,KOSMOS ENERGY LT,2377232128,,New York,,Energy
+ELP US Equity,COPEL-ADR PR B,2374987520,,New York,,Utilities
+MDP US Equity,MEREDITH CORP,2373342976,,New York,,Consumer Discretionary
+DAR US Equity,DARLING INGREDIE,2366829824,,New York,,Consumer Staples
+BXS US Equity,BANCORPSOUTH INC,2355658752,,New York,,Financials
+WAGE US Equity,WAGEWORKS,2350569472,,New York,,Industrials
+HOPE US Equity,HOPE BANCORP INC,2350259456,,NASDAQ GS,,Financials
+INCR US Equity,INC RESEARCH H-A,2349778688,,NASDAQ GS,,Health Care
+CUZ US Equity,COUSINS PROP,2347596032,,New York,,Real Estate
+FLTX US Equity,FLEETMATICS GROU,2346100736,,New York,,Information Technology
+SIGI US Equity,SELECT INS GRP,2343139328,,NASDAQ GS,,Financials
+MTSI US Equity,MACOM TECHNOLOGY,2336600064,,NASDAQ GS,,Information Technology
+MEG US Equity,MEDIA GENERAL,2334292480,,New York,,Consumer Discretionary
+CRZO US Equity,CARRIZO OIL&GAS,2333618432,,NASDAQ GS,,Energy
+STL US Equity,STERLING BANCORP,2332209664,,New York,,Financials
+CBL US Equity,CBL & ASSOC PROP,2331321600,,New York,,Real Estate
+PCTY US Equity,PAYLOCITY HOLDIN,2328174592,,NASDAQ GS,,Information Technology
+CNV US Equity,CNOVA NV,2325639680,,NASDAQ GS,,Consumer Discretionary
+PSTG US Equity,PURE STORAGE-A,2325161984,,New York,,Information Technology
+CVLT US Equity,COMMVAULT SYSTEM,2321094656,,NASDAQ GS,,Information Technology
+WWW US Equity,WOLVERINE WORLD,2318061056,,New York,,Consumer Discretionary
+ESL US Equity,ESTERLINE TECH,2313785344,,New York,,Industrials
+SAM US Equity,BOSTON BEER-A,2311638528,,New York,,Consumer Staples
+JJSF US Equity,J & J SNACK FOOD,2309270528,,NASDAQ GS,,Consumer Staples
+AVX US Equity,AVX CORP,2307508992,,New York,,Information Technology
+UNFI US Equity,UNITED NATURAL,2306932736,,NASDAQ GS,,Consumer Staples
+GMED US Equity,GLOBUS MEDICAL I,2292730624,,New York,,Health Care
+NEOG US Equity,NEOGEN CORP,2291976192,,NASDAQ GS,,Health Care
+ACIW US Equity,ACI WORLDWIDE IN,2289535744,,NASDAQ GS,,Information Technology
+FCS US Equity,FAIRCHILD SEMICO,2286276864,,NASDAQ GS,,Information Technology
+HL US Equity,HECLA MINING CO,2283937792,,New York,,Materials
+GBCI US Equity,GLACIER BANCORP,2282425344,,NASDAQ GS,,Financials
+LXK US Equity,LEXMARK INTL-A,2276875520,,New York,,Information Technology
+FIZZ US Equity,NATL BEVERAGE,2271577088,,NASDAQ GS,,Consumer Staples
+NORD US Equity,NORD ANGLIA EDUC,2268150784,,New York,,Consumer Discretionary
+KNX US Equity,KNIGHT TRANSPORT,2261302784,,New York,,Industrials
+KMT US Equity,KENNAMETAL INC,2260319744,,New York,,Industrials
+VIRT US Equity,VIRTU FINANCIA-A,2257774848,,NASDAQ GS,,Financials
+RXN US Equity,REXNORD CORP,2257610240,,New York,,Industrials
+WTS US Equity,WATTS WATER TE-A,2254035200,,New York,,Industrials
+MFS US Equity,MANITOWOC FOOD,2252538368,,New York,,Industrials
+ESV US Equity,ENSCO PLC-CL A,2247977728,,New York,,Energy
+ALGT US Equity,ALLEGIANT TRAVEL,2247817216,,NASDAQ GS,,Industrials
+B US Equity,BARNES GROUP INC,2238932992,,New York,,Industrials
+UFPI US Equity,UNIVERSAL FOREST,2233617920,,NASDAQ GS,,Industrials
+DO US Equity,DIAMOND OFFSHORE,2233122048,,New York,,Energy
+LOGM US Equity,LOGMEIN INC,2232299264,,NASDAQ GS,,Information Technology
+HTH US Equity,HILLTOP HOLDINGS,2231098368,,New York,,Financials
+DNOW US Equity,NOW INC,2230084608,,New York,,Industrials
+CHE US Equity,CHEMED CORP,2223631104,,New York,,Health Care
+VRNT US Equity,VERINT SYSTEMS,2222334976,,NASDAQ GS,,Information Technology
+DORM US Equity,DORMAN PRODUCTS,2219177472,,NASDAQ GS,,Consumer Discretionary
+LGND US Equity,LIGAND PHARM,2214525440,,NASDAQ GM,,Health Care
+BCPC US Equity,BALCHEM CORP,2214487296,,NASDAQ GS,,Materials
+BID US Equity,SOTHEBY'S,2214194688,,New York,,Consumer Discretionary
+BIG US Equity,BIG LOTS INC,2213809920,,New York,,Consumer Discretionary
+MTDR US Equity,MATADOR RESOURCE,2213245696,,New York,,Energy
+BLMN US Equity,BLOOMIN' BRANDS,2208594432,,NASDAQ GS,,Consumer Discretionary
+BYD US Equity,BOYD GAMING CORP,2207350528,,New York,,Consumer Discretionary
+HSNI US Equity,HSN INC,2207035648,,NASDAQ GS,,Consumer Discretionary
+ALX US Equity,ALEXANDER'S INC,2201485312,,New York,,Real Estate
+AMBA US Equity,AMBARELLA INC,2200942592,,NASDAQ GS,,Information Technology
+EFII US Equity,ELEC FOR IMAGING,2198569216,,NASDAQ GS,,Information Technology
+AMKR US Equity,AMKOR TECH INC,2196023808,,NASDAQ GS,,Information Technology
+PEN US Equity,PENUMBRA INC,2193386752,,New York,,Health Care
+SFUN US Equity,SOUFUN HOLDI-ADR,2191314944,,New York,,Information Technology
+CDE US Equity,COEUR MINING INC,2190299136,,New York,,Materials
+SAFM US Equity,SANDERSON FARMS,2186743040,,NASDAQ GS,,Consumer Staples
+TNH US Equity,TERRA NITROGEN C,2183791616,,New York,,Materials
+MSA US Equity,MSA SAFETY INC,2181207808,,New York,,Industrials
+ABM US Equity,ABM INDUSTRIES,2176003072,,New York,,Industrials
+IILG US Equity,INTERVAL LEISURE,2173521152,,NASDAQ GS,,Consumer Discretionary
+SSD US Equity,SIMPSON MFG,2171677440,,New York,,Industrials
+MOG/A US Equity,MOOG INC-CLASS A,2170967808,,New York,,Industrials
+MOG/B US Equity,MOOG INC-CLASS B,2170967808,,New York,,Industrials
+AXE US Equity,ANIXTER INTL INC,2169532416,,New York,,Information Technology
+OMI US Equity,OWENS & MINOR,2166772224,,New York,,Health Care
+TPH US Equity,TRI POINTE GROUP,2159030784,,New York,,Consumer Discretionary
+MLHR US Equity,HERMAN MILLER,2156778752,,NASDAQ GS,,Industrials
+PEB US Equity,PEBBLEBROOK HOTE,2153837312,,New York,,Real Estate
+PGND US Equity,PRESS GANEY HOLD,2146226944,,New York,,Health Care
+PAH US Equity,PLATFORM SPECIAL,2144438272,,New York,,Materials
+DBD US Equity,DIEBOLD INC,2135598464,,New York,,Information Technology
+DPLO US Equity,DIPLOMAT PHARMAC,2134707456,,New York,,Health Care
+SHOO US Equity,STEVEN MADDEN,2134617344,,NASDAQ GS,,Consumer Discretionary
+NOMD US Equity,NOMAD FOODS,2131985920,,New York,,Consumer Staples
+LAD US Equity,LITHIA MOTORS-A,2127326720,,New York,,Consumer Discretionary
+CALM US Equity,CAL-MAINE FOODS,2124793216,,NASDAQ GS,,Consumer Staples
+AB US Equity,ALLIANCEBERNSTEI,2124727680,,New York,,Financials
+GCP US Equity,GCP APPLIED TECH,2120175360,,New York,,Materials
+CBU US Equity,COMMUNITY BANK S,2118824832,,New York,,Financials
+MLNX US Equity,MELLANOX TECHNOL,2118030464,,NASDAQ GS,,Information Technology
+LITE US Equity,LUMENTUM HOL,2117293824,,NASDAQ GS,,Information Technology
+CLNY US Equity,COLONY CAPITAL-A,2116899072,,New York,,Financials
+LC US Equity,LENDINGCLUB CORP,2112208512,,New York,,Financials
+TMHC US Equity,TAYLOR MORRISO-A,2112096128,,New York,,Consumer Discretionary
+DAN US Equity,DANA INC,2110000000,,New York,,Consumer Discretionary
+NYT US Equity,NEW YORK TIMES-A,2101309568,,New York,,Consumer Discretionary
+IMAX US Equity,IMAX CORP,2094588928,,New York,,Consumer Discretionary
+VAC US Equity,MARRIOTT VACATIO,2091970560,,New York,,Consumer Discretionary
+PEGI US Equity,PATTERN ENER,2091350400,,NASDAQ GS,,Utilities
+VSH US Equity,VISHAY INTERTECH,2086032768,,New York,,Information Technology
+DRQ US Equity,DRIL-QUIP INC,2084423936,,New York,,Energy
+KBR US Equity,KBR INC,2082991744,,New York,,Industrials
+PRTY US Equity,PARTY CITY HOLDC,2080704768,,New York,,Consumer Discretionary
+GWPH US Equity,GW PHARM-ADR W/I,2080524544,,NASDAQ GM,,Health Care
+TTEK US Equity,TETRA TECH INC,2070335616,,NASDAQ GS,,Industrials
+PLNT US Equity,PLANET FITNESS-A,2069947008,,New York,,Consumer Discretionary
+JBT US Equity,JOHN BEAN TECH,2066203904,,New York,,Industrials
+SSTK US Equity,SHUTTERSTOCK INC,2063160064,,New York,,Information Technology
+LTC US Equity,LTC PROPERTIES,2062275968,,New York,,Real Estate
+PBF US Equity,PBF ENERGY INC-A,2058258688,,New York,,Energy
+DDS US Equity,DILLARDS INC-A,2053863552,,New York,,Consumer Discretionary
+ICUI US Equity,ICU MEDICAL,2048446592,,NASDAQ GS,,Health Care
+SPH US Equity,SUBURBAN PROPANE,2044954496,,New York,,Utilities
+ACXM US Equity,ACXIOM CORP,2043986048,,NASDAQ GS,,Information Technology
+WBMD US Equity,WEBMD HEALTH COR,2043284352,,NASDAQ GS,,Information Technology
+ITRI US Equity,ITRON INC,2041764992,,NASDAQ GS,,Information Technology
+ASGN US Equity,ON ASSIGNMENT,2038964864,,New York,,Industrials
+WLL US Equity,WHITING PETROLEU,2037924992,,New York,,Energy
+RP US Equity,REALPAGE INC,2035524864,,NASDAQ GS,,Information Technology
+SYNA US Equity,SYNAPTICS INC,2033685760,,NASDAQ GS,,Information Technology
+PKY US Equity,PARKWAY PPTYS/MD,2033060480,,New York,,Real Estate
+DRH US Equity,DIAMONDROCK HOSP,2032993792,,New York,,Real Estate
+DECK US Equity,DECKERS OUTDOOR,2024935040,,New York,,Consumer Discretionary
+HI US Equity,HILLENBRAND INC,2023324672,,New York,,Industrials
+DOOR US Equity,MASONITE INTERNA,2022051584,,New York,,Industrials
+AAT US Equity,AMERICAN ASSETS,2021689088,,New York,,Real Estate
+ODP US Equity,OFFICE DEPOT INC,2017979264,,NASDAQ GS,,Consumer Discretionary
+HUBS US Equity,HUBSPOT INC,2015087872,,New York,,Information Technology
+MATW US Equity,MATTHEWS INTL-A,2011562240,,NASDAQ GS,,Industrials
+CATM US Equity,CARDTRONICS PL-A,2011011328,,NASDAQ GS,,Information Technology
+GLNG US Equity,GOLAR LNG LTD,2009807872,,NASDAQ GS,,Energy
+GWB US Equity,GREAT WESTERN BA,2008484864,,New York,,Financials
+FNGN US Equity,FINANCIAL ENGINE,2006239360,,NASDAQ GS,,Financials
+PEGA US Equity,PEGASYSTEMS INC,2003423104,,NASDAQ GS,,Information Technology
+MLI US Equity,MUELLER INDS,2001047296,,New York,,Industrials
+EVR US Equity,EVERCORE PARTN-A,1998017536,,New York,,Financials
+ALEX US Equity,ALEXANDER & BALD,1992304384,,New York,,Real Estate
+EXAS US Equity,EXACT SCIENCES,1990174464,,NASDAQ CM,,Health Care
+APFH US Equity,ADVANCEPIERRE FO,1989098240,,New York,,Consumer Staples
+CVA US Equity,COVANTA HOLDING,1985223296,,New York,,Industrials
+SANM US Equity,SANMINA CORP,1980669312,,NASDAQ GS,,Information Technology
+CFFN US Equity,CAPITOL FEDERAL,1979130240,,NASDAQ GS,,Financials
+MWA US Equity,MUELLER WATER-A,1970941952,,New York,,Industrials
+CZZ US Equity,COSAN LTD - A,1970604160,,New York,,Energy
+IBOC US Equity,INTL BANCSHARES,1970531968,,NASDAQ GS,,Financials
+GPRO US Equity,GOPRO INC-CL A,1970289792,,NASDAQ GS,,Consumer Discretionary
+JOBS US Equity,51JOB INC-ADR,1965001216,,NASDAQ GS,,Industrials
+LOPE US Equity,GRAND CANYON EDU,1962331776,,NASDAQ GS,,Consumer Discretionary
+KLXI US Equity,KLX INC,1962297728,,NASDAQ GS,,Industrials
+DSW US Equity,DSW INC-CL A,1962100096,,New York,,Consumer Discretionary
+CPE US Equity,CALLON PETROLEUM,1961798016,,New York,,Energy
+SUM US Equity,SUMMIT MATERIA-A,1959569280,,New York,,Materials
+HMHC US Equity,HOUGHTON MIFFLIN,1959004032,,NASDAQ GS,,Consumer Discretionary
+SNCR US Equity,SYNCHRONOSS TECH,1951645568,,NASDAQ GS,,Information Technology
+ARIA US Equity,ARIAD PHARM,1950256896,,NASDAQ GS,,Health Care
+FIG US Equity,FORTRESS INVES-A,1949537152,,New York,,Financials
+HQY US Equity,HEALTHEQUITY INC,1948829184,,NASDAQ GS,,Health Care
+DM US Equity,DOMINION MIDSTRE,1948594560,,New York,,Energy
+PLAY US Equity,DAVE & BUSTER'S,1945866240,,NASDAQ GS,,Consumer Discretionary
+WSTC US Equity,WEST CORP,1941054336,,NASDAQ GS,,Industrials
+MSTR US Equity,MICROSTRATEGY,1940776704,,NASDAQ GS,,Information Technology
+GVA US Equity,GRANITE CONSTR,1940286720,,New York,,Industrials
+CNS US Equity,COHEN & STEERS,1939615104,,New York,,Financials
+NGL US Equity,NGL ENERGY PARTN,1939118720,,New York,,Energy
+HAE US Equity,HAEMONETICS CORP,1939041024,,New York,,Health Care
+APAM US Equity,ARTISAN PARTNE-A,1937849728,,New York,,Financials
+HEP US Equity,HOLLY ENERGY PAR,1933812480,,New York,,Energy
+MGEE US Equity,MGE ENERGY INC,1927908096,,NASDAQ GS,,Utilities
+IRWD US Equity,IRONWOOD PHARMAC,1926924672,,NASDAQ GS,,Health Care
+TRMK US Equity,TRUSTMARK CORP,1923250816,,NASDAQ GS,,Financials
+KMPR US Equity,KEMPER CORP,1923099776,,New York,,Financials
+CVBF US Equity,CVB FINANCIAL,1918404992,,NASDAQ GS,,Financials
+GK US Equity,G & K SERVICES-A,1917958528,,NASDAQ GS,,Industrials
+CHMT US Equity,CHEMTURA CORP,1913284224,,New York,,Materials
+NEWR US Equity,NEW RELIC INC,1910020224,,New York,,Information Technology
+COLB US Equity,COLUMBIA BANKING,1908634624,,NASDAQ GS,,Financials
+ONB US Equity,OLD NATL BANCORP,1907620608,,NASDAQ GS,,Financials
+ABY US Equity,ATLANTICA YIELD,1906138752,,NASDAQ GS,,Utilities
+FGP US Equity,FERRELLGAS-LP,1901251712,,New York,,Utilities
+CEB US Equity,CEB INC,1899473024,,New York,,Industrials
+REV US Equity,REVLON INC-A,1894661760,,New York,,Consumer Staples
+ROLL US Equity,RBC BEARINGS INC,1894255616,,NASDAQ GS,,Industrials
+AIT US Equity,APPLIED INDU TEC,1890366336,,New York,,Industrials
+HAWK US Equity,BLACKHAWK NETWOR,1887812864,,NASDAQ GS,,Information Technology
+SIMO US Equity,SILICON MOTI-ADR,1887753984,,NASDAQ GS,,Information Technology
+FCN US Equity,FTI CONSULTING,1887114624,,New York,,Industrials
+CXW US Equity,CORRECTIONS CORP,1886236672,,New York,,Real Estate
+NTGR US Equity,NETGEAR INC,1884094976,,NASDAQ GS,,Information Technology
+EBIX US Equity,EBIX INC,1882292096,,NASDAQ GS,,Information Technology
+STAG US Equity,STAG INDUSTRIAL,1877597312,,New York,,Real Estate
+EE US Equity,EL PASO ELECTRIC,1876116352,,New York,,Utilities
+HMSY US Equity,HMS HOLDINGS COR,1873764864,,NASDAQ GS,,Health Care
+NGVT US Equity,INGEVITY CORP,1871416320,,New York,,Materials
+PBYI US Equity,PUMA BIOTECHNOLO,1867702912,,New York,,Health Care
+PAY US Equity,VERIFONE SYSTEMS,1865453568,,New York,,Information Technology
+SSB US Equity,SOUTH STATE CORP,1862755584,,NASDAQ GS,,Financials
+ATI US Equity,ALLEGHENY TECH,1856225920,,New York,,Materials
+SCTY US Equity,SOLARCITY CORP,1852936704,,NASDAQ GS,,Industrials
+OZM US Equity,OCH-ZIFF CAPIT-A,1852850432,,New York,,Financials
+CTB US Equity,COOPER TIRE & RU,1849579264,,New York,,Consumer Discretionary
+TERP US Equity,TERRAFORM POWE-A,1846748544,,NASDAQ GS,,Utilities
+CYBR US Equity,CYBERARK SOFTWAR,1844831616,,NASDAQ GS,,Information Technology
+SMTC US Equity,SEMTECH CORP,1840456704,,NASDAQ GS,,Information Technology
+CMCM US Equity,CHEETAH MOBI-ADR,1839143936,,New York,,Information Technology
+NVAX US Equity,NOVAVAX INC,1835940480,,NASDAQ GS,,Health Care
+EEQ US Equity,ENBRIDGE ENERGY,1827649408,,New York,,Energy
+OPHT US Equity,OPHTH0TECH CORP,1826641792,,NASDAQ GS,,Health Care
+MNRO US Equity,MONRO MUFFLER,1823352448,,NASDAQ GS,,Consumer Discretionary
+BLUE US Equity,BLUEBIRD BIO INC,1823186816,,NASDAQ GS,,Health Care
+VIAV US Equity,VIAVI SOLUTIONS,1821217024,,NASDAQ GS,,Information Technology
+LMCA US Equity,LIBERTY MEDIA-A,1819496064,,NASDAQ GS,,Consumer Discretionary
+LMCK US Equity,LIBERTY MEDIA-C,1819496064,,NASDAQ GS,,Consumer Discretionary
+VLRS US Equity,CONTROLADORA-ADR,1819354240,,New York,,Industrials
+TREX US Equity,TREX CO INC,1816375936,,New York,,Industrials
+BCO US Equity,BRINK'S CO/THE,1814488960,,New York,,Industrials
+LXFT US Equity,LUXOFT HOLDING I,1813454336,,New York,,Information Technology
+RMP US Equity,RICE MIDSTREAM P,1810109952,,New York,,Energy
+MAIN US Equity,MAIN STREET CAPI,1807889024,,New York,,Financials
+HIMX US Equity,HIMAX TECHNO-ADR,1806750080,,NASDAQ GS,,Information Technology
+MATX US Equity,MATSON INC,1806007936,,New York,,Industrials
+AAN US Equity,AARON'S INC,1803305344,,New York,,Consumer Discretionary
+SCOR US Equity,COMSCORE INC,1802639616,,NASDAQ GS,,Information Technology
+XHR US Equity,XENIA HOTELS & R,1802438656,,New York,,Real Estate
+AEIS US Equity,ADV ENERGY INDS,1800892416,,NASDAQ GS,,Information Technology
+OAS US Equity,OASIS PETROLEUM,1800699264,,New York,,Energy
+FELE US Equity,FRANKLIN ELEC CO,1800036352,,NASDAQ GS,,Industrials
+WIX US Equity,WIX.COM LTD,1798124288,,NASDAQ GS,,Information Technology
+PRTA US Equity,PROTHENA CORP PL,1795120768,,NASDAQ GS,,Health Care
+ROVI US Equity,ROVI CORP,1793242240,,NASDAQ GS,,Information Technology
+BOX US Equity,BOX INC- CLASS A,1792707712,,New York,,Information Technology
+CORE US Equity,CORE-MARK HOLDIN,1786309120,,NASDAQ GS,,Consumer Discretionary
+ONCE US Equity,SPARK THERAPEUTI,1780313984,,NASDAQ GS,,Health Care
+IVR US Equity,INVESCO MORTGAGE,1777524096,,New York,,Financials
+CMC US Equity,COMMERCIAL METAL,1776743168,,New York,,Materials
+IPXL US Equity,IMPAX LABS INC,1774839552,,NASDAQ GS,,Health Care
+SCS US Equity,STEELCASE INC-A,1774733952,,New York,,Industrials
+TLN US Equity,TALEN ENERGY,1773668736,,New York,,Utilities
+IPHI US Equity,INPHI CORP,1770976896,,New York,,Information Technology
+MORE US Equity,MONOGRAM RESIDEN,1766364800,,New York,,Real Estate
+PAM US Equity,PAMPA-SPON ADR,1763015424,,New York,,Utilities
+HMY US Equity,HARMONY GOLD-ADR,1757943936,,New York,,Materials
+KS US Equity,KAPSTONE PAPER A,1757599616,,New York,,Materials
+ITCI US Equity,INTRA-CELLULAR T,1748754304,,NASDAQ GS,,Health Care
+GATX US Equity,GATX CORP,1747299968,,New York,,Industrials
+AHS US Equity,AMN HEALTHCARE,1741791744,,New York,,Health Care
+EXLS US Equity,EXLSERVICE HOLDI,1739301760,,NASDAQ GS,,Information Technology
+ENV US Equity,ENVESTNET INC,1738983936,,New York,,Information Technology
+AZZ US Equity,AZZ INC,1727037824,,New York,,Industrials
+PEI US Equity,PENN REIT,1723980672,,New York,,Real Estate
+TVPT US Equity,TRAVELPORT WORLD,1723730688,,New York,,Information Technology
+EGBN US Equity,EAGLE BANCRP INC,1720772736,,NASDAQ CM,,Financials
+STMP US Equity,STAMPS.COM INC,1720093440,,NASDAQ GS,,Information Technology
+CPS US Equity,COOPER-STANDARD,1720085760,,New York,,Consumer Discretionary
+SCAI US Equity,SURGICAL CARE AF,1719979904,,NASDAQ GS,,Health Care
+POWI US Equity,POWER INTEGRATIO,1715101696,,NASDAQ GS,,Information Technology
+WDFC US Equity,WD-40 CO,1713225216,,NASDAQ GS,,Consumer Staples
+CRS US Equity,CARPENTER TECH,1709749504,,New York,,Materials
+GOV US Equity,GOVERNMENT PROPE,1708042752,,NASDAQ GS,,Real Estate
+PLT US Equity,PLANTRONICS INC,1707044864,,New York,,Information Technology
+HYH US Equity,HALYARD HEALTH,1706726656,,New York,,Health Care
+AYR US Equity,AIRCASTLE LTD,1706360704,,New York,,Industrials
+AGII US Equity,ARGO GROUP INTER,1703780224,,NASDAQ GS,,Financials
+ABCO US Equity,ADVISORY BOARD,1699961472,,NASDAQ GS,,Industrials
+SFLY US Equity,SHUTTERFLY INC,1699285376,,NASDAQ GS,,Consumer Discretionary
+NOAH US Equity,NOAH HOLDING-ADS,1699214208,,New York,,Financials
+DGI US Equity,DIGITALGLOBE INC,1696792320,,New York,,Industrials
+DBVT US Equity,DBV TECHNOLO-ADR,1693568128,,NASDAQ GS,,Health Care
+PLCM US Equity,POLYCOM INC,1692194688,,NASDAQ GS,,Information Technology
+BRC US Equity,BRADY CORP - A,1691831552,,New York,,Industrials
+SBRA US Equity,SABRA HEALTH CAR,1679868416,,NASDAQ GS,,Real Estate
+TWOU US Equity,2U INC,1677840896,,NASDAQ GS,,Information Technology
+DDD US Equity,3D SYSTEMS CORP,1674134400,,New York,,Information Technology
+CACQ US Equity,CAESARS ACQUIS-A,1673808896,,NASDAQ GS,,Consumer Discretionary
+WERN US Equity,WERNER ENT,1670329600,,NASDAQ GS,,Industrials
+CHS US Equity,CHICO'S FAS INC,1667576832,,New York,,Consumer Discretionary
+NWN US Equity,NORTHWEST NAT GS,1664859008,,New York,,Utilities
+HLI US Equity,HOULIHAN LOKEY I,1664755200,,New York,,Financials
+NXST US Equity,NEXSTAR BROADC-A,1663881856,,NASDAQ GS,,Consumer Discretionary
+USNA US Equity,USANA HEALTH SCI,1663111936,,New York,,Consumer Staples
+AMED US Equity,AMEDISYS INC,1660263808,,NASDAQ GS,,Health Care
+SMLP US Equity,SUMMIT MIDSTREAM,1658711296,,New York,,Energy
+OLLI US Equity,OLLIE'S BARGAIN,1655231232,,NASDAQ GM,,Consumer Discretionary
+FFG US Equity,FBL FINL GROUP-A,1648148992,,New York,,Financials
+CCOI US Equity,COGENT COMMUNICA,1647980416,,NASDAQ GS,,Telecommunication Services
+TGI US Equity,TRIUMPH GROUP,1645867904,,New York,,Industrials
+SEMG US Equity,SEMGROUP CORP-A,1645185664,,New York,,Energy
+RNG US Equity,RINGCENTRAL IN-A,1643138176,,New York,,Information Technology
+TSRA US Equity,TESSERA TECHNOL,1641295616,,NASDAQ GS,,Information Technology
+FET US Equity,FORUM ENERGY TEC,1637892096,,New York,,Energy
+WWE US Equity,WORLD WRESTLIN-A,1618877184,,New York,,Consumer Discretionary
+OMAM US Equity,OM ASSET MANAGEM,1612517248,,New York,,Financials
+SOHU US Equity,SOHU.COM INC,1611209216,,NASDAQ GS,,Information Technology
+FMBI US Equity,FIRST MIDWEST/IL,1610064768,,NASDAQ GS,,Financials
+HTLD US Equity,HEARTLAND EXPRES,1603265024,,NASDAQ GS,,Industrials
+NYRT US Equity,NEW YORK REIT IN,1598755968,,New York,,Real Estate
+NWBI US Equity,NORTHWEST BANCSH,1595189248,,NASDAQ GS,,Financials
+SCL US Equity,STEPAN CO,1593904768,,New York,,Materials
+AXON US Equity,AXOVANT SCIENCES,1591545600,,New York,,Health Care
+SEM US Equity,SELECT MEDICAL,1591263616,,New York,,Health Care
+RDC US Equity,ROWAN COMPANIE-A,1586572800,,New York,,Energy
+OIS US Equity,OIL STATES INTL,1584963328,,New York,,Energy
+FBC US Equity,FLAGSTAR BANCORP,1584133632,,New York,,Financials
+AF US Equity,ASTORIA FINL,1583963904,,New York,,Financials
+BITA US Equity,BITAUTO HOLD-ADR,1583256320,,New York,,Information Technology
+ALDR US Equity,ALDER BIOPHARMAC,1581827584,,NASDAQ GM,,Health Care
+SWC US Equity,STILLWATER MININ,1578829184,,New York,,Materials
+RMBS US Equity,RAMBUS INC,1578115328,,NASDAQ GS,,Information Technology
+PCH US Equity,POTLATCH CORP,1577791616,,NASDAQ GS,,Real Estate
+ETSY US Equity,ETSY INC,1577595776,,NASDAQ GS,,Consumer Discretionary
+NSM US Equity,NATIONSTAR MORTG,1576077440,,New York,,Financials
+LTRPB US Equity,LIBERTY TRP-B,1575191808,,NASDAQ GS,,Consumer Discretionary
+LTRPA US Equity,LIBERTY TRP-A,1575191808,,NASDAQ GS,,Consumer Discretionary
+GIMO US Equity,GIGAMON INC,1570880768,,New York,,Information Technology
+AEL US Equity,AMER EQUITY INVT,1570764032,,New York,,Financials
+LOCK US Equity,LIFELOCK INC,1569436288,,New York,,Consumer Discretionary
+PLXS US Equity,PLEXUS CORP,1566319744,,NASDAQ GS,,Information Technology
+FCB US Equity,FCB FINANCIAL-A,1564542464,,New York,,Financials
+GEO US Equity,GEO GROUP INC/TH,1563587328,,New York,,Real Estate
+FDML US Equity,FEDERAL-MOGUL HO,1561935616,,NASDAQ GS,,Consumer Discretionary
+DF US Equity,DEAN FOODS CO,1559798656,,New York,,Consumer Staples
+MANT US Equity,MANTECH INTL-A,1559635584,,NASDAQ GS,,Information Technology
+SWHC US Equity,SMITH & WESSON H,1556408192,,NASDAQ GS,,Consumer Discretionary
+ISCA US Equity,INTL SPEEDWAY-A,1552998400,,NASDAQ GS,,Consumer Discretionary
+EGOV US Equity,NIC INC,1552418816,,NASDAQ GS,,Information Technology
+ARLP US Equity,ALLIANCE RESOURC,1549231744,,NASDAQ GS,,Energy
+KALU US Equity,KAISER ALUMINUM,1539733504,,NASDAQ GS,,Materials
+AAON US Equity,AAON INC,1534288896,,NASDAQ GS,,Industrials
+RPT US Equity,RAMCO-GERSHENSON,1532655104,,New York,,Real Estate
+WDR US Equity,WADDELL & REED-A,1530068352,,New York,,Financials
+NNI US Equity,NELNET INC-CL A,1528226688,,New York,,Financials
+PLCE US Equity,CHILDREN'S PLACE,1523406592,,NASDAQ GS,,Consumer Discretionary
+HCM US Equity,HUTCHISON CH-ADR,1521085440,,NASDAQ GS,,Health Care
+SFNC US Equity,SIMMONS FIRST -A,1520830848,,NASDAQ GS,,Financials
+SVU US Equity,SUPERVALU INC,1520217984,,New York,,Consumer Staples
+NH US Equity,NANTHEALTH INC,1517820160,,NASDAQ GS,,Health Care
+UCBI US Equity,UNITED COMMUNITY,1516548352,,NASDAQ GS,,Financials
+CHSP US Equity,CHESAPEAKE LODGI,1516361600,,New York,,Real Estate
+ASNA US Equity,ASCENA RETAIL GR,1512218496,,NASDAQ GS,,Consumer Discretionary
+ZLTQ US Equity,ZELTIQ AESTHETIC,1508600192,,NASDAQ GS,,Health Care
+AHGP US Equity,ALLIANCE HOLDING,1507350400,,NASDAQ GS,,Energy
+REXR US Equity,REXFORD INDUSTRI,1506763264,,New York,,Real Estate
+LADR US Equity,LADDER CAPITAL,1505746176,,New York,,Financials
+GIII US Equity,G III APPAREL,1504483200,,NASDAQ GS,,Consumer Discretionary
+EVH US Equity,EVOLENT HEALTH-A,1501637376,,New York,,Health Care
+FMSA US Equity,FAIRMOUNT SANTRO,1500681216,,New York,,Energy
+SITE US Equity,SITEONE LANDSCAP,1500627968,,New York,,Industrials
+WNS US Equity,WNS HOLDINGS-ADR,1499683328,,New York,,Information Technology
+IMPV US Equity,IMPERVA INC,1498192000,,New York,,Information Technology
+NXTM US Equity,NXSTAGE MEDICAL,1497202432,,NASDAQ GS,,Health Care
+EDE US Equity,EMPIRE DISTRICT,1494212480,,New York,,Utilities
+RNST US Equity,RENASANT CORP,1492793088,,NASDAQ GS,,Financials
+BANR US Equity,BANNER CORPORATI,1490160128,,NASDAQ GS,,Financials
+CWT US Equity,CALIF WATER SRVC,1489017728,,New York,,Utilities
+TOWN US Equity,TOWNE BANK,1488262016,,NASDAQ GS,,Financials
+BLDR US Equity,BUILDERS FIRSTSO,1487830784,,NASDAQ GS,,Industrials
+TNET US Equity,TRINET GROUP INC,1485045760,,New York,,Industrials
+PRAA US Equity,PRA GROUP INC,1480685312,,NASDAQ GS,,Financials
+SKYW US Equity,SKYWEST INC,1478207360,,NASDAQ GS,,Industrials
+LXRX US Equity,LEXICON PHARMACE,1475931776,,NASDAQ GS,,Health Care
+CMCT US Equity,CIM COMMERCIAL T,1473836928,,NASDAQ GM,,Financials
+LTXB US Equity,LEGACYTEXAS FINA,1470454656,,NASDAQ GS,,Financials
+SSW US Equity,SEASPAN CORP,1468535808,,New York,,Industrials
+FN US Equity,FABRINET,1465534080,,New York,,Information Technology
+DYN US Equity,DYNEGY INC,1462587264,,New York,,Utilities
+PRLB US Equity,PROTO LABS INC,1460790400,,New York,,Industrials
+HMN US Equity,HORACE MANN EDUC,1459155968,,New York,,Financials
+GSM US Equity,FERROGLOBE PLC,1458905856,,NASDAQ GS,,Materials
+PCRX US Equity,PACIRA PHARMACEU,1455342080,,NASDAQ GS,,Health Care
+AWR US Equity,AMER STATES WATE,1447715328,,New York,,Utilities
+BFS US Equity,SAUL CENTERS INC,1447709952,,New York,,Real Estate
+MC US Equity,MOELIS & CO-CL A,1447668992,,New York,,Financials
+SSP US Equity,EW SCRIPPS-A,1445182976,,New York,,Consumer Discretionary
+CEQP US Equity,CRESTWOOD EQUITY,1443920384,,New York,,Energy
+HUBG US Equity,HUB GROUP-A,1443250048,,NASDAQ GS,,Industrials
+CSGS US Equity,CSG SYSTEMS INTL,1442664832,,NASDAQ GS,,Information Technology
+MTH US Equity,MERITAGE HOMES C,1439449088,,New York,,Consumer Discretionary
+IOSP US Equity,INNOSPEC INC,1437486720,,NASDAQ GS,,Materials
+PRGS US Equity,PROGRESS SOFTWAR,1434910080,,NASDAQ GS,,Information Technology
+KFY US Equity,KORN/FERRY INTL,1434430464,,New York,,Industrials
+DIN US Equity,DINEEQUITY INC,1434060928,,New York,,Consumer Discretionary
+PFS US Equity,PROVIDENT FINANC,1433185536,,New York,,Financials
+COKE US Equity,COCA-COLA BOTTLI,1432641664,,NASDAQ GS,,Consumer Staples
+AMWD US Equity,AMER WOODMARK CO,1431172736,,NASDAQ GS,,Industrials
+GNL US Equity,GLOBAL NET LEASE,1427863808,,New York,,Real Estate
+ATU US Equity,ACTUANT CORP-A,1427833984,,New York,,Industrials
+MYGN US Equity,MYRIAD GENETICS,1427630592,,NASDAQ GS,,Health Care
+JOE US Equity,ST JOE CO,1425895424,,New York,,Real Estate
+SHLD US Equity,SEARS HOLDINGS,1425283200,,NASDAQ GS,,Consumer Discretionary
+SPWR US Equity,SUNPOWER CORP,1424333312,,NASDAQ GS,,Information Technology
+NSP US Equity,INSPERITY INC,1424083328,,New York,,Industrials
+TIME US Equity,TIME INC,1423426048,,New York,,Consumer Discretionary
+VNOM US Equity,VIPER ENERGY PAR,1421719808,,NASDAQ GS,,Energy
+FWRD US Equity,FORWARD AIR CORP,1419933696,,NASDAQ GS,,Industrials
+SRG US Equity,SERITAGE GROWT-A,1418759680,,New York,,Real Estate
+GNC US Equity,GNC HOLDINGS INC,1418252544,,New York,,Consumer Discretionary
+TPL US Equity,TEXAS PAC LAND,1416987136,,New York,,Financials
+WETF US Equity,WISDOMTREE INVES,1416341248,,NASDAQ GS,,Financials
+NE US Equity,NOBLE CORP PLC,1415529600,,New York,,Energy
+DV US Equity,DEVRY EDUCATION,1412941696,,New York,,Consumer Discretionary
+CSTE US Equity,CAESARSTONE LTD,1412888704,,NASDAQ GS,,Industrials
+NSR US Equity,NEUSTAR INC-CL A,1412445440,,New York,,Information Technology
+CPPL US Equity,COLUMBIA PIPELIN,1410174592,,New York,,Energy
+WMK US Equity,WEIS MARKETS INC,1409478400,,New York,,Consumer Staples
+SCHL US Equity,SCHOLASTIC CORP,1407886592,,NASDAQ GS,,Consumer Discretionary
+OMCL US Equity,OMNICELL INC,1405972096,,NASDAQ GS,,Health Care
+INDB US Equity,INDEP BANK/MA,1403845504,,NASDAQ GS,,Financials
+SFL US Equity,SHIP FINANCE,1403503616,,New York,,Energy
+NBTB US Equity,NBT BANCORP INC,1398452608,,NASDAQ GS,,Financials
+GCI US Equity,GANNETT CO INC,1397312128,,New York,,Consumer Discretionary
+BOFI US Equity,BOFI HOLDING INC,1396371456,,NASDAQ GS,,Financials
+APOG US Equity,APOGEE ENTERPR,1396332288,,NASDAQ GS,,Industrials
+SFBS US Equity,SERVISFIRST BANC,1395028480,,NASDAQ GS,,Financials
+BSFT US Equity,BROADSOFT INC,1394451456,,NASDAQ GS,,Information Technology
+AIN US Equity,ALBANY INTL CORP,1393139968,,New York,,Industrials
+NAVG US Equity,NAVIGATORS GROUP,1393090176,,NASDAQ GS,,Financials
+CBM US Equity,CAMBREX CORP,1391012608,,New York,,Health Care
+FIBK US Equity,FIRST INTER/MT-A,1387132672,,NASDAQ GS,,Financials
+TASR US Equity,TASER INTL,1386778240,,NASDAQ GS,,Industrials
+HURN US Equity,HURON CONSULTING,1384416768,,NASDAQ GS,,Industrials
+AGIO US Equity,AGIOS PHARMACEUT,1382985472,,NASDAQ GS,,Health Care
+GLOB US Equity,GLOBANT SA,1382294656,,New York,,Information Technology
+TBPH US Equity,THERAVANCE B,1380525824,,NASDAQ GM,,Health Care
+ORBK US Equity,ORBOTECH LTD,1379313152,,NASDAQ GS,,Information Technology
+RH US Equity,RESTORATION HARD,1375749120,,New York,,Consumer Discretionary
+BMCH US Equity,BMC STOCK HOLDIN,1375043968,,NASDAQ GS,,Industrials
+UVV US Equity,UNIVERSAL CORP,1374670336,,New York,,Consumer Staples
+CVT US Equity,CVENT INC,1374515328,,New York,,Information Technology
+MGLN US Equity,MAGELLAN HEALTH,1370415872,,NASDAQ GS,,Health Care
+AINV US Equity,APOLLO INV CORP,1370360960,,NASDAQ GS,,Financials
+CBF US Equity,CAPITAL BANK FIN,1370255744,,NASDAQ GS,,Financials
+QUAD US Equity,QUAD GRAPHICS IN,1367511552,,New York,,Industrials
+IIVI US Equity,II-VI INC,1367370112,,NASDAQ GS,,Information Technology
+AIRM US Equity,AIR METHODS CORP,1363074944,,NASDAQ GS,,Health Care
+MRC US Equity,MRC GLOBAL INC,1362066432,,New York,,Industrials
+WAIR US Equity,WESCO AIRCRAFT H,1360774528,,New York,,Industrials
+TTEC US Equity,TELETECH HLDGS,1359188352,,NASDAQ GS,,Information Technology
+FGL US Equity,FIDELITY & GUARA,1359038720,,New York,,Financials
+ASTE US Equity,ASTEC INDUSTRIES,1356443776,,NASDAQ GS,,Industrials
+TPRE US Equity,THIRD POINT REIN,1356205056,,New York,,Financials
+NP US Equity,NEENAH PAPER INC,1354649344,,New York,,Materials
+FOSL US Equity,FOSSIL GROUP INC,1353890048,,NASDAQ GS,,Consumer Discretionary
+YDKN US Equity,YADKIN FINANCIAL,1352851840,,New York,,Financials
+OTTR US Equity,OTTER TAIL CORP,1352756224,,NASDAQ GS,,Utilities
+FFBC US Equity,FIRST FIN BANCRP,1352695680,,NASDAQ GS,,Financials
+MINI US Equity,MOBILE MINI,1352278656,,NASDAQ GS,,Industrials
+CYS US Equity,CYS INVESTMENTS,1349104896,,New York,,Financials
+ININ US Equity,INTERACTIVE INT,1344528768,,NASDAQ GS,,Information Technology
+KWR US Equity,QUAKER CHEMICAL,1344452992,,New York,,Materials
+GES US Equity,GUESS? INC,1342424704,,New York,,Consumer Discretionary
+BABY US Equity,NATUS MEDICAL,1339120128,,NASDAQ GS,,Health Care
+CHRS US Equity,COHERUS BIOSCIEN,1336563328,,NASDAQ GM,,Health Care
+AAAP US Equity,ADVANCED ACC-ADR,1335848960,,NASDAQ GS,,Health Care
+OB US Equity,ONEBEACON INS-A,1334073216,,New York,,Financials
+BLD US Equity,TOPBUILD COR,1334023424,,New York,,Consumer Discretionary
+AXL US Equity,AMER AXLE & MFG,1330146816,,New York,,Consumer Discretionary
+SONC US Equity,SONIC CORP,1328868352,,NASDAQ GS,,Consumer Discretionary
+HW US Equity,HEADWATERS INC,1317658240,,New York,,Materials
+EXPO US Equity,EXPONENT INC,1317409792,,NASDAQ GS,,Industrials
+LZB US Equity,LA-Z-BOY INC,1315763328,,New York,,Consumer Discretionary
+BNCN US Equity,BNC BANCORP,1314776704,,NASDAQ CM,,Financials
+MSGN US Equity,MSG NETWORKS- A,1310001024,,New York,,Consumer Discretionary
+CLF US Equity,CLIFFS NATURAL R,1308242560,,New York,,Materials
+WABC US Equity,WESTAMERICA BANC,1306191872,,NASDAQ GS,,Financials
+LQ US Equity,LA QUINTA HOLDIN,1304617984,,New York,,Consumer Discretionary
+MEI US Equity,METHODE ELEC,1304456192,,New York,,Information Technology
+GPI US Equity,GROUP 1 AUTOMOTI,1300676608,,New York,,Consumer Discretionary
+OSIS US Equity,OSI SYSTEMS INC,1296048512,,NASDAQ GS,,Information Technology
+CUB US Equity,CUBIC CORP,1295868416,,New York,,Industrials
+KBH US Equity,KB HOME,1294020480,,New York,,Consumer Discretionary
+BLOX US Equity,INFOBLOX INC,1293943424,,New York,,Information Technology
+KNL US Equity,KNOLL INC,1288742784,,New York,,Industrials
+SRPT US Equity,SAREPTA THERAPEU,1288018432,,NASDAQ GS,,Health Care
+DEPO US Equity,DEPOMED INC,1284391552,,NASDAQ GS,,Health Care
+YRD US Equity,YIRENDAI LTD-ADR,1278809984,,New York,,Information Technology
+AJRD US Equity,AEROJET ROCKETDY,1277856000,,New York,,Industrials
+ALRM US Equity,ALARM.COM HOLDIN,1277725184,,NASDAQ GS,,Information Technology
+HALO US Equity,HALOZYME THERAPE,1274728704,,NASDAQ GS,,Health Care
+DNR US Equity,DENBURY RESOURCE,1274645504,,New York,,Energy
+SYKE US Equity,SYKES ENTERPRISE,1274067968,,NASDAQ GS,,Information Technology
+CYOU US Equity,CHANGYOU.COM-ADR,1273984256,,NASDAQ GS,,Information Technology
+MXL US Equity,MAXLINEAR-CLS A,1272779264,,New York,,Information Technology
+SHAK US Equity,SHAKE SHACK IN-A,1272631168,,New York,,Consumer Discretionary
+MDC US Equity,MDC HOLDINGS INC,1268509056,,New York,,Consumer Discretionary
+BETR US Equity,AMPLIFY SNACK BR,1267830016,,New York,,Consumer Staples
+INFN US Equity,INFINERA CORP,1267219712,,NASDAQ GS,,Information Technology
+EVTC US Equity,EVERTEC INC,1261478272,,New York,,Information Technology
+AVG US Equity,AVG TECHNOLOGIES,1261163904,,New York,,Information Technology
+SHEN US Equity,SHENANDOAH TELEC,1260985600,,NASDAQ GS,,Telecommunication Services
+MDR US Equity,MCDERMOTT INTL,1260595456,,New York,,Energy
+CENT US Equity,CENTRAL GARDEN,1260487808,,NASDAQ GS,,Consumer Staples
+CENTA US Equity,CENTRAL GARDEN-A,1260487808,,NASDAQ GS,,Consumer Staples
+AGRO US Equity,ADECOAGRO SA,1260122368,,New York,,Consumer Staples
+PZE US Equity,PETROBRAS AR-ADR,1260003712,,New York,,Energy
+KCG US Equity,KCG HOLDINGS-A,1259894144,,New York,,Financials
+VCO US Equity,VINA CONCHA-ADR,1259452160,,New York,,Consumer Staples
+WMS US Equity,ADVANCED DRAINAG,1257711872,,New York,,Industrials
+VG US Equity,VONAGE HOLDINGS,1257450368,,New York,,Telecommunication Services
+QLYS US Equity,QUALYS INC,1256821760,,NASDAQ GS,,Information Technology
+WSBC US Equity,WESBANCO INC,1256484096,,NASDAQ GS,,Financials
+FLOW US Equity,SPX FLOW INC,1255785216,,New York,,Industrials
+PFSI US Equity,PENNYMAC FINAN-A,1255490816,,New York,,Financials
+NEP US Equity,NEXTERA ENERGY P,1251330944,,New York,,Utilities
+TRNO US Equity,TERRENO REALTY C,1250825984,,New York,,Real Estate
+KN US Equity,KNOWLES CORP,1250562560,,New York,,Information Technology
+CUDA US Equity,BARRACUDA NETWOR,1248965120,,New York,,Information Technology
+FCPT US Equity,FOUR CORNERS PRO,1248620672,,New York,,Real Estate
+OCLR US Equity,OCLARO INC,1240525824,,NASDAQ GS,,Information Technology
+FPRX US Equity,FIVE PRIME THERA,1238919936,,NASDAQ GS,,Health Care
+IRCP US Equity,IRSA PROPIEDADES,1238088064,,NASDAQ GS,,Real Estate
+KANG US Equity,IKANG HEALTH-ADR,1237327616,,NASDAQ GS,,Health Care
+CNSL US Equity,CONSOLIDATED COM,1235475200,,NASDAQ GS,,Telecommunication Services
+KAMN US Equity,KAMAN CORP,1235103360,,New York,,Industrials
+INVA US Equity,INNOVIVA INC,1233239424,,NASDAQ GS,,Health Care
+THRM US Equity,GENTHERM INC,1232275200,,NASDAQ GS,,Consumer Discretionary
+SPTN US Equity,SPARTANNASH CO,1231202176,,NASDAQ GS,,Consumer Staples
+ABCB US Equity,AMERIS BANCORP,1229276800,,NASDAQ GS,,Financials
+KRNY US Equity,KEARNY FINANCIAL,1229117824,,NASDAQ GS,,Financials
+HOLI US Equity,HOLLYSYS AUTOMAT,1226696064,,NASDAQ GS,,Information Technology
+CYH US Equity,COMMUNITY HEALTH,1226142720,,New York,,Health Care
+SWM US Equity,SCHWEITZER-MAUDU,1225887872,,New York,,Materials
+CYNO US Equity,CYNOSURE INC-A,1224314752,,NASDAQ GS,,Health Care
+ABG US Equity,ASBURY AUTO GRP,1223001856,,New York,,Consumer Discretionary
+CCMP US Equity,CABOT MICROELEC,1221364352,,NASDAQ GS,,Information Technology
+MEDP US Equity,MEDPACE HOLDINGS,1217012864,,NASDAQ GS,,Health Care
+INN US Equity,SUMMIT HOTEL PRO,1216614656,,New York,,Real Estate
+CVI US Equity,CVR ENERGY INC,1215634688,,New York,,Energy
+SCSS US Equity,SELECT COMFORT C,1210229120,,NASDAQ GS,,Consumer Discretionary
+OPB US Equity,OPUS BANK,1209844352,,NASDAQ GS,,Financials
+EGHT US Equity,8X8 INC,1208898048,,NASDAQ GS,,Information Technology
+ROCK US Equity,GIBRALTAR INDUST,1208142848,,NASDAQ GS,,Industrials
+UBSH US Equity,UNION BANKSHARES,1207606656,,NASDAQ GS,,Financials
+WNRL US Equity,WESTERN REFINING,1206795648,,New York,,Energy
+BNFT US Equity,BENEFITFOCUS INC,1205670144,,NASDAQ GM,,Information Technology
+BKE US Equity,THE BUCKLE INC,1201962496,,New York,,Consumer Discretionary
+TOUR US Equity,TUNIU CORP-ADR,1197282688,,NASDAQ GM,,Consumer Discretionary
+BHE US Equity,BENCHMARK ELECTR,1195378560,,New York,,Information Technology
+OXM US Equity,OXFORD INDS INC,1193646464,,New York,,Consumer Discretionary
+PTLA US Equity,PORTOLA PHARMACE,1188216448,,NASDAQ GS,,Health Care
+ESE US Equity,ESCO TECH INC,1182202624,,New York,,Industrials
+PENN US Equity,PENN NATL GAMING,1177376256,,NASDAQ GS,,Consumer Discretionary
+NPO US Equity,ENPRO INDUSTRIES,1173590144,,New York,,Industrials
+LCI US Equity,LANNETT CO INC,1172808704,,New York,,Health Care
+SAGE US Equity,SAGE THERAPEUTIC,1170468864,,NASDAQ GM,,Health Care
+SEAS US Equity,SEAWORLD ENTERTA,1170242048,,New York,,Consumer Discretionary
+TNC US Equity,TENNANT CO,1169969408,,New York,,Industrials
+MCRN US Equity,MILACRON HOLDING,1169333248,,New York,,Industrials
+INGN US Equity,INOGEN INC,1167755776,,NASDAQ GS,,Health Care
+AMSF US Equity,AMERISAFE INC,1165887104,,NASDAQ GS,,Financials
+PLKI US Equity,POPEYES LOUISIAN,1165823360,,NASDAQ GS,,Consumer Discretionary
+TPC US Equity,TUTOR PERINI COR,1163849472,,New York,,Industrials
+BNCL US Equity,BENEFICIAL BANCO,1160184704,,NASDAQ GS,,Financials
+GMLP US Equity,GOLAR LNG PARTNE,1159999232,,NASDAQ GS,,Energy
+MUX US Equity,MCEWEN MINING IN,1159929728,,New York,,Materials
+XLRN US Equity,ACCELERON PHARMA,1159481984,,NASDAQ GM,,Health Care
+LABL US Equity,MULTI-COLOR CORP,1153639936,,NASDAQ GS,,Industrials
+TILE US Equity,INTERFACE INC,1152923136,,NASDAQ GS,,Industrials
+BEL US Equity,BELMOND LTD-A,1152698496,,New York,,Consumer Discretionary
+CWEI US Equity,CLAYTON WILLIAMS,1151888384,,New York,,Energy
+ANF US Equity,ABERCROMBIE & FI,1150838528,,New York,,Consumer Discretionary
+RGR US Equity,STURM RUGER & CO,1150642944,,New York,,Consumer Discretionary
+DERM US Equity,DERMIRA,1150552704,,NASDAQ GS,,Health Care
+SPSC US Equity,SPS COMMERCE INC,1149900928,,NASDAQ GS,,Information Technology
+CEMP US Equity,CEMPRA INC,1149523968,,NASDAQ GS,,Health Care
+LORL US Equity,LORAL SPACE & CO,1149460992,,NASDAQ GS,,Consumer Discretionary
+NAV US Equity,NAVISTAR INTL,1148137088,,New York,,Industrials
+WSFS US Equity,WSFS FINANCIAL,1145954816,,NASDAQ GS,,Financials
+EIGI US Equity,ENDURANCE INTERN,1145219072,,NASDAQ GS,,Information Technology
+TRTN US Equity,TRITON INTERNATI,1144168320,,New York,,Industrials
+SCWX US Equity,SECUREWORKS CO-A,1143916928,,NASDAQ GS,,Information Technology
+ADC US Equity,AGREE REALTY,1142889728,,New York,,Real Estate
+SSYS US Equity,STRATASYS LTD,1142162432,,NASDAQ GS,,Information Technology
+TGP US Equity,TEEKAY LNG PARTN,1142102656,,New York,,Energy
+KRA US Equity,KRATON PERFORMAN,1141902336,,New York,,Materials
+CNMD US Equity,CONMED CORP,1140253440,,NASDAQ GS,,Health Care
+GDOT US Equity,GREEN DOT CORP-A,1140042112,,New York,,Financials
+CALD US Equity,CALLIDUS SOFTWAR,1139151232,,NASDAQ GM,,Information Technology
+QTWO US Equity,Q2 HOLDINGS INC,1138889600,,New York,,Information Technology
+ATRO US Equity,ASTRONICS CORP,1137992704,,NASDAQ GS,,Industrials
+AXDX US Equity,ACCELERATE DIAGN,1131636480,,NASDAQ CM,,Health Care
+FRO US Equity,FRONTLINE LTD,1130681856,,New York,,Energy
+ATKR US Equity,ATKORE INTERNATI,1129871872,,New York,,Industrials
+TREE US Equity,LENDINGTREE INC,1127603072,,NASDAQ GS,,Financials
+GLOG US Equity,GASLOG LTD,1126951040,,New York,,Energy
+ALOG US Equity,ANALOGIC CORP,1126204672,,NASDAQ GS,,Health Care
+EGL US Equity,ENGILITY HOLDING,1125629312,,New York,,Industrials
+BLX US Equity,BANCO LATINOAM-E,1125421952,,New York,,Financials
+MPSX US Equity,MULTI PACKAGING,1124616832,,New York,,Materials
+ARI US Equity,APOLLO COMMERCIA,1122927360,,New York,,Financials
+FOE US Equity,FERRO CORP,1121918208,,New York,,Materials
+FGEN US Equity,FIBROGEN INC,1120140800,,NASDAQ GS,,Health Care
+ACOR US Equity,ACORDA THERAPEUT,1119815424,,NASDAQ GS,,Health Care
+BANC US Equity,BANC OF CALIFORN,1116308352,,New York,,Financials
+ABAX US Equity,ABAXIS INC,1115383552,,NASDAQ GS,,Health Care
+TIVO US Equity,TIVO INC,1113950720,,NASDAQ GS,,Information Technology
+STC US Equity,STEWART INFO SVC,1113627136,,New York,,Financials
+RWT US Equity,REDWOOD TRUST,1112476032,,New York,,Financials
+QUOT US Equity,QUOTIENT TECHNOL,1112190720,,New York,,Information Technology
+ACHN US Equity,ACHILLION PHARMA,1109848832,,NASDAQ GS,,Health Care
+ACCO US Equity,ACCO BRANDS CORP,1108376064,,New York,,Industrials
+UFCS US Equity,UNITED FIRE GROU,1106765696,,NASDAQ GS,,Financials
+FRME US Equity,FIRST MERCHANTS,1105796992,,NASDAQ GS,,Financials
+YIN US Equity,YINTECH INVE-ADR,1105409280,,NASDAQ GS,,Financials
+CAFD US Equity,8POINT3 ENERGY P,1104988032,,NASDAQ GS,,Utilities
+TSLX US Equity,TPG SPECIALTY LE,1104026880,,New York,,Financials
+UEIC US Equity,UNIVERSAL ELEC,1103865728,,NASDAQ GS,,Consumer Discretionary
+CNNX US Equity,CONE MIDSTREAM P,1103856000,,New York,,Energy
+NSIT US Equity,INSIGHT ENTERPRI,1100675328,,NASDAQ GS,,Information Technology
+IRS US Equity,IRSA SA-ADR,1093698560,,New York,,Real Estate
+SXI US Equity,STANDEX INTL CO,1093522432,,New York,,Industrials
+ELY US Equity,CALLAWAY GOLF CO,1090758400,,New York,,Consumer Discretionary
+OEC US Equity,ORION ENGINEERED,1088756352,,New York,,Materials
+IBP US Equity,INSTALLED BUILDI,1088454656,,New York,,Consumer Discretionary
+EBS US Equity,EMERGENT BIOSOLU,1088339456,,New York,,Health Care
+TTMI US Equity,TTM TECHNOLOGIES,1087722496,,NASDAQ GS,,Information Technology
+SUPN US Equity,SUPERNUS PHARMAC,1087701248,,NASDAQ GM,,Health Care
+MPG US Equity,METALDYNE PERFOR,1087483776,,New York,,Consumer Discretionary
+MMSI US Equity,MERIT MEDICAL,1087191680,,NASDAQ GS,,Health Care
+FBP US Equity,FIRST BANCORP PR,1085888384,,New York,,Financials
+MBI US Equity,MBIA INC,1085206400,,New York,,Financials
+BPFH US Equity,BOSTON PRIV FINL,1083692544,,NASDAQ GS,,Financials
+CPAC US Equity,CEMENTOS PACASMA,1083332608,,New York,,Materials
+DK US Equity,DELEK US HOLDING,1083148800,,New York,,Energy
+GRAM US Equity,GRANA Y MON-ADR,1082475008,,New York,,Industrials
+IRBT US Equity,IROBOT CORP,1081749376,,NASDAQ GS,,Consumer Discretionary
+FIX US Equity,COMFORT SYSTEMS,1081705600,,New York,,Industrials
+JRVR US Equity,JAMES RIVER GROU,1080458112,,NASDAQ GS,,Financials
+ANDE US Equity,ANDERSONS INC,1080060032,,NASDAQ GS,,Consumer Staples
+SMCI US Equity,SUPER MICRO COMP,1077739904,,NASDAQ GS,,Information Technology
+BANF US Equity,BANCFIRST CORP,1076998656,,NASDAQ GS,,Financials
+EPE US Equity,EP ENERGY CORP-A,1075516544,,New York,,Energy
+CLW US Equity,CLEARWATER,1074631168,,New York,,Materials
+CAL US Equity,CALERES INC,1074058880,,New York,,Consumer Discretionary
+TROX US Equity,TRONOX LTD-CL A,1071496320,,New York,,Materials
+HASI US Equity,HANNON ARMSTRONG,1070169984,,New York,,Financials
+NCS US Equity,NCI BUILDING SYS,1069889024,,New York,,Industrials
+SPNC US Equity,SPECTRANETICS,1067969536,,NASDAQ GS,,Health Care
+VNET US Equity,21VIANET-ADR,1066843456,,NASDAQ GS,,Information Technology
+RGEN US Equity,REPLIGEN CORP,1061234496,,NASDAQ GS,,Health Care
+NSH US Equity,NUSTAR GP HOLDIN,1060830976,,New York,,Energy
+GOGO US Equity,GOGO INC,1059112896,,NASDAQ GS,,Information Technology
+IPAR US Equity,INTER PARFUMS,1058534528,,NASDAQ GS,,Consumer Staples
+ATNI US Equity,ATN INTERNATIONA,1054856768,,NASDAQ GS,,Telecommunication Services
+HF US Equity,HFF INC-A,1047651840,,New York,,Real Estate
+INSY US Equity,INSYS THERAPEUTI,1047437120,,NASDAQ GM,,Health Care
+VDTH US Equity,VIDEOCON D2H-ADR,1045009472,,NASDAQ GS,,Consumer Discretionary
+DIOD US Equity,DIODES INC,1040688448,,NASDAQ GS,,Information Technology
+PMT US Equity,PENNYMAC MORTGAG,1040540672,,New York,,Financials
+AKS US Equity,AK STEEL HLDG,1036153408,,New York,,Materials
+CVGW US Equity,CALAVO GROWERS I,1036011968,,NASDAQ GS,,Consumer Staples
+SMP US Equity,STANDARD MOTOR,1033817856,,New York,,Consumer Discretionary
+HTGC US Equity,HERCULES CAPITAL,1029866752,,New York,,Financials
+MGNX US Equity,MACROGENICS INC,1029502720,,NASDAQ GS,,Health Care
+SAFT US Equity,SAFETY INSURANCE,1027868992,,NASDAQ GS,,Financials
+GBDC US Equity,GOLUB CAPITAL BD,1026531584,,NASDAQ GS,,Financials
+KRO US Equity,KRONOS WORLDWIDE,1025662784,,New York,,Materials
+PRIM US Equity,PRIMORIS SERVICE,1024292288,,NASDAQ GS,,Industrials
+BCC US Equity,BOISE CASCADE CO,1023405376,,New York,,Materials
+SNR US Equity,NEW SENIOR INVES,1021662976,,New York,,Real Estate
+CKH US Equity,SEACOR HOLDINGS,1019847744,,New York,,Energy
+PAHC US Equity,PHIBRO ANIMAL-A,1019079680,,NASDAQ GM,,Health Care
+SUPV US Equity,GRUPO SV-SP ADR,1018577344,,New York,,Financials
+GCO US Equity,GENESCO INC,1016971520,,New York,,Consumer Discretionary
+ARCO US Equity,ARCOS DORADOS-A,1015621888,,New York,,Consumer Discretionary
+ROG US Equity,ROGERS CORP,1015175552,,New York,,Information Technology
+GKOS US Equity,GLAUKOS CORP,1013516992,,New York,,Health Care
+MHLD US Equity,MAIDEN HOLDINGS,1013302656,,NASDAQ GS,,Financials
+PATK US Equity,PATRICK INDS INC,1013164416,,NASDAQ GS,,Industrials
+GMS US Equity,GMS INC,1009242624,,New York,,Industrials
+HQCL US Equity,HANWHA Q CEL-ADR,1009034176,,NASDAQ GS,,Information Technology
+STBA US Equity,S & T BANCORP,1008035264,,NASDAQ GS,,Financials
+ELGX US Equity,ENDOLOGIX INC,1006596928,,NASDAQ GS,,Health Care
+FINL US Equity,FINISH LINE-A,1005901184,,NASDAQ GS,,Consumer Discretionary
+MMI US Equity,MARCUS & MILLICH,996226304,,New York,,Real Estate
+AIR US Equity,AAR CORP,995722432,,New York,,Industrials
+EIG US Equity,EMPLOYERS HOLDIN,993254912,,New York,,Financials
+TGS US Equity,TRANSPORT GA-ADR,993119104,,New York,,Energy
+STFC US Equity,STATE AUTO FINL,990660416,,NASDAQ GS,,Financials
+CIR US Equity,CIRCOR INTL,986386752,,New York,,Industrials
+CVRR US Equity,CVR REFINING LP,985968000,,New York,,Energy
+EPAY US Equity,BOTTOMLINE TECH,984216064,,NASDAQ GS,,Information Technology
+MNR US Equity,MONMOUTH REAL ES,981746432,,New York,,Real Estate
+MYCC US Equity,CLUBCORP HOLDING,981437376,,New York,,Consumer Discretionary
+ENSG US Equity,ENSIGN GROUP INC,979337792,,NASDAQ GS,,Health Care
+GLT US Equity,GLATFELTER,978517696,,New York,,Materials
+HRI US Equity,HERC HOLDINGS IN,978136000,,New York,,Industrials
+CPK US Equity,CHESAPEAKE UTIL,977154240,,New York,,Utilities
+ECOL US Equity,US ECOLOGY INC,974588544,,NASDAQ GS,,Industrials
+SGRY US Equity,SURGERY PARTNERS,972551168,,NASDAQ GS,,Health Care
+PGEM US Equity,PLY GEM HOLDINGS,971647296,,New York,,Industrials
+BGNE US Equity,BEIGENE LTD-ADR,970717824,,NASDAQ GS,,Health Care
+TSL US Equity,TRINA SOLAR-ADR,969963584,,New York,,Information Technology
+MTOR US Equity,MERITOR INC,969144448,,New York,,Industrials
+APOL US Equity,APOLLO EDUCATION,968144704,,NASDAQ GS,,Consumer Discretionary
+BMI US Equity,BADGER METER INC,966893504,,New York,,Information Technology
+AAWW US Equity,ATLAS AIR WORLDW,964906624,,NASDAQ GS,,Industrials
+CMO US Equity,CAPSTEAD MORTGAG,964689152,,New York,,Financials
+XXIA US Equity,IXIA,962698432,,NASDAQ GS,,Information Technology
+CVCO US Equity,CAVCO INDUSTRIES,960522432,,NASDAQ GS,,Consumer Discretionary
+EROS US Equity,EROS INTERNATION,959568192,,New York,,Consumer Discretionary
+FOLD US Equity,AMICUS THERAPEUT,959441280,,NASDAQ GM,,Health Care
+DLTH US Equity,DULUTH HLDGS - B,959408448,,NASDAQ GS,,Consumer Discretionary
+SFS US Equity,SMART & FINAL ST,959270272,,New York,,Consumer Staples
+BJRI US Equity,BJ'S RESTAURANTS,958731904,,NASDAQ GS,,Consumer Discretionary
+GTLS US Equity,CHART INDUSTRIES,955114432,,NASDAQ GS,,Industrials
+IPCC US Equity,INFINITY PROPERT,951541824,,NASDAQ GS,,Financials
+FCH US Equity,FELCOR LODGING,950914304,,New York,,Real Estate
+CRAY US Equity,CRAY INC,950167296,,NASDAQ GS,,Information Technology
+CODI US Equity,COMPASS DIVERSIF,947534976,,New York,,Financials
+TBI US Equity,TRUEBLUE INC,946332672,,New York,,Industrials
+GPRE US Equity,GREEN PLAINS INC,946169792,,NASDAQ GS,,Energy
+ADPT US Equity,ADEPTUS HEALTH-A,945016256,,New York,,Health Care
+EGRX US Equity,EAGLE PHARMACEUT,943499584,,NASDAQ GM,,Health Care
+NCMI US Equity,NATIONAL CINEMED,943155776,,NASDAQ GS,,Consumer Discretionary
+NCI US Equity,NAVIGANT CONSULT,941369792,,New York,,Industrials
+GBX US Equity,GREENBRIER COS,940334336,,New York,,Industrials
+OIBR/C US Equity,OI SA-ADR,939540544,,New York,,Telecommunication Services
+ETH US Equity,ETHAN ALLEN,938407872,,New York,,Consumer Discretionary
+ADRO US Equity,ADURO BIOTECH IN,938289152,,NASDAQ GS,,Health Care
+VHI US Equity,VALHI INC,936078720,,New York,,Materials
+RUSHA US Equity,RUSH ENTER-CL A,935723072,,NASDAQ GS,,Industrials
+RUSHB US Equity,RUSH ENTER-CL B,935723072,,NASDAQ GS,,Industrials
+MIME US Equity,MIMECAST LTD,933612224,,NASDAQ GS,,Information Technology
+CLLS US Equity,CELLECTIS - ADR,932806272,,NASDAQ GM,,Health Care
+TISI US Equity,TEAM INC,930845056,,New York,,Industrials
+CATO US Equity,CATO CORP-A,930572032,,New York,,Consumer Discretionary
+BH US Equity,BIGLARI HOLDINGS,929179392,,New York,,Consumer Discretionary
+RRMS US Equity,ROSE ROCK MIDSTR,928679872,,New York,,Energy
+USAC US Equity,USA COMPRESSION,925042816,,New York,,Energy
+FTAI US Equity,FORTRESS TRANSPO,924919040,,New York,,Industrials
+MRCY US Equity,MERCURY SYSTEMS,923445696,,NASDAQ GS,,Industrials
+MITL US Equity,MITEL NETWORKS C,920491200,,NASDAQ GS,,Information Technology
+LMNX US Equity,LUMINEX CORP,919753920,,NASDAQ GS,,Health Care
+QIWI US Equity,QIWI PLC-SP ADR,919597056,,NASDAQ GS,,Information Technology
+FCF US Equity,FIRST COMMON FIN,918853440,,New York,,Financials
+SCSC US Equity,SCANSOURCE INC,917147584,,NASDAQ GS,,Information Technology
+HWAY US Equity,HEALTHWAYS INC,917002176,,NASDAQ GS,,Health Care
+GBL US Equity,GAMCO INVESTO-A,916755776,,New York,,Financials
+EXPR US Equity,EXPRESS INC,916568000,,New York,,Consumer Discretionary
+KND US Equity,KINDRED HEALTHCA,915619328,,New York,,Health Care
+HOME US Equity,AT HOME GROUP IN,914572288,,New York,,Consumer Discretionary
+SRCE US Equity,1ST SOURCE CORP,914135680,,NASDAQ GS,,Financials
+FSC US Equity,FIFTH STREET FIN,913963584,,NASDAQ GS,,Financials
+RSTI US Equity,ROFIN-SINAR TECH,912102336,,NASDAQ GS,,Information Technology
+NAT US Equity,NORDIC AMERICAN,911440064,,New York,,Energy
+ADTN US Equity,ADTRAN INC,911353024,,NASDAQ GS,,Information Technology
+HTLF US Equity,HEARTLAND FINL,911127744,,NASDAQ GS,,Financials
+NMFC US Equity,NEW MOUNTAIN FIN,905347840,,New York,,Financials
+GHDX US Equity,GENOMIC HEALTH I,905328384,,NASDAQ GS,,Health Care
+CZR US Equity,CAESARS ENTERTAI,903575168,,NASDAQ GS,,Consumer Discretionary
+LKFN US Equity,LAKELAND FINL,902380416,,NASDAQ GS,,Financials
+FTK US Equity,FLOTEK INDS,901766272,,New York,,Materials
+CLVS US Equity,CLOVIS ONCOLOGY,900925184,,NASDAQ GS,,Health Care
+WEB US Equity,WEB.COM GROUP,900540416,,NASDAQ GS,,Information Technology
+APLP US Equity,ARCHROCK PARTNER,900537280,,NASDAQ GS,,Energy
+WING US Equity,WINGSTOP INC,898908672,,NASDAQ GS,,Consumer Discretionary
+CBB US Equity,CINCINNATI BELL,897439168,,New York,,Telecommunication Services
+UNT US Equity,UNIT CORP,897193984,,New York,,Energy
+FWP US Equity,FORWARD PHAR-ADR,896656256,,NASDAQ GS,,Health Care
+RAVN US Equity,RAVEN INDUSTRIES,893122496,,NASDAQ GS,,Industrials
+CBPX US Equity,CONTINENTAL BUIL,892685184,,New York,,Industrials
+CRESY US Equity,CRESUD SA-ADR,892422528,,NASDAQ GS,,Real Estate
+OUTR US Equity,OUTERWALL INC,891595904,,NASDAQ GS,,Consumer Discretionary
+BUSE US Equity,FIRST BUSEY CORP,889784192,,NASDAQ GS,,Financials
+STON US Equity,STONEMOR PARTNER,887393728,,New York,,Consumer Discretionary
+TRS US Equity,TRIMAS CORP,886542272,,NASDAQ GS,,Industrials
+CTRE US Equity,CARETRUST REI,882910528,,NASDAQ GS,,Real Estate
+WNC US Equity,WABASH NATIONAL,880158016,,New York,,Industrials
+BRKS US Equity,BROOKS AUTOMATIO,879954816,,NASDAQ GS,,Information Technology
+SJW US Equity,SJW CORP,878602688,,New York,,Utilities
+KLIC US Equity,KULICKE & SOFFA,877909824,,NASDAQ GS,,Information Technology
+HIBB US Equity,HIBBETT SPORTS I,875447168,,NASDAQ GS,,Consumer Discretionary
+MNTA US Equity,MOMENTA PHARMACE,873100224,,NASDAQ GS,,Health Care
+ECR US Equity,ECLIPSE RESOURCE,872982848,,New York,,Energy
+UBP US Equity,URSTADT BIDDLE,871485248,,New York,,Real Estate
+UBA US Equity,URSTADT BIDDLE-A,871485248,,New York,,Real Estate
+CSFL US Equity,CENTERSTATE BANK,870821504,,NASDAQ GS,,Financials
+SAAS US Equity,INCONTACT INC,870493760,,NASDAQ CM,,Information Technology
+BHLB US Equity,BERKSHIRE HILLS,870029632,,New York,,Financials
+VTTI US Equity,VTTI ENERGY PART,869146688,,New York,,Energy
+SLRC US Equity,SOLAR CAPITAL LT,869052160,,NASDAQ GS,,Financials
+TYPE US Equity,MONOTYPE IMAGING,868853120,,NASDAQ GS,,Information Technology
+AC US Equity,ASSOCIATED CAP-A,868623680,,New York,,Financials
+CAPL US Equity,CROSSAMERICA PAR,868468928,,New York,,Energy
+ATSG US Equity,AIR TRANSPORT SE,865045312,,NASDAQ GS,,Industrials
+CFNL US Equity,CARDINAL FINL CP,864410176,,NASDAQ GS,,Financials
+DEL US Equity,DELTIC TIMBER,862943616,,New York,,Materials
+UVE US Equity,UNIVERSAL INSURA,861864064,,New York,,Financials
+SBSI US Equity,SOUTHSIDE BAN IN,861041664,,NASDAQ GS,,Financials
+HY US Equity,HYSTER-YALE,859125760,,New York,,Industrials
+VASC US Equity,VASCULAR SOLUTIO,858952448,,NASDAQ GS,,Health Care
+HAFC US Equity,HANMI FINL CORP,857884992,,NASDAQ GS,,Financials
+NXEOU US Equity,NEXEO SOLUTIONS,856261696,,NASDAQ CM,,Industrials
+PJT US Equity,PJT PARTNERS - A,856034688,,New York,,Financials
+SGYP US Equity,SYNERGY PHARMACE,855962048,,NASDAQ GS,,Health Care
+HSTM US Equity,HEALTHSTREAM INC,854097408,,NASDAQ GS,,Health Care
+WIN US Equity,WINDSTREAM HOLDI,853868544,,NASDAQ GS,,Telecommunication Services
+AVH US Equity,AVIANCA HOLD-ADR,853614976,,New York,,Industrials
+BRKL US Equity,BROOKLINE BANCRP,853250240,,NASDAQ GS,,Financials
+IIJI US Equity,INTERNET INI-ADR,852483072,,NASDAQ GS,,Information Technology
+PBFX US Equity,PBF LOGISTICS LP,850707136,,New York,,Energy
+UHT US Equity,UNIVERSAL HEALTH,850673600,,New York,,Real Estate
+STNG US Equity,SCORPIO TANKERS,850376704,,New York,,Energy
+STBZ US Equity,STATE BANK FINAN,850052544,,NASDAQ CM,,Financials
+BKS US Equity,BARNES & NOBLE,847772352,,New York,,Consumer Discretionary
+HLX US Equity,HELIX ENERGY SOL,847048064,,New York,,Energy
+TDOC US Equity,TELADOC INC,845549760,,New York,,Health Care
+LDL US Equity,LYDALL INC,844555968,,New York,,Industrials
+ATRI US Equity,ATRION CORP,844513920,,NASDAQ GS,,Health Care
+TTS US Equity,TILE SHOP HLDGS,843852352,,NASDAQ GS,,Consumer Discretionary
+BGG US Equity,BRIGGS & STRATTN,843269120,,New York,,Industrials
+BW US Equity,BABCOCK & WILCOX,841712512,,New York,,Industrials
+MTSC US Equity,MTS SYSTEMS CORP,841420096,,NASDAQ GS,,Information Technology
+ZPIN US Equity,ZHAOPIN LTD-ADR,840262336,,New York,,Industrials
+FNFV US Equity,FNFV GROUP,839581312,,New York,,Financials
+EBSB US Equity,MERIDIAN BANCORP,839211008,,NASDAQ GS,,Financials
+BATRA US Equity,LIBERTY BRAVES-A,839198848,,NASDAQ GS,,Consumer Discretionary
+BATRK US Equity,LIBERTY BRAVES-C,839198848,,NASDAQ GS,,Consumer Discretionary
+TCPC US Equity,TCP CAPITAL CORP,839168576,,NASDAQ GS,,Financials
+AMPH US Equity,AMPHASTAR PHARMA,837448704,,NASDAQ GS,,Health Care
+HCLP US Equity,HI-CRUSH PARTNER,836257600,,New York,,Materials
+SPXC US Equity,SPX CORP,835991104,,New York,,Industrials
+SNHY US Equity,SUN HYDRAULICS,835392448,,NASDAQ GS,,Industrials
+FIVN US Equity,FIVE9 INC,834033920,,NASDAQ GM,,Information Technology
+XNCR US Equity,XENCOR INC,833325120,,NASDAQ GM,,Health Care
+CSTM US Equity,CONSTELLIUM NV-A,830103168,,New York,,Materials
+NTRI US Equity,NUTRISYSTEM INC,830100032,,NASDAQ GS,,Consumer Discretionary
+MMYT US Equity,MAKEMYTRIP LTD,827555840,,NASDAQ GS,,Consumer Discretionary
+IBTX US Equity,INDEPENDENT BANK,826615232,,NASDAQ GS,,Financials
+WD US Equity,WALKER & DUNLOP,825736064,,New York,,Financials
+PHH US Equity,PHH CORP,825399232,,New York,,Financials
+VECO US Equity,VEECO INSTRUMENT,824545984,,NASDAQ GS,,Information Technology
+INSM US Equity,INSMED INC,824213696,,NASDAQ GS,,Health Care
+HIFR US Equity,INFRAREIT INC,824084992,,New York,,Real Estate
+CSII US Equity,CARDIOVASCULAR S,823307456,,NASDAQ GS,,Health Care
+OFIX US Equity,ORTHOFIX INTL,822685440,,NASDAQ GS,,Health Care
+AMBC US Equity,AMBAC FINANCIAL,822570176,,NASDAQ GS,,Financials
+VRTV US Equity,VERITIV CORP,821167296,,New York,,Industrials
+VIVO US Equity,MERIDIAN BIOSCI,820691392,,NASDAQ GS,,Health Care
+ARR US Equity,ARMOUR RESIDENTI,820685248,,New York,,Financials
+IPHS US Equity,INNOPHOS HOLDING,820152512,,NASDAQ GS,,Materials
+ICFI US Equity,ICF INTERNATIONA,819982720,,NASDAQ GS,,Industrials
+TRUE US Equity,TRUECAR INC,818144832,,NASDAQ GS,,Information Technology
+GTN US Equity,GRAY TELEVISION,813638208,,New York,,Consumer Discretionary
+GTN/A US Equity,GRAY TELEVISIO-A,813638208,,New York,,Consumer Discretionary
+HT US Equity,HERSHA HOSPITAL,809936832,,New York,,Real Estate
+AMAG US Equity,AMAG PHARMACEUTI,808084672,,NASDAQ GS,,Health Care
+MDXG US Equity,MIMEDX GROUP INC,807710336,,NASDAQ CM,,Health Care
+HSC US Equity,HARSCO CORP,807361856,,New York,,Industrials
+WIRE US Equity,ENCORE WIRE,807150272,,NASDAQ GS,,Industrials
+BGC US Equity,GEN CABLE CORP,806360960,,New York,,Industrials
+DENN US Equity,DENNY'S CORP,805623936,,NASDAQ CM,,Consumer Discretionary
+EDN US Equity,EMP DISTRIB-ADR,804478912,,New York,,Utilities
+GLRE US Equity,GREENLIGHT CAP-A,803890752,,NASDAQ GS,,Financials
+LGIH US Equity,LGI HOMES INC,803508544,,NASDAQ GS,,Consumer Discretionary
+USPH US Equity,US PHYSICAL THER,802546496,,New York,,Health Care
+CPF US Equity,CENTRAL PACIFIC,802302464,,New York,,Financials
+AROC US Equity,ARCHROCK INC,801397888,,New York,,Energy
+GFF US Equity,GRIFFON CORP,801293888,,New York,,Industrials
+IRET US Equity,INVESTORS REAL,800799936,,New York,,Real Estate
+GTY US Equity,GETTY REALTY,800555968,,New York,,Real Estate
+PMC US Equity,PHARMERICA CORP,798350400,,New York,,Health Care
+USCR US Equity,US CONCRETE INC,797672576,,NASDAQ CM,,Materials
+VRNS US Equity,VARONIS SYSTEMS,797236736,,NASDAQ GS,,Information Technology
+AVXS US Equity,AVEXIS INC,796278784,,NASDAQ GS,,Health Care
+ARII US Equity,AMERICAN RAILCAR,796145344,,NASDAQ GS,,Industrials
+MTGE US Equity,AMERICAN CAPITAL,794131904,,NASDAQ GS,,Financials
+FSS US Equity,FED SIGNAL CORP,793517056,,New York,,Industrials
+GTT US Equity,GTT COMMUNICATIO,792619264,,New York,,Information Technology
+TCAP US Equity,TRIANGLE CAPITAL,792419456,,New York,,Financials
+NXEO US Equity,NEXEO SOLUTIONS,792295040,,NASDAQ CM,,Industrials
+BOBE US Equity,BOB EVANS FARMS,790864896,,NASDAQ GS,,Consumer Discretionary
+GSBD US Equity,GOLDMAN SACHS BD,786357760,,New York,,Financials
+CKEC US Equity,CARMIKE CINEMAS,782629760,,NASDAQ GS,,Consumer Discretionary
+VRTU US Equity,VIRTUSA CORP,782276160,,NASDAQ GS,,Information Technology
+IMKTA US Equity,INGLES MARKETS-A,782027328,,NASDAQ GS,,Consumer Staples
+MGRC US Equity,MCGRATH RENTCORP,781783744,,NASDAQ GS,,Industrials
+JMEI US Equity,JUMEI INTERNATIO,781562368,,New York,,Consumer Discretionary
+SHLM US Equity,SCHULMAN (A),780172928,,NASDAQ GS,,Materials
+CLDT US Equity,CHATHAM LODGING,778213632,,New York,,Real Estate
+SAH US Equity,SONIC AUTOMOTI-A,777612352,,New York,,Consumer Discretionary
+SGMS US Equity,SCIENTIFIC GAM-A,776334976,,NASDAQ GS,,Consumer Discretionary
+FOXF US Equity,FOX FACTORY HOLD,776187648,,NASDAQ GS,,Consumer Discretionary
+LNN US Equity,LINDSAY CORP,773766720,,New York,,Industrials
+ECHO US Equity,ECHO GLOBAL LOGI,773096128,,NASDAQ GS,,Industrials
+SAIA US Equity,SAIA INC,772858304,,NASDAQ GS,,Industrials
+WBAI US Equity,500.COM LTD-ADR,772698880,,New York,,Consumer Discretionary
+NFBK US Equity,NORTHFIELD BANCO,771556544,,NASDAQ GS,,Financials
+TOO US Equity,TEEKAY OFFSHORE,770825856,,New York,,Energy
+TIER US Equity,TIER REIT INC,770621312,,New York,,Real Estate
+STAR US Equity,ISTAR INC,770128896,,New York,,Financials
+RIGP US Equity,TRANSOCEAN PARTN,767898112,,New York,,Energy
+PACB US Equity,PACIFIC BIOSCIEN,760728192,,NASDAQ GS,,Health Care
+CRVL US Equity,CORVEL CORP,760643840,,NASDAQ GS,,Health Care
+VDSI US Equity,VASCO DATA INTL,758144960,,NASDAQ CM,,Information Technology
+CHCO US Equity,CITY HOLDING CO,757618688,,NASDAQ GS,,Financials
+SUP US Equity,SUPERIOR INDS,756634048,,New York,,Consumer Discretionary
+RPD US Equity,RAPID7 INC,755661568,,NASDAQ GM,,Information Technology
+CSIQ US Equity,CANADIAN SOLAR I,754731840,,NASDAQ GS,,Information Technology
+ITGR US Equity,INTEGER HOLDINGS,754321536,,New York,,Health Care
+SASR US Equity,SANDY SPRING BAN,753100992,,NASDAQ GS,,Financials
+RMAX US Equity,RE/MAX HOLDINGS,752941888,,New York,,Real Estate
+FORM US Equity,FORMFACTOR INC,752931968,,NASDAQ GS,,Information Technology
+TEDU US Equity,TARENA INTER-ADR,752755840,,NASDAQ GS,,Consumer Discretionary
+PPBI US Equity,PACIFIC PREMIER,751704576,,NASDAQ GS,,Financials
+ALG US Equity,ALAMO GROUP,749212352,,New York,,Industrials
+FORR US Equity,FORRESTER RESEAR,748406400,,NASDAQ GS,,Information Technology
+PTNR US Equity,PARTNER COMM-ADR,746297600,,NASDAQ GS,,Telecommunication Services
+LSCC US Equity,LATTICE SEMICOND,744990784,,NASDAQ GS,,Information Technology
+CCC US Equity,CALGON CARBON,744680640,,New York,,Materials
+EHIC US Equity,EHI CAR SERV-ADR,744633600,,New York,,Industrials
+BPMC US Equity,BLUEPRINT MEDICI,744246144,,NASDAQ GS,,Health Care
+AIMC US Equity,ALTRA INDUSTRIAL,743974720,,NASDAQ GS,,Industrials
+WK US Equity,WORKIVA INC,743162624,,New York,,Information Technology
+GOL US Equity,GOL-ADR,741014784,,New York,,Industrials
+KELYB US Equity,KELLY SERVICES-B,737012608,,NASDAQ GS,,Industrials
+KELYA US Equity,KELLY SERVICES-A,737012608,,NASDAQ GS,,Industrials
+OSG US Equity,OVERSEAS SHIP -A,736863680,,New York,,Energy
+TRK US Equity,SPEEDWAY MOTORSP,736040192,,New York,,Consumer Discretionary
+ORIT US Equity,ORITANI FINANCIA,735428800,,NASDAQ GS,,Financials
+NLS US Equity,NAUTILUS INC,735347456,,New York,,Consumer Discretionary
+FMI US Equity,FOUNDATION MEDIC,735222528,,NASDAQ GS,,Health Care
+CUBI US Equity,CUSTOMERS BANCOR,731432704,,New York,,Financials
+ESND US Equity,ESSENDANT INC,731029760,,NASDAQ GS,,Industrials
+PRFT US Equity,PERFICIENT INC,730742912,,NASDAQ GS,,Information Technology
+ATTO US Equity,ATENTO SA,730136192,,New York,,Industrials
+VVI US Equity,VIAD CORP,729855424,,New York,,Industrials
+QSII US Equity,QUALITY SYSTEMS,729466880,,NASDAQ GS,,Health Care
+NSA US Equity,NATIONAL STORAGE,729102976,,New York,,Real Estate
+SSNI US Equity,SILVER SPRING NE,727940800,,New York,,Information Technology
+PLOW US Equity,DOUGLAS DYNAMICS,727928064,,New York,,Industrials
+IRDM US Equity,IRIDIUM COMMUNIC,727726656,,NASDAQ GS,,Telecommunication Services
+NEWM US Equity,NEW MEDIA INVEST,725718976,,New York,,Consumer Discretionary
+AGX US Equity,ARGAN INC,724201792,,New York,,Industrials
+BZUN US Equity,BAOZUN INC-ADR,723326784,,NASDAQ GS,,Information Technology
+WASH US Equity,WASH TRUST BANC,722718464,,NASDAQ GS,,Financials
+SYBT US Equity,STOCK YARDS BANC,719756800,,NASDAQ GS,,Financials
+MRTN US Equity,MARTEN TRANSPORT,718778688,,NASDAQ GS,,Industrials
+MB US Equity,MINDBODY INC-A,715852416,,NASDAQ GM,,Information Technology
+MMLP US Equity,MARTIN MIDSTREAM,715830656,,NASDAQ GS,,Energy
+RATE US Equity,BANKRATE INC,714899072,,New York,,Information Technology
+ORBC US Equity,ORBCOMM INC,714836096,,NASDAQ GS,,Telecommunication Services
+ISLE US Equity,ISLE OF CAPRI,714542976,,NASDAQ GS,,Consumer Discretionary
+NTLA US Equity,INTELLIA THERAPE,713062400,,NASDAQ GM,,Health Care
+NWLI US Equity,NATIONAL WESTE-A,709052352,,NASDAQ GS,,Financials
+SEDG US Equity,SOLAREDGE TECHNO,708356800,,NASDAQ GS,,Information Technology
+INVN US Equity,INVENSENSE INC,708288832,,New York,,Information Technology
+ANIK US Equity,ANIKA THERAPEUTI,707702272,,NASDAQ GS,,Health Care
+ALDW US Equity,ALON USA PARTNER,707103680,,New York,,Energy
+MG US Equity,MISTRAS GROUP IN,705931200,,New York,,Industrials
+UBNK US Equity,UNITED FINANCIAL,704103680,,NASDAQ GS,,Financials
+PCCC US Equity,PC CONNECTION,702081536,,NASDAQ GS,,Information Technology
+VRTS US Equity,VIRTUS INVEST,702059840,,NASDAQ GS,,Financials
+TLND US Equity,TALEND SA - ADR,701534144,,NASDAQ GM,,Information Technology
+EVC US Equity,ENTRAVISION CO-A,701078784,,New York,,Consumer Discretionary
+NMBL US Equity,NIMBLE STORAGE I,700544000,,New York,,Information Technology
+GLOP US Equity,GASLOG PARTNERS,699244608,,New York,,Energy
+QDEL US Equity,QUIDEL CORP,699026432,,NASDAQ GS,,Health Care
+PNK US Equity,PINNACLE ENTERTA,697568832,,NASDAQ GS,,Consumer Discretionary
+ENT US Equity,GLOBAL EAGLE ENT,695877184,,NASDAQ CM,,Consumer Discretionary
+HRTX US Equity,HERON THERAPEUTI,691196096,,NASDAQ CM,,Health Care
+NVCR US Equity,NOVOCURE LTD,690486912,,NASDAQ GS,,Health Care
+ANIP US Equity,ANI PHARMACEUTIC,689907968,,NASDAQ GM,,Health Care
+CPLA US Equity,CAPELLA EDUCATIO,689774400,,NASDAQ GS,,Consumer Discretionary
+TLRD US Equity,TAILORED BRANDS,688829120,,New York,,Consumer Discretionary
+AIXG US Equity,AIXTRON SE-ADR,688823232,,NASDAQ GS,,Information Technology
+DEA US Equity,EASTERLY GOVERNM,688104512,,New York,,Real Estate
+TLP US Equity,TRANSMONTAIGNE P,687074560,,New York,,Energy
+FRGI US Equity,FIESTA RESTAURAN,686226560,,NASDAQ GS,,Consumer Discretionary
+PJC US Equity,PIPER JAFFRAY CO,685578496,,New York,,Financials
+TRST US Equity,TRUSTCO BANK NY,683537472,,NASDAQ GS,,Financials
+UAN US Equity,CVR PARTNERS LP,681963520,,New York,,Materials
+KOP US Equity,KOPPERS HOLDINGS,681735296,,New York,,Materials
+CIVI US Equity,CIVITAS SOLUTION,680987840,,New York,,Health Care
+DCOM US Equity,DIME COMM BNCSHS,680921536,,NASDAQ GS,,Financials
+INTL US Equity,INTL FCSTONE INC,678371712,,NASDAQ GS,,Financials
+ELNK US Equity,EARTHLINK HOLDIN,678330944,,NASDAQ GS,,Information Technology
+MGPI US Equity,MGP INGREDIENTS,677764608,,NASDAQ GS,,Consumer Staples
+GLBL US Equity,TERRAFORM GLOB-A,675712640,,NASDAQ GS,,Utilities
+PRSC US Equity,PROVIDENCE SERVI,675219584,,NASDAQ GS,,Health Care
+RRGB US Equity,RED ROBIN GOURME,674609792,,NASDAQ GS,,Consumer Discretionary
+KTWO US Equity,K2M GROUP HOLDIN,674322944,,NASDAQ GS,,Health Care
+VNDA US Equity,VANDA PHARMACEUT,673070208,,NASDAQ GM,,Health Care
+SBCF US Equity,SEACOAST BANK/FL,672856256,,NASDAQ GS,,Financials
+MN US Equity,MANNING & NAPIER,672536384,,New York,,Financials
+SPNS US Equity,SAPIENS INTL,672067648,,NASDAQ CM,,Information Technology
+INST US Equity,INSTRUCTURE INC,671663424,,New York,,Information Technology
+NX US Equity,QUANEX BUILDING,670675776,,New York,,Industrials
+RBCAA US Equity,REPUBLIC BNCRP-A,670088960,,NASDAQ GS,,Financials
+MTW US Equity,MANITOWOC CO,669998272,,New York,,Industrials
+UTEK US Equity,ULTRATECH INC,668731584,,NASDAQ GS,,Information Technology
+SXCP US Equity,SUNCOKE ENERGY P,668660416,,New York,,Materials
+VSI US Equity,VITAMIN SHOPPE,668425728,,New York,,Consumer Discretionary
+MDCA US Equity,MDC PARTNERS-A,667985280,,NASDAQ GS,,Consumer Discretionary
+INO US Equity,INOVIO PHARMACEU,667818944,,NASDAQ GS,,Health Care
+CEVA US Equity,CEVA INC,667590144,,NASDAQ GS,,Information Technology
+SBY US Equity,SILVER BAY REALT,667344832,,New York,,Real Estate
+ERI US Equity,ELDORADO RESORTS,667061760,,NASDAQ GS,,Consumer Discretionary
+FFIC US Equity,FLUSHING FINL,664250048,,NASDAQ GS,,Financials
+DKL US Equity,DELEK LOGISTICS,663101376,,New York,,Energy
+NYMT US Equity,NEW YORK MTGE,662894336,,NASDAQ GS,,Financials
+ATEN US Equity,A10 NETWORKS INC,662333440,,New York,,Information Technology
+GHL US Equity,GREENHILL & CO,662197312,,New York,,Financials
+RCII US Equity,RENT-A-CENTER,660766272,,NASDAQ GS,,Consumer Discretionary
+CMRE US Equity,COSTAMARE INC,659736000,,New York,,Industrials
+PLAB US Equity,PHOTRONICS INC,659366272,,NASDAQ GS,,Information Technology
+NK US Equity,NANTKWEST INC,659317248,,NASDAQ GS,,Health Care
+MCS US Equity,MARCUS CORP,658665920,,New York,,Consumer Discretionary
+TPIC US Equity,TPI COMPOSITES I,658543552,,NASDAQ GM,,Industrials
+KODK US Equity,EASTMAN KODAK CO,658215552,,New York,,Information Technology
+PLUS US Equity,EPLUS INC,658002624,,NASDAQ GS,,Information Technology
+AEGN US Equity,AEGION CORP,657760128,,NASDAQ GS,,Industrials
+AHT US Equity,ASHFORD HOSPITAL,655925760,,New York,,Real Estate
+NPTN US Equity,NEOPHOTONICS COR,655660800,,New York,,Information Technology
+WTW US Equity,WEIGHT WATCHERS,655226240,,New York,,Consumer Discretionary
+CERS US Equity,CERUS CORP,653231424,,NASDAQ GM,,Health Care
+LHCG US Equity,LHC GROUP INC,652250304,,NASDAQ GS,,Health Care
+WGO US Equity,WINNEBAGO INDS,652173568,,New York,,Consumer Discretionary
+CDR US Equity,CEDAR REALTY TRU,652003648,,New York,,Real Estate
+HMST US Equity,HOMESTREET INC,650945728,,NASDAQ GS,,Financials
+ZIOP US Equity,ZIOPHARM ONCOLOG,650758144,,NASDAQ CM,,Health Care
+GBT US Equity,GLOBAL BLOOD THE,650630464,,NASDAQ GS,,Health Care
+ARA US Equity,AMERICAN RENAL A,650389824,,New York,,Health Care
+DHIL US Equity,DIAMOND HILL,650260032,,NASDAQ GS,,Financials
+NATL US Equity,NATIONAL INTERST,648630080,,NASDAQ GS,,Financials
+PTXP US Equity,PENNTEX MIDSTREA,648168256,,NASDAQ GS,,Energy
+CTBI US Equity,COMMUNI TRUST BA,647295296,,NASDAQ GS,,Financials
+CASS US Equity,CASS INFORMATION,647213248,,NASDAQ GS,,Information Technology
+WLKP US Equity,WESTLAKE CHEMICA,646727552,,New York,,Materials
+BKCC US Equity,BLACKROCK CAPITA,640652928,,NASDAQ GS,,Financials
+IIIN US Equity,INSTEEL INDS,639140800,,NASDAQ GS,,Industrials
+FTD US Equity,FTD COS INC,638844672,,NASDAQ GS,,Consumer Discretionary
+TG US Equity,TREDEGAR CORP,637837312,,New York,,Materials
+CTS US Equity,CTS CORP,636506624,,New York,,Information Technology
+CHUBK US Equity,COMMERCEHUB-C,635753664,,NASDAQ GM,,Information Technology
+CHUBA US Equity,COMMERCEHUB-A,635753664,,NASDAQ GM,,Information Technology
+TRNC US Equity,TRONC INC,633232256,,NASDAQ GM,,Consumer Discretionary
+NRE US Equity,NORTHSTAR REALTY,632078912,,New York,,Real Estate
+ERII US Equity,ENERGY RECOVERY,631944064,,NASDAQ GS,,Industrials
+RUN US Equity,SUNRUN INC,630805056,,NASDAQ GS,,Industrials
+NBHC US Equity,NATIONAL-CL A,629689664,,New York,,Financials
+EPIQ US Equity,EPIQ SYSTEMS INC,628705216,,NASDAQ GS,,Information Technology
+AMRI US Equity,ALBANY MOLECULAR,628042176,,NASDAQ GS,,Health Care
+DSKY US Equity,IDREAMSKY TE-ADR,627016192,,NASDAQ GS,,Information Technology
+EVA US Equity,ENVIVA PARTNERS,626259264,,New York,,Energy
+CROX US Equity,CROCS INC,626094592,,NASDAQ GS,,Consumer Discretionary
+RENN US Equity,RENREN INC-ADR,626018368,,New York,,Information Technology
+EFSC US Equity,ENTERPRISE FINAN,625165312,,NASDAQ GS,,Financials
+NEO US Equity,NEOGENOMICS INC,623146432,,NASDAQ CM,,Health Care
+ASPS US Equity,ALTISOURCE PORT,622046400,,NASDAQ GS,,Real Estate
+CHGG US Equity,CHEGG INC,621723008,,New York,,Consumer Discretionary
+AIMT US Equity,AIMMUNE THERAPEU,621139200,,NASDAQ GS,,Health Care
+RMR US Equity,RMR GROUP-A,621091008,,NASDAQ CM,,Real Estate
+RPTP US Equity,RAPTOR PHARMACEU,621033408,,NASDAQ GM,,Health Care
+APPF US Equity,APPFOLIO INC - A,620773376,,NASDAQ GM,,Information Technology
+TCBK US Equity,TRICO BANCSHARES,619169664,,NASDAQ GS,,Financials
+UVSP US Equity,UNIVEST CORP/PA,619001152,,NASDAQ GS,,Financials
+THR US Equity,THERMON GROUP HO,616449216,,New York,,Industrials
+NPK US Equity,NATL PRESTO INDS,613429312,,New York,,Industrials
+PI US Equity,IMPINJ INC,613405888,,NASDAQ GS,,Information Technology
+AMCC US Equity,APPLIED MICRO CI,611222272,,NASDAQ GS,,Information Technology
+BRSS US Equity,GLOBAL BRASS & C,610847552,,New York,,Industrials
+ANGO US Equity,ANGIODYNAMICS IN,610075136,,NASDAQ GS,,Health Care
+AMRN US Equity,AMARIN CORP -ADR,609743168,,NASDAQ GM,,Health Care
+ANGI US Equity,ANGIE'S LIST INC,608378624,,NASDAQ GS,,Information Technology
+PRO US Equity,PROS HOLDINGS IN,607782208,,New York,,Information Technology
+LOXO US Equity,LOXO ONCOLOGY IN,607251264,,NASDAQ GM,,Health Care
+FLWS US Equity,1-800-FLOWERS-A,607211328,,NASDAQ GS,,Consumer Discretionary
+NR US Equity,NEWPARK RESOURCE,606850368,,New York,,Energy
+RESI US Equity,ALTISOURCE,606742144,,New York,,Financials
+VRA US Equity,VERA BRADLEY INC,606504768,,NASDAQ GS,,Consumer Discretionary
+LBAI US Equity,LAKELAND BANCORP,604854720,,NASDAQ GS,,Financials
+RGS US Equity,REGIS CORP,604626880,,New York,,Consumer Discretionary
+FPO US Equity,FIRST POTOMAC RE,603383808,,New York,,Real Estate
+DTSI US Equity,DTS INC,601497280,,NASDAQ GS,,Information Technology
+JBSS US Equity,SANFILIPPO (JOHN,600712960,,NASDAQ GS,,Consumer Staples
+CBZ US Equity,CBIZ INC,600180928,,New York,,Industrials
+CLNE US Equity,CLEAN ENERGY FUE,599529472,,NASDAQ GS,,Energy
+FELP US Equity,FORESIGHT ENERGY,598902080,,New York,,Energy
+MTRN US Equity,MATERION CORP,598818304,,New York,,Materials
+GPP US Equity,GREEN PLAINS PAR,598481664,,NASDAQ GM,,Energy
+FORTY US Equity,FORMULA SYS-ADR,597841280,,NASDAQ GS,,Information Technology
+RDWR US Equity,RADWARE LTD,595865472,,NASDAQ GS,,Information Technology
+KAI US Equity,KADANT INC,595861760,,New York,,Industrials
+ACET US Equity,ACETO CORP,592973312,,NASDAQ GS,,Health Care
+RTRX US Equity,RETROPHIN INC,591371200,,NASDAQ GM,,Health Care
+SODA US Equity,SODASTREAM INTER,591126336,,NASDAQ GS,,Consumer Discretionary
+SNOW US Equity,INTRAWEST RESORT,590038016,,New York,,Consumer Discretionary
+EDIT US Equity,EDITAS MEDICINE,589852864,,NASDAQ GS,,Health Care
+LE US Equity,LANDS' END INC,588699648,,NASDAQ CM,,Consumer Discretionary
+CORT US Equity,CORCEPT THERA,587255744,,NASDAQ CM,,Health Care
+PGTI US Equity,PGT INC,586372672,,NASDAQ GM,,Industrials
+EMCI US Equity,EMC INS GROUP,585826048,,NASDAQ GS,,Financials
+WVE US Equity,WAVE LIFE SCIENC,585588736,,NASDAQ GM,,Health Care
+MACK US Equity,MERRIMACK PHARMA,585460800,,NASDAQ GM,,Health Care
+NOVT US Equity,NOVANTA INC,585013760,,NASDAQ GS,,Information Technology
+GSBC US Equity,GREAT SOUTHN BAN,584973632,,NASDAQ GS,,Financials
+ITRN US Equity,ITURAN LOCATION,584082880,,NASDAQ GS,,Information Technology
+CINR US Equity,CINER RESOURCES,583901696,,New York,,Materials
+ALJ US Equity,ALON USA ENERGY,582717248,,New York,,Energy
+MYOK US Equity,MYOKARDIA INC,582560320,,NASDAQ GS,,Health Care
+FLML US Equity,FLAMEL TECH-ADR,582326528,,NASDAQ GM,,Health Care
+MSFG US Equity,MAINSOURCE FINAN,580965312,,NASDAQ GS,,Financials
+AVAV US Equity,AEROVIRONMENT IN,580711936,,NASDAQ GS,,Industrials
+BOJA US Equity,BOJANGLES' INC,579202496,,NASDAQ GS,,Consumer Discretionary
+JKS US Equity,JINKOSOLAR-ADR,578434816,,New York,,Information Technology
+SN US Equity,SANCHEZ ENERGY C,578295872,,New York,,Energy
+TTI US Equity,TETRA TECHNOLOGI,576629568,,New York,,Energy
+OME US Equity,OMEGA PROTEIN CP,573686464,,New York,,Consumer Staples
+MHO US Equity,M/I HOMES INC,573550336,,New York,,Consumer Discretionary
+AFI US Equity,ARMSTRONG FL,572530624,,New York,,Industrials
+PNNT US Equity,PENNANTPARK INVE,572039744,,NASDAQ GS,,Financials
+AEPI US Equity,AEP INDUSTRIES,569626304,,NASDAQ GS,,Materials
+EZPW US Equity,EZCORP INC-A,568960704,,NASDAQ GS,,Financials
+SP US Equity,SP PLUS CORP,568528000,,NASDAQ GS,,Industrials
+ATRA US Equity,ATARA BIOTHERAPE,567577088,,NASDAQ GS,,Health Care
+HEES US Equity,H&E EQUIPMENT SE,564910592,,NASDAQ GS,,Industrials
+ETM US Equity,ENTERCOM COMM-A,564781312,,New York,,Consumer Discretionary
+EFC US Equity,ELLINGTON FINANC,564479296,,New York,,Financials
+IL US Equity,INTRALINKS HOLDI,564114176,,New York,,Information Technology
+MERC US Equity,MERCER INTERNATI,562838976,,NASDAQ GS,,Materials
+CNOB US Equity,CONNECTONE BANCO,562274048,,NASDAQ GS,,Financials
+ECPG US Equity,ENCORE CAPITAL G,562100928,,NASDAQ GS,,Financials
+GABC US Equity,GERMAN AMER BNCP,562099136,,NASDAQ GS,,Financials
+CRD/A US Equity,CRAWFORD & CO-A,560497600,,New York,,Financials
+CRD/B US Equity,CRAWFORD & CO-B,560497600,,New York,,Financials
+SALE US Equity,RETAILMENOT INC,559293440,,NASDAQ GS,,Information Technology
+UTL US Equity,UNITIL CORP,558447680,,New York,,Utilities
+IQNT US Equity,INTELIQUENT INC,557316480,,NASDAQ GS,,Telecommunication Services
+REX US Equity,REX AMERICAN RES,556247296,,New York,,Energy
+RECN US Equity,RESOURCES CONNEC,556011328,,NASDAQ GS,,Industrials
+FARO US Equity,FARO TECH,555248320,,NASDAQ GS,,Information Technology
+HFWA US Equity,HERITAGE FINL,555068224,,NASDAQ GS,,Financials
+FRAN US Equity,FRANCESCAS HOLDI,554161856,,NASDAQ GS,,Consumer Discretionary
+CRY US Equity,CRYOLIFE INC,553605568,,New York,,Health Care
+COBZ US Equity,COBIZ FINANCIAL,551475328,,NASDAQ GS,,Financials
+CAMP US Equity,CALAMP CORP,551253504,,NASDAQ GS,,Information Technology
+GTS US Equity,TRIPLE-S MGMT-B,550206528,,New York,,Health Care
+MSEX US Equity,MIDDLESEX WATER,549301696,,NASDAQ GS,,Utilities
+SHOR US Equity,SHORETEL INC,549029504,,NASDAQ GS,,Information Technology
+FARM US Equity,FARMER BROS CO,548421440,,NASDAQ GS,,Consumer Staples
+RTEC US Equity,RUDOLPH TECHNOL,547643904,,New York,,Information Technology
+AERI US Equity,AERIE PHARMACEUT,546702272,,NASDAQ GM,,Health Care
+HMTV US Equity,HEMISPHERE MEDIA,546036160,,NASDAQ GM,,Consumer Discretionary
+KEN US Equity,KENON HOLDINGS L,544993856,,New York,,Utilities
+CGG US Equity,CGG - SPON ADR,543346688,,New York,,Energy
+KFRC US Equity,KFORCE INC,541796480,,NASDAQ GS,,Industrials
+MPAA US Equity,MOTORCAR PARTS,541400704,,NASDAQ GS,,Consumer Discretionary
+CENX US Equity,CENTURY ALUMINUM,540739392,,NASDAQ GS,,Materials
+BMTC US Equity,BRYN MAWR BANK,540513408,,NASDAQ GS,,Financials
+WLH US Equity,WILLIAM LYON-A,540463488,,New York,,Consumer Discretionary
+TK US Equity,TEEKAY CORP,539433984,,New York,,Energy
+STRA US Equity,STRAYER EDUCATIO,538743616,,NASDAQ GS,,Consumer Discretionary
+WPT US Equity,WORLD POINT TERM,537556864,,New York,,Energy
+DANG US Equity,E-COMMERCE C-ADR,537333312,,New York,,Consumer Discretionary
+MOD US Equity,MODINE MFG CO,536581408,,New York,,Consumer Discretionary
+SBR US Equity,SABINE ROYALTY,536519904,,New York,,Energy
+SRLP US Equity,SPRAGUE RESOURCE,535156416,,New York,,Energy
+IMOS US Equity,CHIPMOS TECH,534337056,,NASDAQ CM,,Information Technology
+AGEN US Equity,AGENUS INC,534175712,,NASDAQ CM,,Health Care
+NYNY US Equity,EMPIRE RESORTS I,530749760,,NASDAQ GM,,Consumer Discretionary
+RYAM US Equity,RAYONIER ADV,529109888,,New York,,Materials
+ZOES US Equity,ZOE'S KITCHEN IN,528876960,,New York,,Consumer Discretionary
+NTRA US Equity,NATERA INC,528692288,,NASDAQ GS,,Health Care
+GLP US Equity,GLOBAL PARTNERS,527951104,,New York,,Energy
+PZN US Equity,PZENA INVES-CL A,527707904,,New York,,Financials
+ATRC US Equity,ATRICURE INC,527594464,,NASDAQ GM,,Health Care
+MZOR US Equity,MAZOR ROBOTI-ADR,527573664,,NASDAQ GM,,Health Care
+BEAT US Equity,BIOTELEMETRY INC,527439712,,NASDAQ GS,,Health Care
+DLNG US Equity,DYNAGAS LNG PART,525961792,,New York,,Energy
+CASH US Equity,META FINANCIAL G,525087136,,NASDAQ GS,,Financials
+CSU US Equity,CAP SENIOR LIVIN,524970048,,New York,,Health Care
+LOCO US Equity,EL POLLO LOCO HO,524816288,,NASDAQ GS,,Consumer Discretionary
+UEPS US Equity,NET 1 UEPS TECH,524575680,,NASDAQ GS,,Information Technology
+RPXC US Equity,RPX CORP,523848128,,NASDAQ GS,,Industrials
+CIE US Equity,COBALT INTERNATI,521834848,,New York,,Energy
+ANW US Equity,AEGEAN MARINE PE,521660320,,New York,,Energy
+KNOP US Equity,KNOT OFFSHORE PA,521582720,,New York,,Energy
+BNED US Equity,BARNES & NOBLE E,521278944,,New York,,Consumer Discretionary
+CTWS US Equity,CONN WATER SVC,521120128,,NASDAQ GS,,Utilities
+RFP US Equity,RESOLUTE FOREST,520932960,,New York,,Materials
+OTIC US Equity,OTONOMY INC,519501056,,NASDAQ GS,,Health Care
+NANO US Equity,NANOMETRICS INC,519405216,,NASDAQ GS,,Information Technology
+SGU US Equity,STAR GAS PARTNER,519265504,,New York,,Utilities
+FOR US Equity,FORESTAR GROUP,518512832,,New York,,Real Estate
+MOV US Equity,MOVADO GROUP,517989472,,New York,,Consumer Discretionary
+PDFS US Equity,PDF SOLUTIONS,517129824,,NASDAQ GS,,Information Technology
+HZO US Equity,MARINEMAX INC,516566240,,New York,,Consumer Discretionary
+ATW US Equity,ATWOOD OCEANICS,516458816,,New York,,Energy
+BDGE US Equity,BRIDGE BANCORP,515734656,,NASDAQ GS,,Financials
+SCHN US Equity,SCHNITZER STEEL,515320800,,NASDAQ GS,,Materials
+EXTN US Equity,EXTERRAN CORP,514815360,,New York,,Energy
+XBKS US Equity,XENITH BANKSHARE,514614368,,NASDAQ GS,,Financials
+RUTH US Equity,RUTH'S HOSPITALI,514155744,,NASDAQ GS,,Consumer Discretionary
+SCVL US Equity,SHOE CARNIVAL,514002368,,NASDAQ GS,,Consumer Discretionary
+TOWR US Equity,TOWER INTERNATIO,513688256,,New York,,Consumer Discretionary
+FLIC US Equity,FIRST OF LONG IS,513507936,,NASDAQ CM,,Financials
+UIS US Equity,UNISYS CORP,512837920,,New York,,Information Technology
+FF US Equity,FUTUREFUEL CORP,511540096,,New York,,Materials
+OCFC US Equity,OCEANFIRST FINL,511110144,,NASDAQ GS,,Financials
+ITG US Equity,INVESTMENT TECH,510394816,,New York,,Financials
+XOXO US Equity,XO GROUP INC,509067072,,New York,,Information Technology
+SCMP US Equity,SUCAMPO PHA-CL A,508613728,,NASDAQ GM,,Health Care
+GBLI US Equity,GLOBAL INDEMNITY,508549344,,NASDAQ GS,,Financials
+LEJU US Equity,LEJU HOLDING-ADR,508524448,,New York,,Information Technology
+CSWI US Equity,CSW INDUSTRI INC,508507808,,NASDAQ GS,,Industrials
+ARRY US Equity,ARRAY BIOPHARMA,507578976,,NASDAQ GM,,Health Care
+NNBR US Equity,NN INC,506698144,,NASDAQ GS,,Industrials
+CHUY US Equity,CHUY'S HOLDINGS,506359712,,NASDAQ GS,,Consumer Discretionary
+WMIH US Equity,WMIH CORP,505632960,,NASDAQ CM,,Financials
+GNCMA US Equity,GEN COMM-A,504062432,,NASDAQ GS,,Telecommunication Services
+OCIP US Equity,OCI PARTNERS LP,502846080,,New York,,Materials
+TRC US Equity,TEJON RANCH CO,502376736,,New York,,Real Estate
+SCLN US Equity,SCICLONE PHARM,500392512,,NASDAQ GS,,Health Care
+TWI US Equity,TITAN INTL INC,499389760,,New York,,Industrials
+THFF US Equity,FIRST FIN COR/IN,499127776,,NASDAQ GS,,Financials
+CIA US Equity,CITIZENS INC,497312544,,New York,,Financials
+CISG US Equity,CNINSURE INC-ADR,496675584,,NASDAQ GS,,Financials
+INWK US Equity,INNERWORKINGS IN,496167968,,NASDAQ GS,,Industrials
+WCIC US Equity,WCI COMMUNITIES,495162624,,New York,,Consumer Discretionary
+TGH US Equity,TEXTAINER GROUP,494994176,,New York,,Industrials
+PDLI US Equity,PDL BIOPHARMA IN,494966848,,NASDAQ GS,,Health Care
+TAST US Equity,CARROLS RESTAURA,494175680,,NASDAQ GS,,Consumer Discretionary
+LRN US Equity,K12 INC,493906144,,New York,,Consumer Discretionary
+SRI US Equity,STONERIDGE INC,492819040,,New York,,Consumer Discretionary
+WSBF US Equity,WATERSTONE FINAN,492294816,,NASDAQ GS,,Financials
+HMLP US Equity,HOEGH LNG PARTNE,492036640,,New York,,Energy
+AVD US Equity,AMER VANGUARD,491589856,,New York,,Materials
+IMPR US Equity,IMPRIVATA INC,491322880,,New York,,Health Care
+AOSL US Equity,ALPHA & OMEGA SE,491300672,,NASDAQ GS,,Information Technology
+MTRX US Equity,MATRIX SERVICE,490361760,,NASDAQ GS,,Energy
+NEWS US Equity,NEWSTAR FINANCIA,488096832,,NASDAQ GS,,Financials
+ASND US Equity,ASCENDIS PHA-ADR,487487904,,NASDAQ GS,,Health Care
+SEMI US Equity,SUNEDISON SEMICO,487255424,,NASDAQ GS,,Information Technology
+OSUR US Equity,ORASURE TECH,484837056,,NASDAQ GS,,Health Care
+WINS US Equity,WINS FINANCE HOL,484567072,,NASDAQ CM,,Financials
+KBAL US Equity,KIMBALL INTL -B,483964096,,NASDAQ GS,,Industrials
+ARDX US Equity,ARDELYX INC,483372576,,NASDAQ GM,,Health Care
+ICON US Equity,ICONIX BRAND GRO,482127424,,NASDAQ GS,,Consumer Discretionary
+ARCB US Equity,ARCBEST CORP,481519360,,NASDAQ GS,,Industrials
+HONE US Equity,HARBORONE BANCOR,481170784,,NASDAQ GS,,Financials
+OFG US Equity,OFG BANCORP,478659552,,New York,,Financials
+UFI US Equity,UNIFI INC,478332224,,New York,,Consumer Discretionary
+UAM US Equity,UNIVERSAL AMERIC,477118016,,New York,,Health Care
+CAC US Equity,CAMDEN NATIONAL,476840352,,NASDAQ GS,,Financials
+APIC US Equity,APIGEE CORP,476454400,,NASDAQ GS,,Information Technology
+AHH US Equity,ARMADA HOFFLER P,476062944,,New York,,Real Estate
+AAC US Equity,AAC HOLDINGS INC,475210816,,New York,,Health Care
+HCKT US Equity,HACKETT GROUP,474916704,,NASDAQ GS,,Information Technology
+OMER US Equity,OMEROS CORP,474585952,,NASDAQ GM,,Health Care
+MYRG US Equity,MYR GROUP INC/DE,473902976,,NASDAQ GS,,Industrials
+CACB US Equity,CASCADE BANCORP,473468160,,NASDAQ CM,,Financials
+SQBG US Equity,SEQUENTIAL BRAND,473125024,,NASDAQ CM,,Consumer Discretionary
+NMIH US Equity,NMI HOLDINGS I-A,473024096,,NASDAQ GM,,Financials
+ANH US Equity,ANWORTH MORTGAGE,472020864,,New York,,Financials
+LION US Equity,FIDELITY SOUTHER,469428800,,NASDAQ GS,,Financials
+ADAP US Equity,ADAPTIMMUNE-ADR,468598784,,NASDAQ GS,,Health Care
+LOB US Equity,LIVE OAK BANCSHA,467605440,,NASDAQ GS,,Financials
+HWKN US Equity,HAWKINS INC,467021728,,NASDAQ GS,,Materials
+HAYN US Equity,HAYNES INTL INC,466669312,,NASDAQ GS,,Materials
+LBIO US Equity,LION BIOTECHNOLO,466449568,,NASDAQ GM,,Health Care
+BLCM US Equity,BELLICUM PHARMAC,466318528,,NASDAQ GM,,Health Care
+NRCIA US Equity,NATL RESEARCH-A,465581664,,NASDAQ GS,,Health Care
+NRCIB US Equity,NATL RESEAR-CL B,465581664,,NASDAQ GS,,Health Care
+LPSN US Equity,LIVEPERSON INC,465118400,,NASDAQ GS,,Information Technology
+HDP US Equity,HORTONWORKS INC,465038848,,NASDAQ GS,,Information Technology
+PFBC US Equity,PREFERRED BANK,464827200,,NASDAQ GS,,Financials
+FLXN US Equity,FLEXION THERAPEU,463179616,,NASDAQ GM,,Health Care
+EXAR US Equity,EXAR CORP,462531008,,New York,,Information Technology
+PKOH US Equity,PARK OHIO HLDGS,462458752,,NASDAQ GS,,Industrials
+OMN US Equity,OMNOVA SOLUTIONS,461408480,,New York,,Materials
+POWL US Equity,POWELL INDS INC,460183168,,NASDAQ GS,,Industrials
+VICR US Equity,VICOR CORP,458894464,,NASDAQ GS,,Industrials
+ADXS US Equity,ADVAXIS INC,456636384,,NASDAQ CM,,Health Care
+PSTB US Equity,PARK STERLING CO,455703968,,NASDAQ GS,,Financials
+CTT US Equity,CATCHMARK TIMB-A,454710208,,New York,,Real Estate
+XENT US Equity,INTERSECT ENT IN,454700064,,NASDAQ GM,,Health Care
+CECO US Equity,CAREER EDUCATION,454561984,,NASDAQ GS,,Consumer Discretionary
+DMLP US Equity,DORCHESTER MINER,454303136,,NASDAQ GS,,Energy
+RYI US Equity,RYERSON HOLDING,452616352,,New York,,Materials
+NC US Equity,NACCO INDS-CL A,452200128,,New York,,Consumer Discretionary
+VLGEA US Equity,VILLAGE SUPER -A,452092192,,NASDAQ GS,,Consumer Staples
+LDR US Equity,LANDAUER INC,451573696,,New York,,Health Care
+ONDK US Equity,ON DECK CAPITAL,450363264,,New York,,Financials
+WMC US Equity,WESTERN ASSET MO,450218656,,New York,,Financials
+NXRT US Equity,NEXPOINT RESI,448728832,,New York,,Real Estate
+WHG US Equity,WESTWOOD HOLDING,447077024,,New York,,Financials
+XIN US Equity,XINYUAN REAL-ADR,446911680,,New York,,Real Estate
+ACRS US Equity,ACLARIS THERAPEU,446725184,,NASDAQ GS,,Health Care
+MITT US Equity,AG MORTGAGE INVE,446360288,,New York,,Financials
+MTL US Equity,MECHEL-SPON ADR,445409696,,New York,,Materials
+BCOR US Equity,BLUCORA INC,445057120,,NASDAQ GS,,Information Technology
+AMID US Equity,AMERICAN MIDSTRE,444888192,,New York,,Energy
+XTLY US Equity,XACTLY CORP,443471584,,New York,,Information Technology
