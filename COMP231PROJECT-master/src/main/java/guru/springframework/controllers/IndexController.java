@@ -1,5 +1,6 @@
 package guru.springframework.controllers;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -7,14 +8,19 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 import org.json.JSONArray;
+import org.springframework.core.io.FileSystemResource;
+import org.springframework.core.io.Resource;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.thymeleaf.TemplateEngine;
 
@@ -88,6 +94,16 @@ public class IndexController {
 	        return "plot2";
 	    }
 	 
+//	 @GetMapping("/{file_name}")
+//	 @ResponseBody
+//	    public ResponseEntity<Resource>  data(@PathVariable("file_name") String fileName) {
+//		 Resource file = storageService.loadAsResource(filename);
+//	        return ResponseEntity
+//	                .ok()
+//	                .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\""+file.getFilename()+"\"")
+//	                .body(file);
+//	    }
+	 
 	 @PostMapping("/result")
 	    public String resultPost(Model model) {
 		 //model.addAttribute("supertests", results_);
@@ -99,6 +115,12 @@ public class IndexController {
 		 model.addAttribute("screener", new Screener());
 		 plot(model);
 	        return "plot";
+	    }
+	 
+	 @GetMapping("/quote")
+	    public String greeting(@RequestParam(value="symbol", defaultValue="GOOG") String symbol,Model model) {
+		 model.addAttribute("symbol",symbol );
+	        return "candlestick";
 	    }
 	
 	

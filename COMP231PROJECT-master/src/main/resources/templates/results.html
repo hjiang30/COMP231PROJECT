@@ -25,8 +25,9 @@
                                 </thead>
                                 <tbody>
 
-       					<tr th:each="prod : ${supertests}" >
-    					<td th:text="${prod.symbol}">Onions</td>
+       					<tr th:each="prod : ${supertests}"  >
+    					<td> <a th:href="${'/quote?symbol=' + prod.symbol}"
+					th:utext="${prod.symbol}"></a></td>
     					<td th:text="${prod.name}">Onions</td>
     
     					<td th:text="${prod.sharePrice}">2.41</td>
@@ -42,5 +43,11 @@
 </form>
                     </div>
 </div>
+
+<script>
+    function rowClicked(value) {
+        location.href = "/quote?symbol=" + value;
+    }
+</script>
 </body>
 </html>
