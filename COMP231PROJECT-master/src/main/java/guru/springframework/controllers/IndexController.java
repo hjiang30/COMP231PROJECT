@@ -48,8 +48,9 @@ public class IndexController {
 
 	@PostMapping("/login")
 	public String screener(Model model) {
+		results = new ArrayList<StockInfo>();
         model.addAttribute("screener", new Screener());
-        
+        model.addAttribute("results", results);
         return "index";
     }
 	@GetMapping("/test2")
@@ -62,39 +63,50 @@ public class IndexController {
 	@Value("${application.message:Hello World}")
 	private String message;
 
-	@GetMapping("/testwelcome")
-	public String welcome(Model model) {
-		model.addAttribute("time", new Date());
-		model.addAttribute("message", this.message);
-		model.addAttribute("screener", new Screener());
-		return "index";
-	}
+//	@GetMapping("/testwelcome")
+//	public String welcome(Model model) {
+//		model.addAttribute("time", new Date());
+//		model.addAttribute("message", this.message);
+//		model.addAttribute("screener", new Screener());
+//		return "index";
+//	}
 	
 
 	
 	 @GetMapping("/screener")
 	    public String greetingForm(Model model) {
+		    results = new ArrayList<StockInfo>();
 	        model.addAttribute("screener", new Screener());
 	        model.addAttribute("results", results);
 	        return "index";
 	    }
 	 
-	 @ModelAttribute("messages")
-	    public List<String> messages() {
-		 List<String> test = new ArrayList<String>();
-		 test.add("test");
-	        return test;
-	    }
+//	 @ModelAttribute("messages")
+//	    public List<String> messages() {
+//		 List<String> test = new ArrayList<String>();
+//		 test.add("test");
+//	        return test;
+//	    }
 	
 	
 	@PostMapping("/screener")
     public String greetingSubmit(Model model,@ModelAttribute Screener screener) {
 //		System.out.println(screener.getExchange());
 //		System.out.println(screener.getSector());
-//		System.out.println("called.");
+		System.out.println(" @PostMapping(\"/screener\") called.");
 		results = new ArrayList<StockInfo>();
+		
+		System.out.println("dataset size:");
+		System.out.println(dataset.size());
+		
+		
+		dataset = CSVReaderForInfo.readStockInfo("data/");
+		
 		results = filterDataSet(screener);
-		//System.out.println(results.size());
+		
+		System.out.println("result size:");
+		System.out.println(results.size());
+		
 		return result(model);
         //return "results";
     }
@@ -126,20 +138,22 @@ public class IndexController {
 	 @PostMapping("/result")
 	    public String resultPost(Model model) {
 		 //model.addAttribute("supertests", results_);
-		 System.out.println("button clicked");
-		 System.out.println(results.size());
+		 //System.out.println("button clicked");
+		 //System.out.println(results.size());
 		 //results = new ArrayList<StockInfo>();
 		 //TemplateEngine templateEngine = GTVGApplication.getTemplateEngine();
 		 //model.addAttribute("results2", results);
 		 model.addAttribute("screener", new Screener());
-		 plot(model);
-	        return "plot";
+		 results = new ArrayList<StockInfo>();
+	     model.addAttribute("results", results);
+	     return "index";
 	    }
 	 
 	 @GetMapping("/quote")
 	    public String greeting(@RequestParam(value="symbol", defaultValue="GOOG") String symbol,Model model) {
 		 model.addAttribute("symbol",symbol );
-	        return "candlestick";
+		 //String html = symbol+"_candlestick_test2"
+	        return symbol;
 	    }
 	
 	

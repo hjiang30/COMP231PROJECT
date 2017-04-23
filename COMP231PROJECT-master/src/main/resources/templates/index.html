@@ -24,8 +24,13 @@
        
         <h1>Hello</h1>
  
-        <h2>Fellow Spring Framework Gurus!!!</h2>
+        <h2>Welcome to the Stocks Screener!</h2>
     </div>
+<div class="fixed-action-btn smooth-scroll" style="bottom: 45px; right: 24px;">
+    <a href="/" class="btn-floating btn-large red">
+        <i class="fa fa-arrow-up">Quit</i>
+    </a>
+</div>
       <form action="#" th:action="@{/screener}" th:object="${screener}" method="post">
      <div class="row">
          <div class="col-lg-6">
@@ -228,6 +233,8 @@
 
 <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
     </form>
+
  </div>
+
 </body>
 </html>
