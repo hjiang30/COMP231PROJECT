@@ -2,12 +2,14 @@ package guru.springframework.controllers;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
 import org.json.JSONArray;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.FileSystemResource;
 import org.springframework.core.io.Resource;
 import org.springframework.http.ResponseEntity;
@@ -50,6 +52,23 @@ public class IndexController {
         
         return "index";
     }
+	@GetMapping("/test2")
+	public String test(Model model) {
+        //model.addAttribute("screener", new Screener());
+        
+        return "test";
+    }
+	
+	@Value("${application.message:Hello World}")
+	private String message;
+
+	@GetMapping("/testwelcome")
+	public String welcome(Model model) {
+		model.addAttribute("time", new Date());
+		model.addAttribute("message", this.message);
+		model.addAttribute("screener", new Screener());
+		return "index";
+	}
 	
 
 	
